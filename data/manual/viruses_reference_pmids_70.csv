@@ -1,0 +1,71 @@
+ref_number,pmid,section,rationale
+1,32319693,HBV_HCC_background,HCC epidemiology background
+2,29877316,HBV_HCC_background,HBV infection overview and chronic disease background
+3,25934461,HBV_HCC_background,HBV epidemiology overview
+4,28427875,HBV_HCC_background,clinical guideline context for chronic HBV
+5,33305479,HBV_HCC_background,systematic review of HBV-related HCC risk factors
+6,29722445,HBV_HCC_background,prevention of HBV-related HCC
+7,23981576,HBV_HCC_background,HBV-induced hepatocarcinogenesis review
+8,34397330,HBV_genotype_mutation_HCC,HBV mutations and liver disease/HCC risk
+9,19574418,HBV_genotype_mutation_HCC,meta-analysis of HBV mutations and HCC risk
+10,15361502,HBV_genotype_mutation_HCC,genotype C and increased HCC risk
+11,14688459,HBV_genotype_mutation_HCC,HBV genotypes and HCC in Taiwan
+12,23071796,HBV_genotype_mutation_HCC,genotype C precore/core mutations related to HCC
+13,35646275,HBV_genotype_mutation_HCC,review of precore/core promoter mutations and disease severity
+14,26568165,host_viral_interaction,HLA polymorphism and HBV genotype/mutation interactions in HCC
+15,30073017,host_viral_interaction,review of host and viral variation in HBV-related HCC
+16,40728240,host_viral_interaction,HLA genotypes affecting HCC-associated HBV mutations
+17,40084945,HLA_DQ_HBV_HCC,motivating DQB1*03:01 and HBV-related HCC study
+18,25281206,HLA_DQ_HBV_HCC,HLA-DQ polymorphism and HBV mutation interaction in persistence/cirrhosis/HCC
+19,21750111,HLA_DQ_HBV_persistence,GWAS chronic HBV locus in Japanese population
+20,24162738,HLA_DQ_HBV_persistence,new loci associated with chronic HBV in Han Chinese
+21,23760081,HLA_DQ_HBV_persistence,GWAS variants associated with chronic HBV risk
+22,22105689,HLA_DQ_HBV_persistence,HLA-DP/DQ variants influencing HBV clearance and HCC development
+23,27291710,HLA_DQ_HBV_persistence,HLA-DP/DQ polymorphisms with chronic hepatitis B
+24,27580643,HLA_DQ_HBV_HCC,HLA-DQ polymorphisms associated with HCC and HBsAg in chronic HBV
+25,27209411,HLA_DQ_HBV_HCC,HLA-DQ polymorphism and HBV-related HCC susceptibility
+26,25913043,HLA_DQ_HBV_HCC,replication of STAT4 and HLA-DQ HCC susceptibility loci
+27,17845309,HLA_DQ_HBV_HCC,DQA1/DQB1 alleles with chronic HBV cirrhosis and HCC
+28,30563535,HLA_DQB1_HBV,roles of HLA-DQB1 polymorphisms in HBV infection
+29,24465366,HLA_HBV,HLA variation and chronic HBV infection
+30,26197724,HLA_DQ_HBV,fine mapping HLA-DP/DQ clusters for HBV susceptibility
+31,30160782,HLA_DQ_HBV_HCC,HLA-DQA1/DRB1 and HCC during entecavir treatment
+32,1711541,HBV_core_CD4,immunodominant T-cell epitopes of HBV nucleocapsid
+33,7538172,HBV_core_CD4,core/e antigen-specific CD4 T cells during seroconversion
+34,7557849,HBV_core_CD4,T-helper response to HBV core antigen in chronic hepatitis B
+35,9717974,HBV_core_CD4,HLA-DR13-associated viral clearance and CD4 response
+36,10029624,HBV_core_processing,differential antigen processing of HBV e and core proteins
+37,12466479,HBV_core_CD4,HLA-DR13 restricted HBV core CD4 epitopes
+38,14748060,HBV_core_CD4_mutation,core epitope mutations altering CD4 T-cell reactivity
+39,7545853,HBV_core_MHCII,core antigen mutations in hepatomas within MHC-II restricted epitopes
+40,18505168,HBV_epitope_review,systematic review of HBV T-cell epitopes and genotypic variation
+41,26684441,HBV_Tcell_dysfunction,HBV-specific and global T-cell dysfunction in chronic HBV
+42,17868872,HBV_PD1,PD-1 upregulation and HBV-specific T-cell dysfunction
+43,20487259,HBV_PD1,PD-1/PD-L1 pathway and T-cell exhaustion in chronic hepatitis
+44,25789969,HBV_Tcell_exhaustion,T-cell exhaustion in chronic HBV review
+45,31390978,HBV_CD4_exhaustion,CD4 T-cell exhaustion with high PD-1/LAG-3 in chronic HBV
+46,36963665,HBV_core_CD4_control,HBV core-specific CD4 T cells and sustained viral control
+47,34270940,HBV_Tcell_HCC,tumor-resident HBV-specific T-cell responses in HBV-associated HCC
+48,38055623,HBV_PD1_therapy,HBV-specific T-cell IL-2 as biomarker of viral control and PD-1 response
+49,32640609,HBV_HLAII_prediction,in silico HLA-II HBV peptide prediction
+50,36582233,HBV_HLAI_proteogenomics,proteogenomic identification of HBV HLA-I peptides
+51,38749427,host_pathogen_genomics,host-pathogen genomic analysis of HBV mutations and HLA class I
+52,39558162,IEDB,IEDB 2024 update
+53,30357391,IEDB,IEDB 2018 update
+54,31114900,IEDB_AR,IEDB analysis resource 2019
+55,22610854,IEDB_AR,immune epitope database analysis resource
+56,21047510,IEDB_Tcell_tools,T-cell epitope queries and tools in IEDB
+57,32406916,NetMHCIIpan,NetMHCIIpan 4.0 and NetMHCpan 4.1
+58,23900783,NetMHCIIpan,NetMHCIIpan 3.0 including HLA-DR DP DQ
+59,21073747,NetMHCIIpan,NetMHCIIpan 2.0 method development
+60,18604266,NetMHCIIpan,original NetMHCIIpan HLA-DR prediction work
+61,38646540,MHCII_prediction,assessment of MHC-II peptide presentation prediction methods
+62,38000035,MHCII_prediction,HLA-II antigen presentation prediction across loci
+63,29315598,MHCII_prediction,improved MHC-II binding prediction methods
+64,21092157,MHCII_prediction,peptide binding predictions for HLA-DR DP DQ molecules
+65,37301199,HLAII_immunopeptidomics,HLA-II immunopeptidome profiling and antigenicity learning
+66,39558184,GenBank,GenBank 2025 update
+67,37889039,GenBank,GenBank 2024 update
+68,22080546,INSDC,International Nucleotide Sequence Database Collaboration
+69,25034481,HBV_genotype,HBV genotypes and genetic variability
+70,30406036,HBV_core_mutations,precore/core mutations and severe liver disease progression

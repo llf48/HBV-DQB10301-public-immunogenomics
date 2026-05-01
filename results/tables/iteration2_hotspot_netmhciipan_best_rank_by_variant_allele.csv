@@ -1,0 +1,55 @@
+variant_id,mutation_spec,state,protein,reference_accession,evidence_tier,evidence_role,allele,allele_group,method,best_rank,strong_2pct,binder_10pct,best_peptide,best_window_start,best_core_peptide
+PRES_S166L,S166L,MUT,large_S,PQ046054,moderate,HLA-stratified HCC-associated mutation from Sugiyama 2025,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,1.6,True,True,NPVPTTASPISSIFL,152,PTTASPISS
+PRES_S166L,S166L,WT,large_S,PQ046054,moderate,HLA-stratified HCC-associated mutation from Sugiyama 2025,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,1.8,True,True,NPVPTTASPISSIFS,152,PTTASPISS
+HBX_H94Y,H94Y,MUT,HBx,LC852227,high,HCC-associated hotspot from C1653T,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,11.0,False,False,YKRTLGLSAMSTTDL,94,TLGLSAMST
+HBX_H94Y_K130M_V131I,H94Y;K130M;V131I,MUT,HBx,LC852227,high,HCC-associated combined mutation,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,11.0,False,False,YKRTLGLSAMSTTDL,94,TLGLSAMST
+HBX_H94Y,H94Y,WT,HBx,LC852227,high,HCC-associated hotspot from C1653T,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,13.0,False,False,HKRTLGLSAMSTTDL,94,TLGLSAMST
+HBX_H94Y_K130M_V131I,H94Y;K130M;V131I,WT,HBx,LC852227,high,HCC-associated combined mutation,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,13.0,False,False,HKRTLGLSAMSTTDL,94,TLGLSAMST
+HBX_K130M_V131I,K130M;V131I,WT,HBx,LC852227,high,HCC-associated A1762T/G1764A double mutation,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,34.0,False,False,RLKVFVLGGCRHKLV,128,FVLGGCRHK
+HBX_V5M_K130M_V131I,V5M;K130M;V131I,WT,HBx,LC852227,moderate,HCC-associated HBx triple mutation,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,34.0,False,False,RLKVFVLGGCRHKLV,128,FVLGGCRHK
+HBX_K130M_V131I,K130M;V131I,MUT,HBx,LC852227,high,HCC-associated A1762T/G1764A double mutation,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,34.0,False,False,RLMIFVLGGCRHKLV,128,FVLGGCRHK
+HBX_V5M_K130M_V131I,V5M;K130M;V131I,MUT,HBx,LC852227,moderate,HCC-associated HBx triple mutation,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,34.0,False,False,RLMIFVLGGCRHKLV,128,FVLGGCRHK
+HBX_I127N,I127N,MUT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,40.0,False,False,NRLKVFVLGGCRHKL,127,FVLGGCRHK
+HBX_I127S,I127S,MUT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,41.0,False,False,SRLKVFVLGGCRHKL,127,FVLGGCRHK
+HBX_I127T,I127T,MUT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,41.0,False,False,TRLKVFVLGGCRHKL,127,FVLGGCRHK
+HBX_I127T,I127T,WT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,41.0,False,False,IRLKVFVLGGCRHKL,127,FVLGGCRHK
+HBX_I127N,I127N,WT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,41.0,False,False,IRLKVFVLGGCRHKL,127,FVLGGCRHK
+HBX_I127S,I127S,WT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,41.0,False,False,IRLKVFVLGGCRHKL,127,FVLGGCRHK
+HBX_V5M,V5M,WT,HBx,LC852227,moderate,HCC-associated HBx mutation reported with genotype C2 risk signal,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,76.0,False,False,MAARVCCQLDPARDV,1,RVCCQLDPA
+HBX_V5M,V5M,MUT,HBx,LC852227,moderate,HCC-associated HBx mutation reported with genotype C2 risk signal,HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,netmhciipan,77.0,False,False,MAARMCCQLDPARDV,1,RMCCQLDPA
+PRES_S166L,S166L,WT,large_S,PQ046054,moderate,HLA-stratified HCC-associated mutation from Sugiyama 2025,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,3.0,False,True,NPVPTTASPISSIFS,152,PTTASPISS
+PRES_S166L,S166L,MUT,large_S,PQ046054,moderate,HLA-stratified HCC-associated mutation from Sugiyama 2025,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,3.0,False,True,NPVPTTASPISSIFL,152,PTTASPISS
+HBX_H94Y,H94Y,MUT,HBx,LC852227,high,HCC-associated hotspot from C1653T,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,14.0,False,False,YKRTLGLSAMSTTDL,94,TLGLSAMST
+HBX_H94Y_K130M_V131I,H94Y;K130M;V131I,MUT,HBx,LC852227,high,HCC-associated combined mutation,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,14.0,False,False,YKRTLGLSAMSTTDL,94,TLGLSAMST
+HBX_H94Y,H94Y,WT,HBx,LC852227,high,HCC-associated hotspot from C1653T,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,16.0,False,False,HKRTLGLSAMSTTDL,94,TLGLSAMST
+HBX_H94Y_K130M_V131I,H94Y;K130M;V131I,WT,HBx,LC852227,high,HCC-associated combined mutation,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,16.0,False,False,HKRTLGLSAMSTTDL,94,TLGLSAMST
+HBX_K130M_V131I,K130M;V131I,MUT,HBx,LC852227,high,HCC-associated A1762T/G1764A double mutation,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,32.0,False,False,RLMIFVLGGCRHKLV,128,FVLGGCRHK
+HBX_V5M_K130M_V131I,V5M;K130M;V131I,MUT,HBx,LC852227,moderate,HCC-associated HBx triple mutation,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,32.0,False,False,RLMIFVLGGCRHKLV,128,FVLGGCRHK
+HBX_K130M_V131I,K130M;V131I,WT,HBx,LC852227,high,HCC-associated A1762T/G1764A double mutation,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,32.0,False,False,RLKVFVLGGCRHKLV,128,FVLGGCRHK
+HBX_V5M_K130M_V131I,V5M;K130M;V131I,WT,HBx,LC852227,moderate,HCC-associated HBx triple mutation,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,32.0,False,False,RLKVFVLGGCRHKLV,128,FVLGGCRHK
+HBX_I127T,I127T,WT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,37.0,False,False,IRLKVFVLGGCRHKL,127,FVLGGCRHK
+HBX_I127N,I127N,WT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,37.0,False,False,IRLKVFVLGGCRHKL,127,FVLGGCRHK
+HBX_I127S,I127S,WT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,37.0,False,False,IRLKVFVLGGCRHKL,127,FVLGGCRHK
+HBX_I127T,I127T,MUT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,37.0,False,False,TRLKVFVLGGCRHKL,127,FVLGGCRHK
+HBX_I127S,I127S,MUT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,37.0,False,False,SRLKVFVLGGCRHKL,127,FVLGGCRHK
+HBX_I127N,I127N,MUT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,38.0,False,False,NRLKVFVLGGCRHKL,127,FVLGGCRHK
+HBX_V5M,V5M,WT,HBx,LC852227,moderate,HCC-associated HBx mutation reported with genotype C2 risk signal,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,79.0,False,False,MAARVCCQLDPARDV,1,RVCCQLDPA
+HBX_V5M,V5M,MUT,HBx,LC852227,moderate,HCC-associated HBx mutation reported with genotype C2 risk signal,HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,netmhciipan,80.0,False,False,MCCQLDPARDVLCLR,5,LDPARDVLC
+HBX_K130M_V131I,K130M;V131I,MUT,HBx,LC852227,high,HCC-associated A1762T/G1764A double mutation,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,19.0,False,False,KDWEELGEEIRLMIF,118,ELGEEIRLM
+HBX_V5M_K130M_V131I,V5M;K130M;V131I,MUT,HBx,LC852227,moderate,HCC-associated HBx triple mutation,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,19.0,False,False,KDWEELGEEIRLMIF,118,ELGEEIRLM
+HBX_H94Y_K130M_V131I,H94Y;K130M;V131I,MUT,HBx,LC852227,high,HCC-associated combined mutation,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,19.0,False,False,KDWEELGEEIRLMIF,118,ELGEEIRLM
+HBX_H94Y,H94Y,MUT,HBx,LC852227,high,HCC-associated hotspot from C1653T,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,26.0,False,False,YKRTLGLSAMSTTDL,94,GLSAMSTTD
+HBX_H94Y,H94Y,WT,HBx,LC852227,high,HCC-associated hotspot from C1653T,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,29.0,False,False,HKRTLGLSAMSTTDL,94,GLSAMSTTD
+HBX_H94Y_K130M_V131I,H94Y;K130M;V131I,WT,HBx,LC852227,high,HCC-associated combined mutation,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,29.0,False,False,HKRTLGLSAMSTTDL,94,GLSAMSTTD
+PRES_S166L,S166L,MUT,large_S,PQ046054,moderate,HLA-stratified HCC-associated mutation from Sugiyama 2025,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,33.0,False,False,NPVPTTASPISSIFL,152,PTTASPISS
+PRES_S166L,S166L,WT,large_S,PQ046054,moderate,HLA-stratified HCC-associated mutation from Sugiyama 2025,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,36.0,False,False,NPVPTTASPISSIFS,152,PTTASPISS
+HBX_I127T,I127T,WT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,38.0,False,False,DCLFKDWEELGEEIR,114,WEELGEEIR
+HBX_I127N,I127N,WT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,38.0,False,False,DCLFKDWEELGEEIR,114,WEELGEEIR
+HBX_I127S,I127S,WT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,38.0,False,False,DCLFKDWEELGEEIR,114,WEELGEEIR
+HBX_K130M_V131I,K130M;V131I,WT,HBx,LC852227,high,HCC-associated A1762T/G1764A double mutation,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,41.0,False,False,LFKDWEELGEEIRLK,116,WEELGEEIR
+HBX_V5M_K130M_V131I,V5M;K130M;V131I,WT,HBx,LC852227,moderate,HCC-associated HBx triple mutation,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,41.0,False,False,LFKDWEELGEEIRLK,116,WEELGEEIR
+HBX_I127S,I127S,MUT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,44.0,False,False,DCLFKDWEELGEESR,114,WEELGEESR
+HBX_I127T,I127T,MUT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,46.0,False,False,DCLFKDWEELGEETR,114,WEELGEETR
+HBX_I127N,I127N,MUT,HBx,LC852227,high,HCC-associated T1753V coding consequence,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,47.0,False,False,KDCLFKDWEELGEEN,113,FKDWEELGE
+HBX_V5M,V5M,WT,HBx,LC852227,moderate,HCC-associated HBx mutation reported with genotype C2 risk signal,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,51.0,False,False,MAARVCCQLDPARDV,1,RVCCQLDPA
+HBX_V5M,V5M,MUT,HBx,LC852227,moderate,HCC-associated HBx mutation reported with genotype C2 risk signal,HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,netmhciipan,61.0,False,False,MAARMCCQLDPARDV,1,RMCCQLDPA

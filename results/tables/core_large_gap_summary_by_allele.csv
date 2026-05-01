@@ -1,0 +1,4 @@
+allele,allele_group,unique_total,unique_strong,unique_weak,unique_binder_10,unique_binder_10_rate,occurrence_total,occurrence_strong,occurrence_weak,occurrence_binder_10,occurrence_binder_10_rate
+HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,5670,113,398,511,0.09012345679012346,77579,2653,5424,8077,0.1041132265174854
+HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,5670,16,44,60,0.010582010582010581,77579,16,177,193,0.0024877866432926436
+HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,5670,17,50,67,0.01181657848324515,77579,17,621,638,0.008223875017723868

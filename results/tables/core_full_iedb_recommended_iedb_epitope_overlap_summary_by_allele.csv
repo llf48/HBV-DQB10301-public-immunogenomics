@@ -1,0 +1,4 @@
+allele,total_predicted_peptides,binder_10,binder_10_rate,overlap_core_tcell_any_mhc,overlap_core_tcell_any_mhc_rate,overlap_core_tcell_mhc_ii,overlap_core_tcell_mhc_ii_rate,binder_overlap_core_tcell_any_mhc,binder_overlap_core_tcell_any_mhc_rate_among_binders,binder_overlap_core_tcell_mhc_ii,binder_overlap_core_tcell_mhc_ii_rate_among_binders
+HLA-DQA1*03:01/DQB1*03:02,11176,390,0.03489620615604867,2171,0.1942555476020043,207,0.01852183249821045,122,0.3128205128205128,6,0.015384615384615385
+HLA-DQA1*05:08/DQB1*03:01,11176,225,0.02013242662848962,2171,0.1942555476020043,207,0.01852183249821045,9,0.04,1,0.0044444444444444444
+HLA-DQA1*06:01/DQB1*03:01,11176,209,0.018700787401574805,2171,0.1942555476020043,207,0.01852183249821045,13,0.06220095693779904,2,0.009569377990430622

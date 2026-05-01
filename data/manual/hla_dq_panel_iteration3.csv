@@ -1,0 +1,8 @@
+allele,allele_group,notes
+HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,Zhang 2026 risk haplotype
+HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,Zhang 2026 risk haplotype
+HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,Zhang 2026 inverse/protective comparison haplotype
+HLA-DQA1*01:02/DQB1*06:02,expanded_control_DQ,Common East Asian DQ haplotype and reported protective class-II context in HBV-HCC literature
+HLA-DQA1*01:01/DQB1*05:01,expanded_control_DQ,Common DQ haplotype for allele-specificity comparison
+HLA-DQA1*03:03/DQB1*04:01,expanded_control_DQ,East Asian class-II comparison haplotype
+HLA-DQA1*05:01/DQB1*02:01,expanded_control_DQ,Common DQ2 comparison haplotype

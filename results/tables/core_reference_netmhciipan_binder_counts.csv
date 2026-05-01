@@ -1,0 +1,4 @@
+allele,allele_group,total,strong,weak,binder_10,binder_10_rate
+HLA-DQA1*06:01/DQB1*03:01,risk_DQB1_0301,169,0,0,0,0.0
+HLA-DQA1*05:08/DQB1*03:01,risk_DQB1_0301,169,0,0,0,0.0
+HLA-DQA1*03:01/DQB1*03:02,control_DQB1_0302,169,8,13,21,0.1242603550295858

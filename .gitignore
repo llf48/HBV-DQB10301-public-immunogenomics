@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.build/
+.tmp/
+.paper-team/
+.planning/
+logs/
+data/raw/
+results/tables/*predictions.csv
+submission/qa_*/
+submission/qa_full_*/
+submission_viruses/qa_*/
+submission_viruses/qa_full_*/
+*.zip

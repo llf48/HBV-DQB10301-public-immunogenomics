@@ -1,0 +1,29 @@
+{
+  "title": "Public HBV genotype B/C core diversity reveals an HLA-DQB1*03:01-associated class-II presentation gap",
+  "upload_type": "software",
+  "description": "Reproducible public-data immunogenomics workflow for HBV genotype B/C core 15-mer HLA-DQ MHC-II binding prediction, robustness analysis, IEDB epitope overlap, and Viruses-ready submission materials.",
+  "creators": [
+    {
+      "name": "Liu, Linfeng",
+      "affiliation": "The First School of Clinical Medicine, Southern Medical University",
+      "orcid": "0009-0009-2719-4427"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "HBV",
+    "HLA-DQB1*03:01",
+    "HLA-DQ",
+    "MHC class II",
+    "IEDB",
+    "immunogenomics"
+  ],
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/[username]/hbv-dq3-public-immunogenomics",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

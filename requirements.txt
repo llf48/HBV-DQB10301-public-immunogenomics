@@ -1,0 +1,9 @@
+biopython>=1.83
+matplotlib>=3.8
+numpy>=1.26
+pandas>=2.2
+Pillow>=10.0
+scipy>=1.11
+pubfig>=0.3.0
+pubtab
+python-docx>=1.1

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite the archived repository."
+title: "Public HBV genotype B/C core diversity reveals an HLA-DQB1*03:01-associated class-II presentation gap"
+authors:
+  - family-names: "Liu"
+    given-names: "Linfeng"
+    orcid: "https://orcid.org/0009-0009-2719-4427"
+date-released: "2026-05-01"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/[username]/hbv-dq3-public-immunogenomics"
+doi: "10.5281/zenodo.[placeholder]"
+keywords:
+  - hepatitis B virus
+  - HLA-DQ
+  - HLA-DQB1*03:01
+  - MHC class II
+  - immunogenomics

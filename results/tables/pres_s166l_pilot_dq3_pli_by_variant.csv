@@ -1,0 +1,2 @@
+variant_id,risk_loss_rate,control_loss_rate,dq3_pli,risk_delta_rank_mean,control_delta_rank,allele_detail
+PRES_S166L_PQ046054_S166L,0.0,0.0,0.0,-1.95,1.0,HLA-DQA1*06:01/DQB1*03:01 WT=3.50 MUT=2.20 loss=False; HLA-DQA1*05:08/DQB1*03:01 WT=4.70 MUT=2.10 loss=False; HLA-DQA1*03:01/DQB1*03:02 WT=15.00 MUT=16.00 loss=False

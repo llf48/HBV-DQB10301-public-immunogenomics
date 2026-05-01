@@ -1,0 +1,16 @@
+name: hbv-dq3-pli-public-immunogenomics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - biopython>=1.83
+  - matplotlib>=3.8
+  - numpy>=1.26
+  - pandas>=2.2
+  - pillow>=10.0
+  - scipy>=1.11
+  - python-docx>=1.1
+  - pip
+  - pip:
+      - pubfig>=0.3.0
+      - pubtab

@@ -1,0 +1,1503 @@
+seq_num,peptide_id,protein,product,window_start,window_end,peptide,source_accessions,query_genotypes,countries,source_count
+1,REF|polymerase|start1|MPLSYQHFRRLLLLD,polymerase,polymerase,1,15,MPLSYQHFRRLLLLD,NC_003977.2,reference,,1
+2,REF|polymerase|start2|PLSYQHFRRLLLLDD,polymerase,polymerase,2,16,PLSYQHFRRLLLLDD,NC_003977.2,reference,,1
+3,REF|polymerase|start3|LSYQHFRRLLLLDDE,polymerase,polymerase,3,17,LSYQHFRRLLLLDDE,NC_003977.2,reference,,1
+4,REF|polymerase|start4|SYQHFRRLLLLDDEA,polymerase,polymerase,4,18,SYQHFRRLLLLDDEA,NC_003977.2,reference,,1
+5,REF|polymerase|start5|YQHFRRLLLLDDEAG,polymerase,polymerase,5,19,YQHFRRLLLLDDEAG,NC_003977.2,reference,,1
+6,REF|polymerase|start6|QHFRRLLLLDDEAGP,polymerase,polymerase,6,20,QHFRRLLLLDDEAGP,NC_003977.2,reference,,1
+7,REF|polymerase|start7|HFRRLLLLDDEAGPL,polymerase,polymerase,7,21,HFRRLLLLDDEAGPL,NC_003977.2,reference,,1
+8,REF|polymerase|start8|FRRLLLLDDEAGPLE,polymerase,polymerase,8,22,FRRLLLLDDEAGPLE,NC_003977.2,reference,,1
+9,REF|polymerase|start9|RRLLLLDDEAGPLEE,polymerase,polymerase,9,23,RRLLLLDDEAGPLEE,NC_003977.2,reference,,1
+10,REF|polymerase|start10|RLLLLDDEAGPLEEE,polymerase,polymerase,10,24,RLLLLDDEAGPLEEE,NC_003977.2,reference,,1
+11,REF|polymerase|start11|LLLLDDEAGPLEEEL,polymerase,polymerase,11,25,LLLLDDEAGPLEEEL,NC_003977.2,reference,,1
+12,REF|polymerase|start12|LLLDDEAGPLEEELP,polymerase,polymerase,12,26,LLLDDEAGPLEEELP,NC_003977.2,reference,,1
+13,REF|polymerase|start13|LLDDEAGPLEEELPR,polymerase,polymerase,13,27,LLDDEAGPLEEELPR,NC_003977.2,reference,,1
+14,REF|polymerase|start14|LDDEAGPLEEELPRL,polymerase,polymerase,14,28,LDDEAGPLEEELPRL,NC_003977.2,reference,,1
+15,REF|polymerase|start15|DDEAGPLEEELPRLA,polymerase,polymerase,15,29,DDEAGPLEEELPRLA,NC_003977.2,reference,,1
+16,REF|polymerase|start16|DEAGPLEEELPRLAD,polymerase,polymerase,16,30,DEAGPLEEELPRLAD,NC_003977.2,reference,,1
+17,REF|polymerase|start17|EAGPLEEELPRLADE,polymerase,polymerase,17,31,EAGPLEEELPRLADE,NC_003977.2,reference,,1
+18,REF|polymerase|start18|AGPLEEELPRLADEG,polymerase,polymerase,18,32,AGPLEEELPRLADEG,NC_003977.2,reference,,1
+19,REF|polymerase|start19|GPLEEELPRLADEGL,polymerase,polymerase,19,33,GPLEEELPRLADEGL,NC_003977.2,reference,,1
+20,REF|polymerase|start20|PLEEELPRLADEGLN,polymerase,polymerase,20,34,PLEEELPRLADEGLN,NC_003977.2,reference,,1
+21,REF|polymerase|start21|LEEELPRLADEGLNR,polymerase,polymerase,21,35,LEEELPRLADEGLNR,NC_003977.2,reference,,1
+22,REF|polymerase|start22|EEELPRLADEGLNRR,polymerase,polymerase,22,36,EEELPRLADEGLNRR,NC_003977.2,reference,,1
+23,REF|polymerase|start23|EELPRLADEGLNRRV,polymerase,polymerase,23,37,EELPRLADEGLNRRV,NC_003977.2,reference,,1
+24,REF|polymerase|start24|ELPRLADEGLNRRVA,polymerase,polymerase,24,38,ELPRLADEGLNRRVA,NC_003977.2,reference,,1
+25,REF|polymerase|start25|LPRLADEGLNRRVAE,polymerase,polymerase,25,39,LPRLADEGLNRRVAE,NC_003977.2,reference,,1
+26,REF|polymerase|start26|PRLADEGLNRRVAED,polymerase,polymerase,26,40,PRLADEGLNRRVAED,NC_003977.2,reference,,1
+27,REF|polymerase|start27|RLADEGLNRRVAEDL,polymerase,polymerase,27,41,RLADEGLNRRVAEDL,NC_003977.2,reference,,1
+28,REF|polymerase|start28|LADEGLNRRVAEDLN,polymerase,polymerase,28,42,LADEGLNRRVAEDLN,NC_003977.2,reference,,1
+29,REF|polymerase|start29|ADEGLNRRVAEDLNL,polymerase,polymerase,29,43,ADEGLNRRVAEDLNL,NC_003977.2,reference,,1
+30,REF|polymerase|start30|DEGLNRRVAEDLNLG,polymerase,polymerase,30,44,DEGLNRRVAEDLNLG,NC_003977.2,reference,,1
+31,REF|polymerase|start31|EGLNRRVAEDLNLGN,polymerase,polymerase,31,45,EGLNRRVAEDLNLGN,NC_003977.2,reference,,1
+32,REF|polymerase|start32|GLNRRVAEDLNLGNL,polymerase,polymerase,32,46,GLNRRVAEDLNLGNL,NC_003977.2,reference,,1
+33,REF|polymerase|start33|LNRRVAEDLNLGNLN,polymerase,polymerase,33,47,LNRRVAEDLNLGNLN,NC_003977.2,reference,,1
+34,REF|polymerase|start34|NRRVAEDLNLGNLNV,polymerase,polymerase,34,48,NRRVAEDLNLGNLNV,NC_003977.2,reference,,1
+35,REF|polymerase|start35|RRVAEDLNLGNLNVS,polymerase,polymerase,35,49,RRVAEDLNLGNLNVS,NC_003977.2,reference,,1
+36,REF|polymerase|start36|RVAEDLNLGNLNVSI,polymerase,polymerase,36,50,RVAEDLNLGNLNVSI,NC_003977.2,reference,,1
+37,REF|polymerase|start37|VAEDLNLGNLNVSIP,polymerase,polymerase,37,51,VAEDLNLGNLNVSIP,NC_003977.2,reference,,1
+38,REF|polymerase|start38|AEDLNLGNLNVSIPW,polymerase,polymerase,38,52,AEDLNLGNLNVSIPW,NC_003977.2,reference,,1
+39,REF|polymerase|start39|EDLNLGNLNVSIPWT,polymerase,polymerase,39,53,EDLNLGNLNVSIPWT,NC_003977.2,reference,,1
+40,REF|polymerase|start40|DLNLGNLNVSIPWTH,polymerase,polymerase,40,54,DLNLGNLNVSIPWTH,NC_003977.2,reference,,1
+41,REF|polymerase|start41|LNLGNLNVSIPWTHK,polymerase,polymerase,41,55,LNLGNLNVSIPWTHK,NC_003977.2,reference,,1
+42,REF|polymerase|start42|NLGNLNVSIPWTHKV,polymerase,polymerase,42,56,NLGNLNVSIPWTHKV,NC_003977.2,reference,,1
+43,REF|polymerase|start43|LGNLNVSIPWTHKVG,polymerase,polymerase,43,57,LGNLNVSIPWTHKVG,NC_003977.2,reference,,1
+44,REF|polymerase|start44|GNLNVSIPWTHKVGN,polymerase,polymerase,44,58,GNLNVSIPWTHKVGN,NC_003977.2,reference,,1
+45,REF|polymerase|start45|NLNVSIPWTHKVGNF,polymerase,polymerase,45,59,NLNVSIPWTHKVGNF,NC_003977.2,reference,,1
+46,REF|polymerase|start46|LNVSIPWTHKVGNFT,polymerase,polymerase,46,60,LNVSIPWTHKVGNFT,NC_003977.2,reference,,1
+47,REF|polymerase|start47|NVSIPWTHKVGNFTG,polymerase,polymerase,47,61,NVSIPWTHKVGNFTG,NC_003977.2,reference,,1
+48,REF|polymerase|start48|VSIPWTHKVGNFTGL,polymerase,polymerase,48,62,VSIPWTHKVGNFTGL,NC_003977.2,reference,,1
+49,REF|polymerase|start49|SIPWTHKVGNFTGLY,polymerase,polymerase,49,63,SIPWTHKVGNFTGLY,NC_003977.2,reference,,1
+50,REF|polymerase|start50|IPWTHKVGNFTGLYS,polymerase,polymerase,50,64,IPWTHKVGNFTGLYS,NC_003977.2,reference,,1
+51,REF|polymerase|start51|PWTHKVGNFTGLYSS,polymerase,polymerase,51,65,PWTHKVGNFTGLYSS,NC_003977.2,reference,,1
+52,REF|polymerase|start52|WTHKVGNFTGLYSST,polymerase,polymerase,52,66,WTHKVGNFTGLYSST,NC_003977.2,reference,,1
+53,REF|polymerase|start53|THKVGNFTGLYSSTV,polymerase,polymerase,53,67,THKVGNFTGLYSSTV,NC_003977.2,reference,,1
+54,REF|polymerase|start54|HKVGNFTGLYSSTVP,polymerase,polymerase,54,68,HKVGNFTGLYSSTVP,NC_003977.2,reference,,1
+55,REF|polymerase|start55|KVGNFTGLYSSTVPV,polymerase,polymerase,55,69,KVGNFTGLYSSTVPV,NC_003977.2,reference,,1
+56,REF|polymerase|start56|VGNFTGLYSSTVPVF,polymerase,polymerase,56,70,VGNFTGLYSSTVPVF,NC_003977.2,reference,,1
+57,REF|polymerase|start57|GNFTGLYSSTVPVFN,polymerase,polymerase,57,71,GNFTGLYSSTVPVFN,NC_003977.2,reference,,1
+58,REF|polymerase|start58|NFTGLYSSTVPVFNP,polymerase,polymerase,58,72,NFTGLYSSTVPVFNP,NC_003977.2,reference,,1
+59,REF|polymerase|start59|FTGLYSSTVPVFNPH,polymerase,polymerase,59,73,FTGLYSSTVPVFNPH,NC_003977.2,reference,,1
+60,REF|polymerase|start60|TGLYSSTVPVFNPHW,polymerase,polymerase,60,74,TGLYSSTVPVFNPHW,NC_003977.2,reference,,1
+61,REF|polymerase|start61|GLYSSTVPVFNPHWK,polymerase,polymerase,61,75,GLYSSTVPVFNPHWK,NC_003977.2,reference,,1
+62,REF|polymerase|start62|LYSSTVPVFNPHWKT,polymerase,polymerase,62,76,LYSSTVPVFNPHWKT,NC_003977.2,reference,,1
+63,REF|polymerase|start63|YSSTVPVFNPHWKTP,polymerase,polymerase,63,77,YSSTVPVFNPHWKTP,NC_003977.2,reference,,1
+64,REF|polymerase|start64|SSTVPVFNPHWKTPS,polymerase,polymerase,64,78,SSTVPVFNPHWKTPS,NC_003977.2,reference,,1
+65,REF|polymerase|start65|STVPVFNPHWKTPSF,polymerase,polymerase,65,79,STVPVFNPHWKTPSF,NC_003977.2,reference,,1
+66,REF|polymerase|start66|TVPVFNPHWKTPSFP,polymerase,polymerase,66,80,TVPVFNPHWKTPSFP,NC_003977.2,reference,,1
+67,REF|polymerase|start67|VPVFNPHWKTPSFPN,polymerase,polymerase,67,81,VPVFNPHWKTPSFPN,NC_003977.2,reference,,1
+68,REF|polymerase|start68|PVFNPHWKTPSFPNI,polymerase,polymerase,68,82,PVFNPHWKTPSFPNI,NC_003977.2,reference,,1
+69,REF|polymerase|start69|VFNPHWKTPSFPNIH,polymerase,polymerase,69,83,VFNPHWKTPSFPNIH,NC_003977.2,reference,,1
+70,REF|polymerase|start70|FNPHWKTPSFPNIHL,polymerase,polymerase,70,84,FNPHWKTPSFPNIHL,NC_003977.2,reference,,1
+71,REF|polymerase|start71|NPHWKTPSFPNIHLH,polymerase,polymerase,71,85,NPHWKTPSFPNIHLH,NC_003977.2,reference,,1
+72,REF|polymerase|start72|PHWKTPSFPNIHLHQ,polymerase,polymerase,72,86,PHWKTPSFPNIHLHQ,NC_003977.2,reference,,1
+73,REF|polymerase|start73|HWKTPSFPNIHLHQD,polymerase,polymerase,73,87,HWKTPSFPNIHLHQD,NC_003977.2,reference,,1
+74,REF|polymerase|start74|WKTPSFPNIHLHQDI,polymerase,polymerase,74,88,WKTPSFPNIHLHQDI,NC_003977.2,reference,,1
+75,REF|polymerase|start75|KTPSFPNIHLHQDII,polymerase,polymerase,75,89,KTPSFPNIHLHQDII,NC_003977.2,reference,,1
+76,REF|polymerase|start76|TPSFPNIHLHQDIIK,polymerase,polymerase,76,90,TPSFPNIHLHQDIIK,NC_003977.2,reference,,1
+77,REF|polymerase|start77|PSFPNIHLHQDIIKK,polymerase,polymerase,77,91,PSFPNIHLHQDIIKK,NC_003977.2,reference,,1
+78,REF|polymerase|start78|SFPNIHLHQDIIKKC,polymerase,polymerase,78,92,SFPNIHLHQDIIKKC,NC_003977.2,reference,,1
+79,REF|polymerase|start79|FPNIHLHQDIIKKCE,polymerase,polymerase,79,93,FPNIHLHQDIIKKCE,NC_003977.2,reference,,1
+80,REF|polymerase|start80|PNIHLHQDIIKKCEQ,polymerase,polymerase,80,94,PNIHLHQDIIKKCEQ,NC_003977.2,reference,,1
+81,REF|polymerase|start81|NIHLHQDIIKKCEQF,polymerase,polymerase,81,95,NIHLHQDIIKKCEQF,NC_003977.2,reference,,1
+82,REF|polymerase|start82|IHLHQDIIKKCEQFV,polymerase,polymerase,82,96,IHLHQDIIKKCEQFV,NC_003977.2,reference,,1
+83,REF|polymerase|start83|HLHQDIIKKCEQFVG,polymerase,polymerase,83,97,HLHQDIIKKCEQFVG,NC_003977.2,reference,,1
+84,REF|polymerase|start84|LHQDIIKKCEQFVGP,polymerase,polymerase,84,98,LHQDIIKKCEQFVGP,NC_003977.2,reference,,1
+85,REF|polymerase|start85|HQDIIKKCEQFVGPL,polymerase,polymerase,85,99,HQDIIKKCEQFVGPL,NC_003977.2,reference,,1
+86,REF|polymerase|start86|QDIIKKCEQFVGPLT,polymerase,polymerase,86,100,QDIIKKCEQFVGPLT,NC_003977.2,reference,,1
+87,REF|polymerase|start87|DIIKKCEQFVGPLTV,polymerase,polymerase,87,101,DIIKKCEQFVGPLTV,NC_003977.2,reference,,1
+88,REF|polymerase|start88|IIKKCEQFVGPLTVN,polymerase,polymerase,88,102,IIKKCEQFVGPLTVN,NC_003977.2,reference,,1
+89,REF|polymerase|start89|IKKCEQFVGPLTVNE,polymerase,polymerase,89,103,IKKCEQFVGPLTVNE,NC_003977.2,reference,,1
+90,REF|polymerase|start90|KKCEQFVGPLTVNEK,polymerase,polymerase,90,104,KKCEQFVGPLTVNEK,NC_003977.2,reference,,1
+91,REF|polymerase|start91|KCEQFVGPLTVNEKR,polymerase,polymerase,91,105,KCEQFVGPLTVNEKR,NC_003977.2,reference,,1
+92,REF|polymerase|start92|CEQFVGPLTVNEKRR,polymerase,polymerase,92,106,CEQFVGPLTVNEKRR,NC_003977.2,reference,,1
+93,REF|polymerase|start93|EQFVGPLTVNEKRRL,polymerase,polymerase,93,107,EQFVGPLTVNEKRRL,NC_003977.2,reference,,1
+94,REF|polymerase|start94|QFVGPLTVNEKRRLQ,polymerase,polymerase,94,108,QFVGPLTVNEKRRLQ,NC_003977.2,reference,,1
+95,REF|polymerase|start95|FVGPLTVNEKRRLQL,polymerase,polymerase,95,109,FVGPLTVNEKRRLQL,NC_003977.2,reference,,1
+96,REF|polymerase|start96|VGPLTVNEKRRLQLI,polymerase,polymerase,96,110,VGPLTVNEKRRLQLI,NC_003977.2,reference,,1
+97,REF|polymerase|start97|GPLTVNEKRRLQLIM,polymerase,polymerase,97,111,GPLTVNEKRRLQLIM,NC_003977.2,reference,,1
+98,REF|polymerase|start98|PLTVNEKRRLQLIMP,polymerase,polymerase,98,112,PLTVNEKRRLQLIMP,NC_003977.2,reference,,1
+99,REF|polymerase|start99|LTVNEKRRLQLIMPA,polymerase,polymerase,99,113,LTVNEKRRLQLIMPA,NC_003977.2,reference,,1
+100,REF|polymerase|start100|TVNEKRRLQLIMPAR,polymerase,polymerase,100,114,TVNEKRRLQLIMPAR,NC_003977.2,reference,,1
+101,REF|polymerase|start101|VNEKRRLQLIMPARF,polymerase,polymerase,101,115,VNEKRRLQLIMPARF,NC_003977.2,reference,,1
+102,REF|polymerase|start102|NEKRRLQLIMPARFY,polymerase,polymerase,102,116,NEKRRLQLIMPARFY,NC_003977.2,reference,,1
+103,REF|polymerase|start103|EKRRLQLIMPARFYP,polymerase,polymerase,103,117,EKRRLQLIMPARFYP,NC_003977.2,reference,,1
+104,REF|polymerase|start104|KRRLQLIMPARFYPK,polymerase,polymerase,104,118,KRRLQLIMPARFYPK,NC_003977.2,reference,,1
+105,REF|polymerase|start105|RRLQLIMPARFYPKV,polymerase,polymerase,105,119,RRLQLIMPARFYPKV,NC_003977.2,reference,,1
+106,REF|polymerase|start106|RLQLIMPARFYPKVT,polymerase,polymerase,106,120,RLQLIMPARFYPKVT,NC_003977.2,reference,,1
+107,REF|polymerase|start107|LQLIMPARFYPKVTK,polymerase,polymerase,107,121,LQLIMPARFYPKVTK,NC_003977.2,reference,,1
+108,REF|polymerase|start108|QLIMPARFYPKVTKY,polymerase,polymerase,108,122,QLIMPARFYPKVTKY,NC_003977.2,reference,,1
+109,REF|polymerase|start109|LIMPARFYPKVTKYL,polymerase,polymerase,109,123,LIMPARFYPKVTKYL,NC_003977.2,reference,,1
+110,REF|polymerase|start110|IMPARFYPKVTKYLP,polymerase,polymerase,110,124,IMPARFYPKVTKYLP,NC_003977.2,reference,,1
+111,REF|polymerase|start111|MPARFYPKVTKYLPL,polymerase,polymerase,111,125,MPARFYPKVTKYLPL,NC_003977.2,reference,,1
+112,REF|polymerase|start112|PARFYPKVTKYLPLD,polymerase,polymerase,112,126,PARFYPKVTKYLPLD,NC_003977.2,reference,,1
+113,REF|polymerase|start113|ARFYPKVTKYLPLDK,polymerase,polymerase,113,127,ARFYPKVTKYLPLDK,NC_003977.2,reference,,1
+114,REF|polymerase|start114|RFYPKVTKYLPLDKG,polymerase,polymerase,114,128,RFYPKVTKYLPLDKG,NC_003977.2,reference,,1
+115,REF|polymerase|start115|FYPKVTKYLPLDKGI,polymerase,polymerase,115,129,FYPKVTKYLPLDKGI,NC_003977.2,reference,,1
+116,REF|polymerase|start116|YPKVTKYLPLDKGIK,polymerase,polymerase,116,130,YPKVTKYLPLDKGIK,NC_003977.2,reference,,1
+117,REF|polymerase|start117|PKVTKYLPLDKGIKP,polymerase,polymerase,117,131,PKVTKYLPLDKGIKP,NC_003977.2,reference,,1
+118,REF|polymerase|start118|KVTKYLPLDKGIKPY,polymerase,polymerase,118,132,KVTKYLPLDKGIKPY,NC_003977.2,reference,,1
+119,REF|polymerase|start119|VTKYLPLDKGIKPYY,polymerase,polymerase,119,133,VTKYLPLDKGIKPYY,NC_003977.2,reference,,1
+120,REF|polymerase|start120|TKYLPLDKGIKPYYP,polymerase,polymerase,120,134,TKYLPLDKGIKPYYP,NC_003977.2,reference,,1
+121,REF|polymerase|start121|KYLPLDKGIKPYYPE,polymerase,polymerase,121,135,KYLPLDKGIKPYYPE,NC_003977.2,reference,,1
+122,REF|polymerase|start122|YLPLDKGIKPYYPEH,polymerase,polymerase,122,136,YLPLDKGIKPYYPEH,NC_003977.2,reference,,1
+123,REF|polymerase|start123|LPLDKGIKPYYPEHL,polymerase,polymerase,123,137,LPLDKGIKPYYPEHL,NC_003977.2,reference,,1
+124,REF|polymerase|start124|PLDKGIKPYYPEHLV,polymerase,polymerase,124,138,PLDKGIKPYYPEHLV,NC_003977.2,reference,,1
+125,REF|polymerase|start125|LDKGIKPYYPEHLVN,polymerase,polymerase,125,139,LDKGIKPYYPEHLVN,NC_003977.2,reference,,1
+126,REF|polymerase|start126|DKGIKPYYPEHLVNH,polymerase,polymerase,126,140,DKGIKPYYPEHLVNH,NC_003977.2,reference,,1
+127,REF|polymerase|start127|KGIKPYYPEHLVNHY,polymerase,polymerase,127,141,KGIKPYYPEHLVNHY,NC_003977.2,reference,,1
+128,REF|polymerase|start128|GIKPYYPEHLVNHYF,polymerase,polymerase,128,142,GIKPYYPEHLVNHYF,NC_003977.2,reference,,1
+129,REF|polymerase|start129|IKPYYPEHLVNHYFQ,polymerase,polymerase,129,143,IKPYYPEHLVNHYFQ,NC_003977.2,reference,,1
+130,REF|polymerase|start130|KPYYPEHLVNHYFQT,polymerase,polymerase,130,144,KPYYPEHLVNHYFQT,NC_003977.2,reference,,1
+131,REF|polymerase|start131|PYYPEHLVNHYFQTR,polymerase,polymerase,131,145,PYYPEHLVNHYFQTR,NC_003977.2,reference,,1
+132,REF|polymerase|start132|YYPEHLVNHYFQTRH,polymerase,polymerase,132,146,YYPEHLVNHYFQTRH,NC_003977.2,reference,,1
+133,REF|polymerase|start133|YPEHLVNHYFQTRHY,polymerase,polymerase,133,147,YPEHLVNHYFQTRHY,NC_003977.2,reference,,1
+134,REF|polymerase|start134|PEHLVNHYFQTRHYL,polymerase,polymerase,134,148,PEHLVNHYFQTRHYL,NC_003977.2,reference,,1
+135,REF|polymerase|start135|EHLVNHYFQTRHYLH,polymerase,polymerase,135,149,EHLVNHYFQTRHYLH,NC_003977.2,reference,,1
+136,REF|polymerase|start136|HLVNHYFQTRHYLHT,polymerase,polymerase,136,150,HLVNHYFQTRHYLHT,NC_003977.2,reference,,1
+137,REF|polymerase|start137|LVNHYFQTRHYLHTL,polymerase,polymerase,137,151,LVNHYFQTRHYLHTL,NC_003977.2,reference,,1
+138,REF|polymerase|start138|VNHYFQTRHYLHTLW,polymerase,polymerase,138,152,VNHYFQTRHYLHTLW,NC_003977.2,reference,,1
+139,REF|polymerase|start139|NHYFQTRHYLHTLWK,polymerase,polymerase,139,153,NHYFQTRHYLHTLWK,NC_003977.2,reference,,1
+140,REF|polymerase|start140|HYFQTRHYLHTLWKA,polymerase,polymerase,140,154,HYFQTRHYLHTLWKA,NC_003977.2,reference,,1
+141,REF|polymerase|start141|YFQTRHYLHTLWKAG,polymerase,polymerase,141,155,YFQTRHYLHTLWKAG,NC_003977.2,reference,,1
+142,REF|polymerase|start142|FQTRHYLHTLWKAGI,polymerase,polymerase,142,156,FQTRHYLHTLWKAGI,NC_003977.2,reference,,1
+143,REF|polymerase|start143|QTRHYLHTLWKAGIL,polymerase,polymerase,143,157,QTRHYLHTLWKAGIL,NC_003977.2,reference,,1
+144,REF|polymerase|start144|TRHYLHTLWKAGILY,polymerase,polymerase,144,158,TRHYLHTLWKAGILY,NC_003977.2,reference,,1
+145,REF|polymerase|start145|RHYLHTLWKAGILYK,polymerase,polymerase,145,159,RHYLHTLWKAGILYK,NC_003977.2,reference,,1
+146,REF|polymerase|start146|HYLHTLWKAGILYKR,polymerase,polymerase,146,160,HYLHTLWKAGILYKR,NC_003977.2,reference,,1
+147,REF|polymerase|start147|YLHTLWKAGILYKRE,polymerase,polymerase,147,161,YLHTLWKAGILYKRE,NC_003977.2,reference,,1
+148,REF|polymerase|start148|LHTLWKAGILYKRET,polymerase,polymerase,148,162,LHTLWKAGILYKRET,NC_003977.2,reference,,1
+149,REF|polymerase|start149|HTLWKAGILYKRETT,polymerase,polymerase,149,163,HTLWKAGILYKRETT,NC_003977.2,reference,,1
+150,REF|polymerase|start150|TLWKAGILYKRETTH,polymerase,polymerase,150,164,TLWKAGILYKRETTH,NC_003977.2,reference,,1
+151,REF|polymerase|start151|LWKAGILYKRETTHS,polymerase,polymerase,151,165,LWKAGILYKRETTHS,NC_003977.2,reference,,1
+152,REF|polymerase|start152|WKAGILYKRETTHSA,polymerase,polymerase,152,166,WKAGILYKRETTHSA,NC_003977.2,reference,,1
+153,REF|polymerase|start153|KAGILYKRETTHSAS,polymerase,polymerase,153,167,KAGILYKRETTHSAS,NC_003977.2,reference,,1
+154,REF|polymerase|start154|AGILYKRETTHSASF,polymerase,polymerase,154,168,AGILYKRETTHSASF,NC_003977.2,reference,,1
+155,REF|polymerase|start155|GILYKRETTHSASFC,polymerase,polymerase,155,169,GILYKRETTHSASFC,NC_003977.2,reference,,1
+156,REF|polymerase|start156|ILYKRETTHSASFCG,polymerase,polymerase,156,170,ILYKRETTHSASFCG,NC_003977.2,reference,,1
+157,REF|polymerase|start157|LYKRETTHSASFCGS,polymerase,polymerase,157,171,LYKRETTHSASFCGS,NC_003977.2,reference,,1
+158,REF|polymerase|start158|YKRETTHSASFCGSP,polymerase,polymerase,158,172,YKRETTHSASFCGSP,NC_003977.2,reference,,1
+159,REF|polymerase|start159|KRETTHSASFCGSPY,polymerase,polymerase,159,173,KRETTHSASFCGSPY,NC_003977.2,reference,,1
+160,REF|polymerase|start160|RETTHSASFCGSPYS,polymerase,polymerase,160,174,RETTHSASFCGSPYS,NC_003977.2,reference,,1
+161,REF|polymerase|start161|ETTHSASFCGSPYSW,polymerase,polymerase,161,175,ETTHSASFCGSPYSW,NC_003977.2,reference,,1
+162,REF|polymerase|start162|TTHSASFCGSPYSWE,polymerase,polymerase,162,176,TTHSASFCGSPYSWE,NC_003977.2,reference,,1
+163,REF|polymerase|start163|THSASFCGSPYSWEQ,polymerase,polymerase,163,177,THSASFCGSPYSWEQ,NC_003977.2,reference,,1
+164,REF|polymerase|start164|HSASFCGSPYSWEQD,polymerase,polymerase,164,178,HSASFCGSPYSWEQD,NC_003977.2,reference,,1
+165,REF|polymerase|start165|SASFCGSPYSWEQDL,polymerase,polymerase,165,179,SASFCGSPYSWEQDL,NC_003977.2,reference,,1
+166,REF|polymerase|start166|ASFCGSPYSWEQDLQ,polymerase,polymerase,166,180,ASFCGSPYSWEQDLQ,NC_003977.2,reference,,1
+167,REF|polymerase|start167|SFCGSPYSWEQDLQH,polymerase,polymerase,167,181,SFCGSPYSWEQDLQH,NC_003977.2,reference,,1
+168,REF|polymerase|start168|FCGSPYSWEQDLQHG,polymerase,polymerase,168,182,FCGSPYSWEQDLQHG,NC_003977.2,reference,,1
+169,REF|polymerase|start169|CGSPYSWEQDLQHGA,polymerase,polymerase,169,183,CGSPYSWEQDLQHGA,NC_003977.2,reference,,1
+170,REF|polymerase|start170|GSPYSWEQDLQHGAE,polymerase,polymerase,170,184,GSPYSWEQDLQHGAE,NC_003977.2,reference,,1
+171,REF|polymerase|start171|SPYSWEQDLQHGAES,polymerase,polymerase,171,185,SPYSWEQDLQHGAES,NC_003977.2,reference,,1
+172,REF|polymerase|start172|PYSWEQDLQHGAESF,polymerase,polymerase,172,186,PYSWEQDLQHGAESF,NC_003977.2,reference,,1
+173,REF|polymerase|start173|YSWEQDLQHGAESFH,polymerase,polymerase,173,187,YSWEQDLQHGAESFH,NC_003977.2,reference,,1
+174,REF|polymerase|start174|SWEQDLQHGAESFHQ,polymerase,polymerase,174,188,SWEQDLQHGAESFHQ,NC_003977.2,reference,,1
+175,REF|polymerase|start175|WEQDLQHGAESFHQQ,polymerase,polymerase,175,189,WEQDLQHGAESFHQQ,NC_003977.2,reference,,1
+176,REF|polymerase|start176|EQDLQHGAESFHQQS,polymerase,polymerase,176,190,EQDLQHGAESFHQQS,NC_003977.2,reference,,1
+177,REF|polymerase|start177|QDLQHGAESFHQQSS,polymerase,polymerase,177,191,QDLQHGAESFHQQSS,NC_003977.2,reference,,1
+178,REF|polymerase|start178|DLQHGAESFHQQSSG,polymerase,polymerase,178,192,DLQHGAESFHQQSSG,NC_003977.2,reference,,1
+179,REF|polymerase|start179|LQHGAESFHQQSSGI,polymerase,polymerase,179,193,LQHGAESFHQQSSGI,NC_003977.2,reference,,1
+180,REF|polymerase|start180|QHGAESFHQQSSGIL,polymerase,polymerase,180,194,QHGAESFHQQSSGIL,NC_003977.2,reference,,1
+181,REF|polymerase|start181|HGAESFHQQSSGILS,polymerase,polymerase,181,195,HGAESFHQQSSGILS,NC_003977.2,reference,,1
+182,REF|polymerase|start182|GAESFHQQSSGILSR,polymerase,polymerase,182,196,GAESFHQQSSGILSR,NC_003977.2,reference,,1
+183,REF|polymerase|start183|AESFHQQSSGILSRP,polymerase,polymerase,183,197,AESFHQQSSGILSRP,NC_003977.2,reference,,1
+184,REF|polymerase|start184|ESFHQQSSGILSRPP,polymerase,polymerase,184,198,ESFHQQSSGILSRPP,NC_003977.2,reference,,1
+185,REF|polymerase|start185|SFHQQSSGILSRPPV,polymerase,polymerase,185,199,SFHQQSSGILSRPPV,NC_003977.2,reference,,1
+186,REF|polymerase|start186|FHQQSSGILSRPPVG,polymerase,polymerase,186,200,FHQQSSGILSRPPVG,NC_003977.2,reference,,1
+187,REF|polymerase|start187|HQQSSGILSRPPVGS,polymerase,polymerase,187,201,HQQSSGILSRPPVGS,NC_003977.2,reference,,1
+188,REF|polymerase|start188|QQSSGILSRPPVGSS,polymerase,polymerase,188,202,QQSSGILSRPPVGSS,NC_003977.2,reference,,1
+189,REF|polymerase|start189|QSSGILSRPPVGSSL,polymerase,polymerase,189,203,QSSGILSRPPVGSSL,NC_003977.2,reference,,1
+190,REF|polymerase|start190|SSGILSRPPVGSSLQ,polymerase,polymerase,190,204,SSGILSRPPVGSSLQ,NC_003977.2,reference,,1
+191,REF|polymerase|start191|SGILSRPPVGSSLQS,polymerase,polymerase,191,205,SGILSRPPVGSSLQS,NC_003977.2,reference,,1
+192,REF|polymerase|start192|GILSRPPVGSSLQSK,polymerase,polymerase,192,206,GILSRPPVGSSLQSK,NC_003977.2,reference,,1
+193,REF|polymerase|start193|ILSRPPVGSSLQSKH,polymerase,polymerase,193,207,ILSRPPVGSSLQSKH,NC_003977.2,reference,,1
+194,REF|polymerase|start194|LSRPPVGSSLQSKHR,polymerase,polymerase,194,208,LSRPPVGSSLQSKHR,NC_003977.2,reference,,1
+195,REF|polymerase|start195|SRPPVGSSLQSKHRK,polymerase,polymerase,195,209,SRPPVGSSLQSKHRK,NC_003977.2,reference,,1
+196,REF|polymerase|start196|RPPVGSSLQSKHRKS,polymerase,polymerase,196,210,RPPVGSSLQSKHRKS,NC_003977.2,reference,,1
+197,REF|polymerase|start197|PPVGSSLQSKHRKSR,polymerase,polymerase,197,211,PPVGSSLQSKHRKSR,NC_003977.2,reference,,1
+198,REF|polymerase|start198|PVGSSLQSKHRKSRL,polymerase,polymerase,198,212,PVGSSLQSKHRKSRL,NC_003977.2,reference,,1
+199,REF|polymerase|start199|VGSSLQSKHRKSRLG,polymerase,polymerase,199,213,VGSSLQSKHRKSRLG,NC_003977.2,reference,,1
+200,REF|polymerase|start200|GSSLQSKHRKSRLGL,polymerase,polymerase,200,214,GSSLQSKHRKSRLGL,NC_003977.2,reference,,1
+201,REF|polymerase|start201|SSLQSKHRKSRLGLQ,polymerase,polymerase,201,215,SSLQSKHRKSRLGLQ,NC_003977.2,reference,,1
+202,REF|polymerase|start202|SLQSKHRKSRLGLQS,polymerase,polymerase,202,216,SLQSKHRKSRLGLQS,NC_003977.2,reference,,1
+203,REF|polymerase|start203|LQSKHRKSRLGLQSQ,polymerase,polymerase,203,217,LQSKHRKSRLGLQSQ,NC_003977.2,reference,,1
+204,REF|polymerase|start204|QSKHRKSRLGLQSQQ,polymerase,polymerase,204,218,QSKHRKSRLGLQSQQ,NC_003977.2,reference,,1
+205,REF|polymerase|start205|SKHRKSRLGLQSQQG,polymerase,polymerase,205,219,SKHRKSRLGLQSQQG,NC_003977.2,reference,,1
+206,REF|polymerase|start206|KHRKSRLGLQSQQGH,polymerase,polymerase,206,220,KHRKSRLGLQSQQGH,NC_003977.2,reference,,1
+207,REF|polymerase|start207|HRKSRLGLQSQQGHL,polymerase,polymerase,207,221,HRKSRLGLQSQQGHL,NC_003977.2,reference,,1
+208,REF|polymerase|start208|RKSRLGLQSQQGHLA,polymerase,polymerase,208,222,RKSRLGLQSQQGHLA,NC_003977.2,reference,,1
+209,REF|polymerase|start209|KSRLGLQSQQGHLAR,polymerase,polymerase,209,223,KSRLGLQSQQGHLAR,NC_003977.2,reference,,1
+210,REF|polymerase|start210|SRLGLQSQQGHLARR,polymerase,polymerase,210,224,SRLGLQSQQGHLARR,NC_003977.2,reference,,1
+211,REF|polymerase|start211|RLGLQSQQGHLARRQ,polymerase,polymerase,211,225,RLGLQSQQGHLARRQ,NC_003977.2,reference,,1
+212,REF|polymerase|start212|LGLQSQQGHLARRQQ,polymerase,polymerase,212,226,LGLQSQQGHLARRQQ,NC_003977.2,reference,,1
+213,REF|polymerase|start213|GLQSQQGHLARRQQG,polymerase,polymerase,213,227,GLQSQQGHLARRQQG,NC_003977.2,reference,,1
+214,REF|polymerase|start214|LQSQQGHLARRQQGR,polymerase,polymerase,214,228,LQSQQGHLARRQQGR,NC_003977.2,reference,,1
+215,REF|polymerase|start215|QSQQGHLARRQQGRS,polymerase,polymerase,215,229,QSQQGHLARRQQGRS,NC_003977.2,reference,,1
+216,REF|polymerase|start216|SQQGHLARRQQGRSW,polymerase,polymerase,216,230,SQQGHLARRQQGRSW,NC_003977.2,reference,,1
+217,REF|polymerase|start217|QQGHLARRQQGRSWS,polymerase,polymerase,217,231,QQGHLARRQQGRSWS,NC_003977.2,reference,,1
+218,REF|polymerase|start218|QGHLARRQQGRSWSI,polymerase,polymerase,218,232,QGHLARRQQGRSWSI,NC_003977.2,reference,,1
+219,REF|polymerase|start219|GHLARRQQGRSWSIR,polymerase,polymerase,219,233,GHLARRQQGRSWSIR,NC_003977.2,reference,,1
+220,REF|polymerase|start220|HLARRQQGRSWSIRA,polymerase,polymerase,220,234,HLARRQQGRSWSIRA,NC_003977.2,reference,,1
+221,REF|polymerase|start221|LARRQQGRSWSIRAG,polymerase,polymerase,221,235,LARRQQGRSWSIRAG,NC_003977.2,reference,,1
+222,REF|polymerase|start222|ARRQQGRSWSIRAGF,polymerase,polymerase,222,236,ARRQQGRSWSIRAGF,NC_003977.2,reference,,1
+223,REF|polymerase|start223|RRQQGRSWSIRAGFH,polymerase,polymerase,223,237,RRQQGRSWSIRAGFH,NC_003977.2,reference,,1
+224,REF|polymerase|start224|RQQGRSWSIRAGFHP,polymerase,polymerase,224,238,RQQGRSWSIRAGFHP,NC_003977.2,reference,,1
+225,REF|polymerase|start225|QQGRSWSIRAGFHPT,polymerase,polymerase,225,239,QQGRSWSIRAGFHPT,NC_003977.2,reference,,1
+226,REF|polymerase|start226|QGRSWSIRAGFHPTA,polymerase,polymerase,226,240,QGRSWSIRAGFHPTA,NC_003977.2,reference,,1
+227,REF|polymerase|start227|GRSWSIRAGFHPTAR,polymerase,polymerase,227,241,GRSWSIRAGFHPTAR,NC_003977.2,reference,,1
+228,REF|polymerase|start228|RSWSIRAGFHPTARR,polymerase,polymerase,228,242,RSWSIRAGFHPTARR,NC_003977.2,reference,,1
+229,REF|polymerase|start229|SWSIRAGFHPTARRP,polymerase,polymerase,229,243,SWSIRAGFHPTARRP,NC_003977.2,reference,,1
+230,REF|polymerase|start230|WSIRAGFHPTARRPF,polymerase,polymerase,230,244,WSIRAGFHPTARRPF,NC_003977.2,reference,,1
+231,REF|polymerase|start231|SIRAGFHPTARRPFG,polymerase,polymerase,231,245,SIRAGFHPTARRPFG,NC_003977.2,reference,,1
+232,REF|polymerase|start232|IRAGFHPTARRPFGV,polymerase,polymerase,232,246,IRAGFHPTARRPFGV,NC_003977.2,reference,,1
+233,REF|polymerase|start233|RAGFHPTARRPFGVE,polymerase,polymerase,233,247,RAGFHPTARRPFGVE,NC_003977.2,reference,,1
+234,REF|polymerase|start234|AGFHPTARRPFGVEP,polymerase,polymerase,234,248,AGFHPTARRPFGVEP,NC_003977.2,reference,,1
+235,REF|polymerase|start235|GFHPTARRPFGVEPS,polymerase,polymerase,235,249,GFHPTARRPFGVEPS,NC_003977.2,reference,,1
+236,REF|polymerase|start236|FHPTARRPFGVEPSG,polymerase,polymerase,236,250,FHPTARRPFGVEPSG,NC_003977.2,reference,,1
+237,REF|polymerase|start237|HPTARRPFGVEPSGS,polymerase,polymerase,237,251,HPTARRPFGVEPSGS,NC_003977.2,reference,,1
+238,REF|polymerase|start238|PTARRPFGVEPSGSG,polymerase,polymerase,238,252,PTARRPFGVEPSGSG,NC_003977.2,reference,,1
+239,REF|polymerase|start239|TARRPFGVEPSGSGH,polymerase,polymerase,239,253,TARRPFGVEPSGSGH,NC_003977.2,reference,,1
+240,REF|polymerase|start240|ARRPFGVEPSGSGHT,polymerase,polymerase,240,254,ARRPFGVEPSGSGHT,NC_003977.2,reference,,1
+241,REF|polymerase|start241|RRPFGVEPSGSGHTT,polymerase,polymerase,241,255,RRPFGVEPSGSGHTT,NC_003977.2,reference,,1
+242,REF|polymerase|start242|RPFGVEPSGSGHTTN,polymerase,polymerase,242,256,RPFGVEPSGSGHTTN,NC_003977.2,reference,,1
+243,REF|polymerase|start243|PFGVEPSGSGHTTNF,polymerase,polymerase,243,257,PFGVEPSGSGHTTNF,NC_003977.2,reference,,1
+244,REF|polymerase|start244|FGVEPSGSGHTTNFA,polymerase,polymerase,244,258,FGVEPSGSGHTTNFA,NC_003977.2,reference,,1
+245,REF|polymerase|start245|GVEPSGSGHTTNFAS,polymerase,polymerase,245,259,GVEPSGSGHTTNFAS,NC_003977.2,reference,,1
+246,REF|polymerase|start246|VEPSGSGHTTNFASK,polymerase,polymerase,246,260,VEPSGSGHTTNFASK,NC_003977.2,reference,,1
+247,REF|polymerase|start247|EPSGSGHTTNFASKS,polymerase,polymerase,247,261,EPSGSGHTTNFASKS,NC_003977.2,reference,,1
+248,REF|polymerase|start248|PSGSGHTTNFASKSA,polymerase,polymerase,248,262,PSGSGHTTNFASKSA,NC_003977.2,reference,,1
+249,REF|polymerase|start249|SGSGHTTNFASKSAS,polymerase,polymerase,249,263,SGSGHTTNFASKSAS,NC_003977.2,reference,,1
+250,REF|polymerase|start250|GSGHTTNFASKSASC,polymerase,polymerase,250,264,GSGHTTNFASKSASC,NC_003977.2,reference,,1
+251,REF|polymerase|start251|SGHTTNFASKSASCL,polymerase,polymerase,251,265,SGHTTNFASKSASCL,NC_003977.2,reference,,1
+252,REF|polymerase|start252|GHTTNFASKSASCLH,polymerase,polymerase,252,266,GHTTNFASKSASCLH,NC_003977.2,reference,,1
+253,REF|polymerase|start253|HTTNFASKSASCLHQ,polymerase,polymerase,253,267,HTTNFASKSASCLHQ,NC_003977.2,reference,,1
+254,REF|polymerase|start254|TTNFASKSASCLHQS,polymerase,polymerase,254,268,TTNFASKSASCLHQS,NC_003977.2,reference,,1
+255,REF|polymerase|start255|TNFASKSASCLHQSP,polymerase,polymerase,255,269,TNFASKSASCLHQSP,NC_003977.2,reference,,1
+256,REF|polymerase|start256|NFASKSASCLHQSPV,polymerase,polymerase,256,270,NFASKSASCLHQSPV,NC_003977.2,reference,,1
+257,REF|polymerase|start257|FASKSASCLHQSPVR,polymerase,polymerase,257,271,FASKSASCLHQSPVR,NC_003977.2,reference,,1
+258,REF|polymerase|start258|ASKSASCLHQSPVRK,polymerase,polymerase,258,272,ASKSASCLHQSPVRK,NC_003977.2,reference,,1
+259,REF|polymerase|start259|SKSASCLHQSPVRKA,polymerase,polymerase,259,273,SKSASCLHQSPVRKA,NC_003977.2,reference,,1
+260,REF|polymerase|start260|KSASCLHQSPVRKAA,polymerase,polymerase,260,274,KSASCLHQSPVRKAA,NC_003977.2,reference,,1
+261,REF|polymerase|start261|SASCLHQSPVRKAAY,polymerase,polymerase,261,275,SASCLHQSPVRKAAY,NC_003977.2,reference,,1
+262,REF|polymerase|start262|ASCLHQSPVRKAAYP,polymerase,polymerase,262,276,ASCLHQSPVRKAAYP,NC_003977.2,reference,,1
+263,REF|polymerase|start263|SCLHQSPVRKAAYPA,polymerase,polymerase,263,277,SCLHQSPVRKAAYPA,NC_003977.2,reference,,1
+264,REF|polymerase|start264|CLHQSPVRKAAYPAV,polymerase,polymerase,264,278,CLHQSPVRKAAYPAV,NC_003977.2,reference,,1
+265,REF|polymerase|start265|LHQSPVRKAAYPAVS,polymerase,polymerase,265,279,LHQSPVRKAAYPAVS,NC_003977.2,reference,,1
+266,REF|polymerase|start266|HQSPVRKAAYPAVST,polymerase,polymerase,266,280,HQSPVRKAAYPAVST,NC_003977.2,reference,,1
+267,REF|polymerase|start267|QSPVRKAAYPAVSTF,polymerase,polymerase,267,281,QSPVRKAAYPAVSTF,NC_003977.2,reference,,1
+268,REF|polymerase|start268|SPVRKAAYPAVSTFE,polymerase,polymerase,268,282,SPVRKAAYPAVSTFE,NC_003977.2,reference,,1
+269,REF|polymerase|start269|PVRKAAYPAVSTFEK,polymerase,polymerase,269,283,PVRKAAYPAVSTFEK,NC_003977.2,reference,,1
+270,REF|polymerase|start270|VRKAAYPAVSTFEKH,polymerase,polymerase,270,284,VRKAAYPAVSTFEKH,NC_003977.2,reference,,1
+271,REF|polymerase|start271|RKAAYPAVSTFEKHS,polymerase,polymerase,271,285,RKAAYPAVSTFEKHS,NC_003977.2,reference,,1
+272,REF|polymerase|start272|KAAYPAVSTFEKHSS,polymerase,polymerase,272,286,KAAYPAVSTFEKHSS,NC_003977.2,reference,,1
+273,REF|polymerase|start273|AAYPAVSTFEKHSSS,polymerase,polymerase,273,287,AAYPAVSTFEKHSSS,NC_003977.2,reference,,1
+274,REF|polymerase|start274|AYPAVSTFEKHSSSG,polymerase,polymerase,274,288,AYPAVSTFEKHSSSG,NC_003977.2,reference,,1
+275,REF|polymerase|start275|YPAVSTFEKHSSSGH,polymerase,polymerase,275,289,YPAVSTFEKHSSSGH,NC_003977.2,reference,,1
+276,REF|polymerase|start276|PAVSTFEKHSSSGHA,polymerase,polymerase,276,290,PAVSTFEKHSSSGHA,NC_003977.2,reference,,1
+277,REF|polymerase|start277|AVSTFEKHSSSGHAV,polymerase,polymerase,277,291,AVSTFEKHSSSGHAV,NC_003977.2,reference,,1
+278,REF|polymerase|start278|VSTFEKHSSSGHAVE,polymerase,polymerase,278,292,VSTFEKHSSSGHAVE,NC_003977.2,reference,,1
+279,REF|polymerase|start279|STFEKHSSSGHAVEF,polymerase,polymerase,279,293,STFEKHSSSGHAVEF,NC_003977.2,reference,,1
+280,REF|polymerase|start280|TFEKHSSSGHAVEFH,polymerase,polymerase,280,294,TFEKHSSSGHAVEFH,NC_003977.2,reference,,1
+281,REF|polymerase|start281|FEKHSSSGHAVEFHN,polymerase,polymerase,281,295,FEKHSSSGHAVEFHN,NC_003977.2,reference,,1
+282,REF|polymerase|start282|EKHSSSGHAVEFHNL,polymerase,polymerase,282,296,EKHSSSGHAVEFHNL,NC_003977.2,reference,,1
+283,REF|polymerase|start283|KHSSSGHAVEFHNLP,polymerase,polymerase,283,297,KHSSSGHAVEFHNLP,NC_003977.2,reference,,1
+284,REF|polymerase|start284|HSSSGHAVEFHNLPP,polymerase,polymerase,284,298,HSSSGHAVEFHNLPP,NC_003977.2,reference,,1
+285,REF|polymerase|start285|SSSGHAVEFHNLPPN,polymerase,polymerase,285,299,SSSGHAVEFHNLPPN,NC_003977.2,reference,,1
+286,REF|polymerase|start286|SSGHAVEFHNLPPNS,polymerase,polymerase,286,300,SSGHAVEFHNLPPNS,NC_003977.2,reference,,1
+287,REF|polymerase|start287|SGHAVEFHNLPPNSA,polymerase,polymerase,287,301,SGHAVEFHNLPPNSA,NC_003977.2,reference,,1
+288,REF|polymerase|start288|GHAVEFHNLPPNSAR,polymerase,polymerase,288,302,GHAVEFHNLPPNSAR,NC_003977.2,reference,,1
+289,REF|polymerase|start289|HAVEFHNLPPNSARS,polymerase,polymerase,289,303,HAVEFHNLPPNSARS,NC_003977.2,reference,,1
+290,REF|polymerase|start290|AVEFHNLPPNSARSQ,polymerase,polymerase,290,304,AVEFHNLPPNSARSQ,NC_003977.2,reference,,1
+291,REF|polymerase|start291|VEFHNLPPNSARSQS,polymerase,polymerase,291,305,VEFHNLPPNSARSQS,NC_003977.2,reference,,1
+292,REF|polymerase|start292|EFHNLPPNSARSQSE,polymerase,polymerase,292,306,EFHNLPPNSARSQSE,NC_003977.2,reference,,1
+293,REF|polymerase|start293|FHNLPPNSARSQSER,polymerase,polymerase,293,307,FHNLPPNSARSQSER,NC_003977.2,reference,,1
+294,REF|polymerase|start294|HNLPPNSARSQSERP,polymerase,polymerase,294,308,HNLPPNSARSQSERP,NC_003977.2,reference,,1
+295,REF|polymerase|start295|NLPPNSARSQSERPV,polymerase,polymerase,295,309,NLPPNSARSQSERPV,NC_003977.2,reference,,1
+296,REF|polymerase|start296|LPPNSARSQSERPVF,polymerase,polymerase,296,310,LPPNSARSQSERPVF,NC_003977.2,reference,,1
+297,REF|polymerase|start297|PPNSARSQSERPVFP,polymerase,polymerase,297,311,PPNSARSQSERPVFP,NC_003977.2,reference,,1
+298,REF|polymerase|start298|PNSARSQSERPVFPC,polymerase,polymerase,298,312,PNSARSQSERPVFPC,NC_003977.2,reference,,1
+299,REF|polymerase|start299|NSARSQSERPVFPCW,polymerase,polymerase,299,313,NSARSQSERPVFPCW,NC_003977.2,reference,,1
+300,REF|polymerase|start300|SARSQSERPVFPCWW,polymerase,polymerase,300,314,SARSQSERPVFPCWW,NC_003977.2,reference,,1
+301,REF|polymerase|start301|ARSQSERPVFPCWWL,polymerase,polymerase,301,315,ARSQSERPVFPCWWL,NC_003977.2,reference,,1
+302,REF|polymerase|start302|RSQSERPVFPCWWLQ,polymerase,polymerase,302,316,RSQSERPVFPCWWLQ,NC_003977.2,reference,,1
+303,REF|polymerase|start303|SQSERPVFPCWWLQF,polymerase,polymerase,303,317,SQSERPVFPCWWLQF,NC_003977.2,reference,,1
+304,REF|polymerase|start304|QSERPVFPCWWLQFR,polymerase,polymerase,304,318,QSERPVFPCWWLQFR,NC_003977.2,reference,,1
+305,REF|polymerase|start305|SERPVFPCWWLQFRN,polymerase,polymerase,305,319,SERPVFPCWWLQFRN,NC_003977.2,reference,,1
+306,REF|polymerase|start306|ERPVFPCWWLQFRNS,polymerase,polymerase,306,320,ERPVFPCWWLQFRNS,NC_003977.2,reference,,1
+307,REF|polymerase|start307|RPVFPCWWLQFRNSK,polymerase,polymerase,307,321,RPVFPCWWLQFRNSK,NC_003977.2,reference,,1
+308,REF|polymerase|start308|PVFPCWWLQFRNSKP,polymerase,polymerase,308,322,PVFPCWWLQFRNSKP,NC_003977.2,reference,,1
+309,REF|polymerase|start309|VFPCWWLQFRNSKPC,polymerase,polymerase,309,323,VFPCWWLQFRNSKPC,NC_003977.2,reference,,1
+310,REF|polymerase|start310|FPCWWLQFRNSKPCS,polymerase,polymerase,310,324,FPCWWLQFRNSKPCS,NC_003977.2,reference,,1
+311,REF|polymerase|start311|PCWWLQFRNSKPCSD,polymerase,polymerase,311,325,PCWWLQFRNSKPCSD,NC_003977.2,reference,,1
+312,REF|polymerase|start312|CWWLQFRNSKPCSDY,polymerase,polymerase,312,326,CWWLQFRNSKPCSDY,NC_003977.2,reference,,1
+313,REF|polymerase|start313|WWLQFRNSKPCSDYC,polymerase,polymerase,313,327,WWLQFRNSKPCSDYC,NC_003977.2,reference,,1
+314,REF|polymerase|start314|WLQFRNSKPCSDYCL,polymerase,polymerase,314,328,WLQFRNSKPCSDYCL,NC_003977.2,reference,,1
+315,REF|polymerase|start315|LQFRNSKPCSDYCLS,polymerase,polymerase,315,329,LQFRNSKPCSDYCLS,NC_003977.2,reference,,1
+316,REF|polymerase|start316|QFRNSKPCSDYCLSL,polymerase,polymerase,316,330,QFRNSKPCSDYCLSL,NC_003977.2,reference,,1
+317,REF|polymerase|start317|FRNSKPCSDYCLSLI,polymerase,polymerase,317,331,FRNSKPCSDYCLSLI,NC_003977.2,reference,,1
+318,REF|polymerase|start318|RNSKPCSDYCLSLIV,polymerase,polymerase,318,332,RNSKPCSDYCLSLIV,NC_003977.2,reference,,1
+319,REF|polymerase|start319|NSKPCSDYCLSLIVN,polymerase,polymerase,319,333,NSKPCSDYCLSLIVN,NC_003977.2,reference,,1
+320,REF|polymerase|start320|SKPCSDYCLSLIVNL,polymerase,polymerase,320,334,SKPCSDYCLSLIVNL,NC_003977.2,reference,,1
+321,REF|polymerase|start321|KPCSDYCLSLIVNLL,polymerase,polymerase,321,335,KPCSDYCLSLIVNLL,NC_003977.2,reference,,1
+322,REF|polymerase|start322|PCSDYCLSLIVNLLE,polymerase,polymerase,322,336,PCSDYCLSLIVNLLE,NC_003977.2,reference,,1
+323,REF|polymerase|start323|CSDYCLSLIVNLLED,polymerase,polymerase,323,337,CSDYCLSLIVNLLED,NC_003977.2,reference,,1
+324,REF|polymerase|start324|SDYCLSLIVNLLEDW,polymerase,polymerase,324,338,SDYCLSLIVNLLEDW,NC_003977.2,reference,,1
+325,REF|polymerase|start325|DYCLSLIVNLLEDWG,polymerase,polymerase,325,339,DYCLSLIVNLLEDWG,NC_003977.2,reference,,1
+326,REF|polymerase|start326|YCLSLIVNLLEDWGP,polymerase,polymerase,326,340,YCLSLIVNLLEDWGP,NC_003977.2,reference,,1
+327,REF|polymerase|start327|CLSLIVNLLEDWGPC,polymerase,polymerase,327,341,CLSLIVNLLEDWGPC,NC_003977.2,reference,,1
+328,REF|polymerase|start328|LSLIVNLLEDWGPCA,polymerase,polymerase,328,342,LSLIVNLLEDWGPCA,NC_003977.2,reference,,1
+329,REF|polymerase|start329|SLIVNLLEDWGPCAE,polymerase,polymerase,329,343,SLIVNLLEDWGPCAE,NC_003977.2,reference,,1
+330,REF|polymerase|start330|LIVNLLEDWGPCAEH,polymerase,polymerase,330,344,LIVNLLEDWGPCAEH,NC_003977.2,reference,,1
+331,REF|polymerase|start331|IVNLLEDWGPCAEHG,polymerase,polymerase,331,345,IVNLLEDWGPCAEHG,NC_003977.2,reference,,1
+332,REF|polymerase|start332|VNLLEDWGPCAEHGE,polymerase,polymerase,332,346,VNLLEDWGPCAEHGE,NC_003977.2,reference,,1
+333,REF|polymerase|start333|NLLEDWGPCAEHGEH,polymerase,polymerase,333,347,NLLEDWGPCAEHGEH,NC_003977.2,reference,,1
+334,REF|polymerase|start334|LLEDWGPCAEHGEHH,polymerase,polymerase,334,348,LLEDWGPCAEHGEHH,NC_003977.2,reference,,1
+335,REF|polymerase|start335|LEDWGPCAEHGEHHI,polymerase,polymerase,335,349,LEDWGPCAEHGEHHI,NC_003977.2,reference,,1
+336,REF|polymerase|start336|EDWGPCAEHGEHHIR,polymerase,polymerase,336,350,EDWGPCAEHGEHHIR,NC_003977.2,reference,,1
+337,REF|polymerase|start337|DWGPCAEHGEHHIRI,polymerase,polymerase,337,351,DWGPCAEHGEHHIRI,NC_003977.2,reference,,1
+338,REF|polymerase|start338|WGPCAEHGEHHIRIP,polymerase,polymerase,338,352,WGPCAEHGEHHIRIP,NC_003977.2,reference,,1
+339,REF|polymerase|start339|GPCAEHGEHHIRIPR,polymerase,polymerase,339,353,GPCAEHGEHHIRIPR,NC_003977.2,reference,,1
+340,REF|polymerase|start340|PCAEHGEHHIRIPRT,polymerase,polymerase,340,354,PCAEHGEHHIRIPRT,NC_003977.2,reference,,1
+341,REF|polymerase|start341|CAEHGEHHIRIPRTP,polymerase,polymerase,341,355,CAEHGEHHIRIPRTP,NC_003977.2,reference,,1
+342,REF|polymerase|start342|AEHGEHHIRIPRTPS,polymerase,polymerase,342,356,AEHGEHHIRIPRTPS,NC_003977.2,reference,,1
+343,REF|polymerase|start343|EHGEHHIRIPRTPSR,polymerase,polymerase,343,357,EHGEHHIRIPRTPSR,NC_003977.2,reference,,1
+344,REF|polymerase|start344|HGEHHIRIPRTPSRV,polymerase,polymerase,344,358,HGEHHIRIPRTPSRV,NC_003977.2,reference,,1
+345,REF|polymerase|start345|GEHHIRIPRTPSRVT,polymerase,polymerase,345,359,GEHHIRIPRTPSRVT,NC_003977.2,reference,,1
+346,REF|polymerase|start346|EHHIRIPRTPSRVTG,polymerase,polymerase,346,360,EHHIRIPRTPSRVTG,NC_003977.2,reference,,1
+347,REF|polymerase|start347|HHIRIPRTPSRVTGG,polymerase,polymerase,347,361,HHIRIPRTPSRVTGG,NC_003977.2,reference,,1
+348,REF|polymerase|start348|HIRIPRTPSRVTGGV,polymerase,polymerase,348,362,HIRIPRTPSRVTGGV,NC_003977.2,reference,,1
+349,REF|polymerase|start349|IRIPRTPSRVTGGVF,polymerase,polymerase,349,363,IRIPRTPSRVTGGVF,NC_003977.2,reference,,1
+350,REF|polymerase|start350|RIPRTPSRVTGGVFL,polymerase,polymerase,350,364,RIPRTPSRVTGGVFL,NC_003977.2,reference,,1
+351,REF|polymerase|start351|IPRTPSRVTGGVFLV,polymerase,polymerase,351,365,IPRTPSRVTGGVFLV,NC_003977.2,reference,,1
+352,REF|polymerase|start352|PRTPSRVTGGVFLVD,polymerase,polymerase,352,366,PRTPSRVTGGVFLVD,NC_003977.2,reference,,1
+353,REF|polymerase|start353|RTPSRVTGGVFLVDK,polymerase,polymerase,353,367,RTPSRVTGGVFLVDK,NC_003977.2,reference,,1
+354,REF|polymerase|start354|TPSRVTGGVFLVDKN,polymerase,polymerase,354,368,TPSRVTGGVFLVDKN,NC_003977.2,reference,,1
+355,REF|polymerase|start355|PSRVTGGVFLVDKNP,polymerase,polymerase,355,369,PSRVTGGVFLVDKNP,NC_003977.2,reference,,1
+356,REF|polymerase|start356|SRVTGGVFLVDKNPH,polymerase,polymerase,356,370,SRVTGGVFLVDKNPH,NC_003977.2,reference,,1
+357,REF|polymerase|start357|RVTGGVFLVDKNPHN,polymerase,polymerase,357,371,RVTGGVFLVDKNPHN,NC_003977.2,reference,,1
+358,REF|polymerase|start358|VTGGVFLVDKNPHNT,polymerase,polymerase,358,372,VTGGVFLVDKNPHNT,NC_003977.2,reference,,1
+359,REF|polymerase|start359|TGGVFLVDKNPHNTA,polymerase,polymerase,359,373,TGGVFLVDKNPHNTA,NC_003977.2,reference,,1
+360,REF|polymerase|start360|GGVFLVDKNPHNTAE,polymerase,polymerase,360,374,GGVFLVDKNPHNTAE,NC_003977.2,reference,,1
+361,REF|polymerase|start361|GVFLVDKNPHNTAES,polymerase,polymerase,361,375,GVFLVDKNPHNTAES,NC_003977.2,reference,,1
+362,REF|polymerase|start362|VFLVDKNPHNTAESR,polymerase,polymerase,362,376,VFLVDKNPHNTAESR,NC_003977.2,reference,,1
+363,REF|polymerase|start363|FLVDKNPHNTAESRL,polymerase,polymerase,363,377,FLVDKNPHNTAESRL,NC_003977.2,reference,,1
+364,REF|polymerase|start364|LVDKNPHNTAESRLV,polymerase,polymerase,364,378,LVDKNPHNTAESRLV,NC_003977.2,reference,,1
+365,REF|polymerase|start365|VDKNPHNTAESRLVV,polymerase,polymerase,365,379,VDKNPHNTAESRLVV,NC_003977.2,reference,,1
+366,REF|polymerase|start366|DKNPHNTAESRLVVD,polymerase,polymerase,366,380,DKNPHNTAESRLVVD,NC_003977.2,reference,,1
+367,REF|polymerase|start367|KNPHNTAESRLVVDF,polymerase,polymerase,367,381,KNPHNTAESRLVVDF,NC_003977.2,reference,,1
+368,REF|polymerase|start368|NPHNTAESRLVVDFS,polymerase,polymerase,368,382,NPHNTAESRLVVDFS,NC_003977.2,reference,,1
+369,REF|polymerase|start369|PHNTAESRLVVDFSQ,polymerase,polymerase,369,383,PHNTAESRLVVDFSQ,NC_003977.2,reference,,1
+370,REF|polymerase|start370|HNTAESRLVVDFSQF,polymerase,polymerase,370,384,HNTAESRLVVDFSQF,NC_003977.2,reference,,1
+371,REF|polymerase|start371|NTAESRLVVDFSQFS,polymerase,polymerase,371,385,NTAESRLVVDFSQFS,NC_003977.2,reference,,1
+372,REF|polymerase|start372|TAESRLVVDFSQFSR,polymerase,polymerase,372,386,TAESRLVVDFSQFSR,NC_003977.2,reference,,1
+373,REF|polymerase|start373|AESRLVVDFSQFSRG,polymerase,polymerase,373,387,AESRLVVDFSQFSRG,NC_003977.2,reference,,1
+374,REF|polymerase|start374|ESRLVVDFSQFSRGN,polymerase,polymerase,374,388,ESRLVVDFSQFSRGN,NC_003977.2,reference,,1
+375,REF|polymerase|start375|SRLVVDFSQFSRGNY,polymerase,polymerase,375,389,SRLVVDFSQFSRGNY,NC_003977.2,reference,,1
+376,REF|polymerase|start376|RLVVDFSQFSRGNYR,polymerase,polymerase,376,390,RLVVDFSQFSRGNYR,NC_003977.2,reference,,1
+377,REF|polymerase|start377|LVVDFSQFSRGNYRV,polymerase,polymerase,377,391,LVVDFSQFSRGNYRV,NC_003977.2,reference,,1
+378,REF|polymerase|start378|VVDFSQFSRGNYRVS,polymerase,polymerase,378,392,VVDFSQFSRGNYRVS,NC_003977.2,reference,,1
+379,REF|polymerase|start379|VDFSQFSRGNYRVSW,polymerase,polymerase,379,393,VDFSQFSRGNYRVSW,NC_003977.2,reference,,1
+380,REF|polymerase|start380|DFSQFSRGNYRVSWP,polymerase,polymerase,380,394,DFSQFSRGNYRVSWP,NC_003977.2,reference,,1
+381,REF|polymerase|start381|FSQFSRGNYRVSWPK,polymerase,polymerase,381,395,FSQFSRGNYRVSWPK,NC_003977.2,reference,,1
+382,REF|polymerase|start382|SQFSRGNYRVSWPKF,polymerase,polymerase,382,396,SQFSRGNYRVSWPKF,NC_003977.2,reference,,1
+383,REF|polymerase|start383|QFSRGNYRVSWPKFA,polymerase,polymerase,383,397,QFSRGNYRVSWPKFA,NC_003977.2,reference,,1
+384,REF|polymerase|start384|FSRGNYRVSWPKFAV,polymerase,polymerase,384,398,FSRGNYRVSWPKFAV,NC_003977.2,reference,,1
+385,REF|polymerase|start385|SRGNYRVSWPKFAVP,polymerase,polymerase,385,399,SRGNYRVSWPKFAVP,NC_003977.2,reference,,1
+386,REF|polymerase|start386|RGNYRVSWPKFAVPN,polymerase,polymerase,386,400,RGNYRVSWPKFAVPN,NC_003977.2,reference,,1
+387,REF|polymerase|start387|GNYRVSWPKFAVPNL,polymerase,polymerase,387,401,GNYRVSWPKFAVPNL,NC_003977.2,reference,,1
+388,REF|polymerase|start388|NYRVSWPKFAVPNLQ,polymerase,polymerase,388,402,NYRVSWPKFAVPNLQ,NC_003977.2,reference,,1
+389,REF|polymerase|start389|YRVSWPKFAVPNLQS,polymerase,polymerase,389,403,YRVSWPKFAVPNLQS,NC_003977.2,reference,,1
+390,REF|polymerase|start390|RVSWPKFAVPNLQSL,polymerase,polymerase,390,404,RVSWPKFAVPNLQSL,NC_003977.2,reference,,1
+391,REF|polymerase|start391|VSWPKFAVPNLQSLT,polymerase,polymerase,391,405,VSWPKFAVPNLQSLT,NC_003977.2,reference,,1
+392,REF|polymerase|start392|SWPKFAVPNLQSLTN,polymerase,polymerase,392,406,SWPKFAVPNLQSLTN,NC_003977.2,reference,,1
+393,REF|polymerase|start393|WPKFAVPNLQSLTNL,polymerase,polymerase,393,407,WPKFAVPNLQSLTNL,NC_003977.2,reference,,1
+394,REF|polymerase|start394|PKFAVPNLQSLTNLL,polymerase,polymerase,394,408,PKFAVPNLQSLTNLL,NC_003977.2,reference,,1
+395,REF|polymerase|start395|KFAVPNLQSLTNLLS,polymerase,polymerase,395,409,KFAVPNLQSLTNLLS,NC_003977.2,reference,,1
+396,REF|polymerase|start396|FAVPNLQSLTNLLSS,polymerase,polymerase,396,410,FAVPNLQSLTNLLSS,NC_003977.2,reference,,1
+397,REF|polymerase|start397|AVPNLQSLTNLLSSN,polymerase,polymerase,397,411,AVPNLQSLTNLLSSN,NC_003977.2,reference,,1
+398,REF|polymerase|start398|VPNLQSLTNLLSSNL,polymerase,polymerase,398,412,VPNLQSLTNLLSSNL,NC_003977.2,reference,,1
+399,REF|polymerase|start399|PNLQSLTNLLSSNLS,polymerase,polymerase,399,413,PNLQSLTNLLSSNLS,NC_003977.2,reference,,1
+400,REF|polymerase|start400|NLQSLTNLLSSNLSW,polymerase,polymerase,400,414,NLQSLTNLLSSNLSW,NC_003977.2,reference,,1
+401,REF|polymerase|start401|LQSLTNLLSSNLSWL,polymerase,polymerase,401,415,LQSLTNLLSSNLSWL,NC_003977.2,reference,,1
+402,REF|polymerase|start402|QSLTNLLSSNLSWLS,polymerase,polymerase,402,416,QSLTNLLSSNLSWLS,NC_003977.2,reference,,1
+403,REF|polymerase|start403|SLTNLLSSNLSWLSL,polymerase,polymerase,403,417,SLTNLLSSNLSWLSL,NC_003977.2,reference,,1
+404,REF|polymerase|start404|LTNLLSSNLSWLSLD,polymerase,polymerase,404,418,LTNLLSSNLSWLSLD,NC_003977.2,reference,,1
+405,REF|polymerase|start405|TNLLSSNLSWLSLDV,polymerase,polymerase,405,419,TNLLSSNLSWLSLDV,NC_003977.2,reference,,1
+406,REF|polymerase|start406|NLLSSNLSWLSLDVS,polymerase,polymerase,406,420,NLLSSNLSWLSLDVS,NC_003977.2,reference,,1
+407,REF|polymerase|start407|LLSSNLSWLSLDVSA,polymerase,polymerase,407,421,LLSSNLSWLSLDVSA,NC_003977.2,reference,,1
+408,REF|polymerase|start408|LSSNLSWLSLDVSAA,polymerase,polymerase,408,422,LSSNLSWLSLDVSAA,NC_003977.2,reference,,1
+409,REF|polymerase|start409|SSNLSWLSLDVSAAF,polymerase,polymerase,409,423,SSNLSWLSLDVSAAF,NC_003977.2,reference,,1
+410,REF|polymerase|start410|SNLSWLSLDVSAAFY,polymerase,polymerase,410,424,SNLSWLSLDVSAAFY,NC_003977.2,reference,,1
+411,REF|polymerase|start411|NLSWLSLDVSAAFYH,polymerase,polymerase,411,425,NLSWLSLDVSAAFYH,NC_003977.2,reference,,1
+412,REF|polymerase|start412|LSWLSLDVSAAFYHL,polymerase,polymerase,412,426,LSWLSLDVSAAFYHL,NC_003977.2,reference,,1
+413,REF|polymerase|start413|SWLSLDVSAAFYHLP,polymerase,polymerase,413,427,SWLSLDVSAAFYHLP,NC_003977.2,reference,,1
+414,REF|polymerase|start414|WLSLDVSAAFYHLPL,polymerase,polymerase,414,428,WLSLDVSAAFYHLPL,NC_003977.2,reference,,1
+415,REF|polymerase|start415|LSLDVSAAFYHLPLH,polymerase,polymerase,415,429,LSLDVSAAFYHLPLH,NC_003977.2,reference,,1
+416,REF|polymerase|start416|SLDVSAAFYHLPLHP,polymerase,polymerase,416,430,SLDVSAAFYHLPLHP,NC_003977.2,reference,,1
+417,REF|polymerase|start417|LDVSAAFYHLPLHPA,polymerase,polymerase,417,431,LDVSAAFYHLPLHPA,NC_003977.2,reference,,1
+418,REF|polymerase|start418|DVSAAFYHLPLHPAA,polymerase,polymerase,418,432,DVSAAFYHLPLHPAA,NC_003977.2,reference,,1
+419,REF|polymerase|start419|VSAAFYHLPLHPAAM,polymerase,polymerase,419,433,VSAAFYHLPLHPAAM,NC_003977.2,reference,,1
+420,REF|polymerase|start420|SAAFYHLPLHPAAMP,polymerase,polymerase,420,434,SAAFYHLPLHPAAMP,NC_003977.2,reference,,1
+421,REF|polymerase|start421|AAFYHLPLHPAAMPH,polymerase,polymerase,421,435,AAFYHLPLHPAAMPH,NC_003977.2,reference,,1
+422,REF|polymerase|start422|AFYHLPLHPAAMPHL,polymerase,polymerase,422,436,AFYHLPLHPAAMPHL,NC_003977.2,reference,,1
+423,REF|polymerase|start423|FYHLPLHPAAMPHLL,polymerase,polymerase,423,437,FYHLPLHPAAMPHLL,NC_003977.2,reference,,1
+424,REF|polymerase|start424|YHLPLHPAAMPHLLV,polymerase,polymerase,424,438,YHLPLHPAAMPHLLV,NC_003977.2,reference,,1
+425,REF|polymerase|start425|HLPLHPAAMPHLLVG,polymerase,polymerase,425,439,HLPLHPAAMPHLLVG,NC_003977.2,reference,,1
+426,REF|polymerase|start426|LPLHPAAMPHLLVGS,polymerase,polymerase,426,440,LPLHPAAMPHLLVGS,NC_003977.2,reference,,1
+427,REF|polymerase|start427|PLHPAAMPHLLVGSS,polymerase,polymerase,427,441,PLHPAAMPHLLVGSS,NC_003977.2,reference,,1
+428,REF|polymerase|start428|LHPAAMPHLLVGSSG,polymerase,polymerase,428,442,LHPAAMPHLLVGSSG,NC_003977.2,reference,,1
+429,REF|polymerase|start429|HPAAMPHLLVGSSGL,polymerase,polymerase,429,443,HPAAMPHLLVGSSGL,NC_003977.2,reference,,1
+430,REF|polymerase|start430|PAAMPHLLVGSSGLS,polymerase,polymerase,430,444,PAAMPHLLVGSSGLS,NC_003977.2,reference,,1
+431,REF|polymerase|start431|AAMPHLLVGSSGLSR,polymerase,polymerase,431,445,AAMPHLLVGSSGLSR,NC_003977.2,reference,,1
+432,REF|polymerase|start432|AMPHLLVGSSGLSRY,polymerase,polymerase,432,446,AMPHLLVGSSGLSRY,NC_003977.2,reference,,1
+433,REF|polymerase|start433|MPHLLVGSSGLSRYV,polymerase,polymerase,433,447,MPHLLVGSSGLSRYV,NC_003977.2,reference,,1
+434,REF|polymerase|start434|PHLLVGSSGLSRYVA,polymerase,polymerase,434,448,PHLLVGSSGLSRYVA,NC_003977.2,reference,,1
+435,REF|polymerase|start435|HLLVGSSGLSRYVAR,polymerase,polymerase,435,449,HLLVGSSGLSRYVAR,NC_003977.2,reference,,1
+436,REF|polymerase|start436|LLVGSSGLSRYVARL,polymerase,polymerase,436,450,LLVGSSGLSRYVARL,NC_003977.2,reference,,1
+437,REF|polymerase|start437|LVGSSGLSRYVARLS,polymerase,polymerase,437,451,LVGSSGLSRYVARLS,NC_003977.2,reference,,1
+438,REF|polymerase|start438|VGSSGLSRYVARLSS,polymerase,polymerase,438,452,VGSSGLSRYVARLSS,NC_003977.2,reference,,1
+439,REF|polymerase|start439|GSSGLSRYVARLSSN,polymerase,polymerase,439,453,GSSGLSRYVARLSSN,NC_003977.2,reference,,1
+440,REF|polymerase|start440|SSGLSRYVARLSSNS,polymerase,polymerase,440,454,SSGLSRYVARLSSNS,NC_003977.2,reference,,1
+441,REF|polymerase|start441|SGLSRYVARLSSNSR,polymerase,polymerase,441,455,SGLSRYVARLSSNSR,NC_003977.2,reference,,1
+442,REF|polymerase|start442|GLSRYVARLSSNSRI,polymerase,polymerase,442,456,GLSRYVARLSSNSRI,NC_003977.2,reference,,1
+443,REF|polymerase|start443|LSRYVARLSSNSRIL,polymerase,polymerase,443,457,LSRYVARLSSNSRIL,NC_003977.2,reference,,1
+444,REF|polymerase|start444|SRYVARLSSNSRILN,polymerase,polymerase,444,458,SRYVARLSSNSRILN,NC_003977.2,reference,,1
+445,REF|polymerase|start445|RYVARLSSNSRILNN,polymerase,polymerase,445,459,RYVARLSSNSRILNN,NC_003977.2,reference,,1
+446,REF|polymerase|start446|YVARLSSNSRILNNQ,polymerase,polymerase,446,460,YVARLSSNSRILNNQ,NC_003977.2,reference,,1
+447,REF|polymerase|start447|VARLSSNSRILNNQH,polymerase,polymerase,447,461,VARLSSNSRILNNQH,NC_003977.2,reference,,1
+448,REF|polymerase|start448|ARLSSNSRILNNQHG,polymerase,polymerase,448,462,ARLSSNSRILNNQHG,NC_003977.2,reference,,1
+449,REF|polymerase|start449|RLSSNSRILNNQHGT,polymerase,polymerase,449,463,RLSSNSRILNNQHGT,NC_003977.2,reference,,1
+450,REF|polymerase|start450|LSSNSRILNNQHGTM,polymerase,polymerase,450,464,LSSNSRILNNQHGTM,NC_003977.2,reference,,1
+451,REF|polymerase|start451|SSNSRILNNQHGTMP,polymerase,polymerase,451,465,SSNSRILNNQHGTMP,NC_003977.2,reference,,1
+452,REF|polymerase|start452|SNSRILNNQHGTMPD,polymerase,polymerase,452,466,SNSRILNNQHGTMPD,NC_003977.2,reference,,1
+453,REF|polymerase|start453|NSRILNNQHGTMPDL,polymerase,polymerase,453,467,NSRILNNQHGTMPDL,NC_003977.2,reference,,1
+454,REF|polymerase|start454|SRILNNQHGTMPDLH,polymerase,polymerase,454,468,SRILNNQHGTMPDLH,NC_003977.2,reference,,1
+455,REF|polymerase|start455|RILNNQHGTMPDLHD,polymerase,polymerase,455,469,RILNNQHGTMPDLHD,NC_003977.2,reference,,1
+456,REF|polymerase|start456|ILNNQHGTMPDLHDY,polymerase,polymerase,456,470,ILNNQHGTMPDLHDY,NC_003977.2,reference,,1
+457,REF|polymerase|start457|LNNQHGTMPDLHDYC,polymerase,polymerase,457,471,LNNQHGTMPDLHDYC,NC_003977.2,reference,,1
+458,REF|polymerase|start458|NNQHGTMPDLHDYCS,polymerase,polymerase,458,472,NNQHGTMPDLHDYCS,NC_003977.2,reference,,1
+459,REF|polymerase|start459|NQHGTMPDLHDYCSR,polymerase,polymerase,459,473,NQHGTMPDLHDYCSR,NC_003977.2,reference,,1
+460,REF|polymerase|start460|QHGTMPDLHDYCSRN,polymerase,polymerase,460,474,QHGTMPDLHDYCSRN,NC_003977.2,reference,,1
+461,REF|polymerase|start461|HGTMPDLHDYCSRNL,polymerase,polymerase,461,475,HGTMPDLHDYCSRNL,NC_003977.2,reference,,1
+462,REF|polymerase|start462|GTMPDLHDYCSRNLY,polymerase,polymerase,462,476,GTMPDLHDYCSRNLY,NC_003977.2,reference,,1
+463,REF|polymerase|start463|TMPDLHDYCSRNLYV,polymerase,polymerase,463,477,TMPDLHDYCSRNLYV,NC_003977.2,reference,,1
+464,REF|polymerase|start464|MPDLHDYCSRNLYVS,polymerase,polymerase,464,478,MPDLHDYCSRNLYVS,NC_003977.2,reference,,1
+465,REF|polymerase|start465|PDLHDYCSRNLYVSL,polymerase,polymerase,465,479,PDLHDYCSRNLYVSL,NC_003977.2,reference,,1
+466,REF|polymerase|start466|DLHDYCSRNLYVSLL,polymerase,polymerase,466,480,DLHDYCSRNLYVSLL,NC_003977.2,reference,,1
+467,REF|polymerase|start467|LHDYCSRNLYVSLLL,polymerase,polymerase,467,481,LHDYCSRNLYVSLLL,NC_003977.2,reference,,1
+468,REF|polymerase|start468|HDYCSRNLYVSLLLL,polymerase,polymerase,468,482,HDYCSRNLYVSLLLL,NC_003977.2,reference,,1
+469,REF|polymerase|start469|DYCSRNLYVSLLLLY,polymerase,polymerase,469,483,DYCSRNLYVSLLLLY,NC_003977.2,reference,,1
+470,REF|polymerase|start470|YCSRNLYVSLLLLYQ,polymerase,polymerase,470,484,YCSRNLYVSLLLLYQ,NC_003977.2,reference,,1
+471,REF|polymerase|start471|CSRNLYVSLLLLYQT,polymerase,polymerase,471,485,CSRNLYVSLLLLYQT,NC_003977.2,reference,,1
+472,REF|polymerase|start472|SRNLYVSLLLLYQTF,polymerase,polymerase,472,486,SRNLYVSLLLLYQTF,NC_003977.2,reference,,1
+473,REF|polymerase|start473|RNLYVSLLLLYQTFG,polymerase,polymerase,473,487,RNLYVSLLLLYQTFG,NC_003977.2,reference,,1
+474,REF|polymerase|start474|NLYVSLLLLYQTFGR,polymerase,polymerase,474,488,NLYVSLLLLYQTFGR,NC_003977.2,reference,,1
+475,REF|polymerase|start475|LYVSLLLLYQTFGRK,polymerase,polymerase,475,489,LYVSLLLLYQTFGRK,NC_003977.2,reference,,1
+476,REF|polymerase|start476|YVSLLLLYQTFGRKL,polymerase,polymerase,476,490,YVSLLLLYQTFGRKL,NC_003977.2,reference,,1
+477,REF|polymerase|start477|VSLLLLYQTFGRKLH,polymerase,polymerase,477,491,VSLLLLYQTFGRKLH,NC_003977.2,reference,,1
+478,REF|polymerase|start478|SLLLLYQTFGRKLHL,polymerase,polymerase,478,492,SLLLLYQTFGRKLHL,NC_003977.2,reference,,1
+479,REF|polymerase|start479|LLLLYQTFGRKLHLY,polymerase,polymerase,479,493,LLLLYQTFGRKLHLY,NC_003977.2,reference,,1
+480,REF|polymerase|start480|LLLYQTFGRKLHLYS,polymerase,polymerase,480,494,LLLYQTFGRKLHLYS,NC_003977.2,reference,,1
+481,REF|polymerase|start481|LLYQTFGRKLHLYSH,polymerase,polymerase,481,495,LLYQTFGRKLHLYSH,NC_003977.2,reference,,1
+482,REF|polymerase|start482|LYQTFGRKLHLYSHP,polymerase,polymerase,482,496,LYQTFGRKLHLYSHP,NC_003977.2,reference,,1
+483,REF|polymerase|start483|YQTFGRKLHLYSHPI,polymerase,polymerase,483,497,YQTFGRKLHLYSHPI,NC_003977.2,reference,,1
+484,REF|polymerase|start484|QTFGRKLHLYSHPII,polymerase,polymerase,484,498,QTFGRKLHLYSHPII,NC_003977.2,reference,,1
+485,REF|polymerase|start485|TFGRKLHLYSHPIIL,polymerase,polymerase,485,499,TFGRKLHLYSHPIIL,NC_003977.2,reference,,1
+486,REF|polymerase|start486|FGRKLHLYSHPIILG,polymerase,polymerase,486,500,FGRKLHLYSHPIILG,NC_003977.2,reference,,1
+487,REF|polymerase|start487|GRKLHLYSHPIILGF,polymerase,polymerase,487,501,GRKLHLYSHPIILGF,NC_003977.2,reference,,1
+488,REF|polymerase|start488|RKLHLYSHPIILGFR,polymerase,polymerase,488,502,RKLHLYSHPIILGFR,NC_003977.2,reference,,1
+489,REF|polymerase|start489|KLHLYSHPIILGFRK,polymerase,polymerase,489,503,KLHLYSHPIILGFRK,NC_003977.2,reference,,1
+490,REF|polymerase|start490|LHLYSHPIILGFRKI,polymerase,polymerase,490,504,LHLYSHPIILGFRKI,NC_003977.2,reference,,1
+491,REF|polymerase|start491|HLYSHPIILGFRKIP,polymerase,polymerase,491,505,HLYSHPIILGFRKIP,NC_003977.2,reference,,1
+492,REF|polymerase|start492|LYSHPIILGFRKIPM,polymerase,polymerase,492,506,LYSHPIILGFRKIPM,NC_003977.2,reference,,1
+493,REF|polymerase|start493|YSHPIILGFRKIPMG,polymerase,polymerase,493,507,YSHPIILGFRKIPMG,NC_003977.2,reference,,1
+494,REF|polymerase|start494|SHPIILGFRKIPMGV,polymerase,polymerase,494,508,SHPIILGFRKIPMGV,NC_003977.2,reference,,1
+495,REF|polymerase|start495|HPIILGFRKIPMGVG,polymerase,polymerase,495,509,HPIILGFRKIPMGVG,NC_003977.2,reference,,1
+496,REF|polymerase|start496|PIILGFRKIPMGVGL,polymerase,polymerase,496,510,PIILGFRKIPMGVGL,NC_003977.2,reference,,1
+497,REF|polymerase|start497|IILGFRKIPMGVGLS,polymerase,polymerase,497,511,IILGFRKIPMGVGLS,NC_003977.2,reference,,1
+498,REF|polymerase|start498|ILGFRKIPMGVGLSP,polymerase,polymerase,498,512,ILGFRKIPMGVGLSP,NC_003977.2,reference,,1
+499,REF|polymerase|start499|LGFRKIPMGVGLSPF,polymerase,polymerase,499,513,LGFRKIPMGVGLSPF,NC_003977.2,reference,,1
+500,REF|polymerase|start500|GFRKIPMGVGLSPFL,polymerase,polymerase,500,514,GFRKIPMGVGLSPFL,NC_003977.2,reference,,1
+501,REF|polymerase|start501|FRKIPMGVGLSPFLL,polymerase,polymerase,501,515,FRKIPMGVGLSPFLL,NC_003977.2,reference,,1
+502,REF|polymerase|start502|RKIPMGVGLSPFLLA,polymerase,polymerase,502,516,RKIPMGVGLSPFLLA,NC_003977.2,reference,,1
+503,REF|polymerase|start503|KIPMGVGLSPFLLAQ,polymerase,polymerase,503,517,KIPMGVGLSPFLLAQ,NC_003977.2,reference,,1
+504,REF|polymerase|start504|IPMGVGLSPFLLAQF,polymerase,polymerase,504,518,IPMGVGLSPFLLAQF,NC_003977.2,reference,,1
+505,REF|polymerase|start505|PMGVGLSPFLLAQFT,polymerase,polymerase,505,519,PMGVGLSPFLLAQFT,NC_003977.2,reference,,1
+506,REF|polymerase|start506|MGVGLSPFLLAQFTS,polymerase,polymerase,506,520,MGVGLSPFLLAQFTS,NC_003977.2,reference,,1
+507,REF|polymerase|start507|GVGLSPFLLAQFTSA,polymerase,polymerase,507,521,GVGLSPFLLAQFTSA,NC_003977.2,reference,,1
+508,REF|polymerase|start508|VGLSPFLLAQFTSAI,polymerase,polymerase,508,522,VGLSPFLLAQFTSAI,NC_003977.2,reference,,1
+509,REF|polymerase|start509|GLSPFLLAQFTSAIC,polymerase,polymerase,509,523,GLSPFLLAQFTSAIC,NC_003977.2,reference,,1
+510,REF|polymerase|start510|LSPFLLAQFTSAICS,polymerase,polymerase,510,524,LSPFLLAQFTSAICS,NC_003977.2,reference,,1
+511,REF|polymerase|start511|SPFLLAQFTSAICSV,polymerase,polymerase,511,525,SPFLLAQFTSAICSV,NC_003977.2,reference,,1
+512,REF|polymerase|start512|PFLLAQFTSAICSVV,polymerase,polymerase,512,526,PFLLAQFTSAICSVV,NC_003977.2,reference,,1
+513,REF|polymerase|start513|FLLAQFTSAICSVVR,polymerase,polymerase,513,527,FLLAQFTSAICSVVR,NC_003977.2,reference,,1
+514,REF|polymerase|start514|LLAQFTSAICSVVRR,polymerase,polymerase,514,528,LLAQFTSAICSVVRR,NC_003977.2,reference,,1
+515,REF|polymerase|start515|LAQFTSAICSVVRRA,polymerase,polymerase,515,529,LAQFTSAICSVVRRA,NC_003977.2,reference,,1
+516,REF|polymerase|start516|AQFTSAICSVVRRAF,polymerase,polymerase,516,530,AQFTSAICSVVRRAF,NC_003977.2,reference,,1
+517,REF|polymerase|start517|QFTSAICSVVRRAFP,polymerase,polymerase,517,531,QFTSAICSVVRRAFP,NC_003977.2,reference,,1
+518,REF|polymerase|start518|FTSAICSVVRRAFPH,polymerase,polymerase,518,532,FTSAICSVVRRAFPH,NC_003977.2,reference,,1
+519,REF|polymerase|start519|TSAICSVVRRAFPHC,polymerase,polymerase,519,533,TSAICSVVRRAFPHC,NC_003977.2,reference,,1
+520,REF|polymerase|start520|SAICSVVRRAFPHCL,polymerase,polymerase,520,534,SAICSVVRRAFPHCL,NC_003977.2,reference,,1
+521,REF|polymerase|start521|AICSVVRRAFPHCLA,polymerase,polymerase,521,535,AICSVVRRAFPHCLA,NC_003977.2,reference,,1
+522,REF|polymerase|start522|ICSVVRRAFPHCLAF,polymerase,polymerase,522,536,ICSVVRRAFPHCLAF,NC_003977.2,reference,,1
+523,REF|polymerase|start523|CSVVRRAFPHCLAFS,polymerase,polymerase,523,537,CSVVRRAFPHCLAFS,NC_003977.2,reference,,1
+524,REF|polymerase|start524|SVVRRAFPHCLAFSY,polymerase,polymerase,524,538,SVVRRAFPHCLAFSY,NC_003977.2,reference,,1
+525,REF|polymerase|start525|VVRRAFPHCLAFSYM,polymerase,polymerase,525,539,VVRRAFPHCLAFSYM,NC_003977.2,reference,,1
+526,REF|polymerase|start526|VRRAFPHCLAFSYMD,polymerase,polymerase,526,540,VRRAFPHCLAFSYMD,NC_003977.2,reference,,1
+527,REF|polymerase|start527|RRAFPHCLAFSYMDD,polymerase,polymerase,527,541,RRAFPHCLAFSYMDD,NC_003977.2,reference,,1
+528,REF|polymerase|start528|RAFPHCLAFSYMDDV,polymerase,polymerase,528,542,RAFPHCLAFSYMDDV,NC_003977.2,reference,,1
+529,REF|polymerase|start529|AFPHCLAFSYMDDVV,polymerase,polymerase,529,543,AFPHCLAFSYMDDVV,NC_003977.2,reference,,1
+530,REF|polymerase|start530|FPHCLAFSYMDDVVL,polymerase,polymerase,530,544,FPHCLAFSYMDDVVL,NC_003977.2,reference,,1
+531,REF|polymerase|start531|PHCLAFSYMDDVVLG,polymerase,polymerase,531,545,PHCLAFSYMDDVVLG,NC_003977.2,reference,,1
+532,REF|polymerase|start532|HCLAFSYMDDVVLGA,polymerase,polymerase,532,546,HCLAFSYMDDVVLGA,NC_003977.2,reference,,1
+533,REF|polymerase|start533|CLAFSYMDDVVLGAK,polymerase,polymerase,533,547,CLAFSYMDDVVLGAK,NC_003977.2,reference,,1
+534,REF|polymerase|start534|LAFSYMDDVVLGAKS,polymerase,polymerase,534,548,LAFSYMDDVVLGAKS,NC_003977.2,reference,,1
+535,REF|polymerase|start535|AFSYMDDVVLGAKSV,polymerase,polymerase,535,549,AFSYMDDVVLGAKSV,NC_003977.2,reference,,1
+536,REF|polymerase|start536|FSYMDDVVLGAKSVQ,polymerase,polymerase,536,550,FSYMDDVVLGAKSVQ,NC_003977.2,reference,,1
+537,REF|polymerase|start537|SYMDDVVLGAKSVQH,polymerase,polymerase,537,551,SYMDDVVLGAKSVQH,NC_003977.2,reference,,1
+538,REF|polymerase|start538|YMDDVVLGAKSVQHL,polymerase,polymerase,538,552,YMDDVVLGAKSVQHL,NC_003977.2,reference,,1
+539,REF|polymerase|start539|MDDVVLGAKSVQHLE,polymerase,polymerase,539,553,MDDVVLGAKSVQHLE,NC_003977.2,reference,,1
+540,REF|polymerase|start540|DDVVLGAKSVQHLES,polymerase,polymerase,540,554,DDVVLGAKSVQHLES,NC_003977.2,reference,,1
+541,REF|polymerase|start541|DVVLGAKSVQHLESL,polymerase,polymerase,541,555,DVVLGAKSVQHLESL,NC_003977.2,reference,,1
+542,REF|polymerase|start542|VVLGAKSVQHLESLF,polymerase,polymerase,542,556,VVLGAKSVQHLESLF,NC_003977.2,reference,,1
+543,REF|polymerase|start543|VLGAKSVQHLESLFT,polymerase,polymerase,543,557,VLGAKSVQHLESLFT,NC_003977.2,reference,,1
+544,REF|polymerase|start544|LGAKSVQHLESLFTA,polymerase,polymerase,544,558,LGAKSVQHLESLFTA,NC_003977.2,reference,,1
+545,REF|polymerase|start545|GAKSVQHLESLFTAV,polymerase,polymerase,545,559,GAKSVQHLESLFTAV,NC_003977.2,reference,,1
+546,REF|polymerase|start546|AKSVQHLESLFTAVT,polymerase,polymerase,546,560,AKSVQHLESLFTAVT,NC_003977.2,reference,,1
+547,REF|polymerase|start547|KSVQHLESLFTAVTN,polymerase,polymerase,547,561,KSVQHLESLFTAVTN,NC_003977.2,reference,,1
+548,REF|polymerase|start548|SVQHLESLFTAVTNF,polymerase,polymerase,548,562,SVQHLESLFTAVTNF,NC_003977.2,reference,,1
+549,REF|polymerase|start549|VQHLESLFTAVTNFL,polymerase,polymerase,549,563,VQHLESLFTAVTNFL,NC_003977.2,reference,,1
+550,REF|polymerase|start550|QHLESLFTAVTNFLL,polymerase,polymerase,550,564,QHLESLFTAVTNFLL,NC_003977.2,reference,,1
+551,REF|polymerase|start551|HLESLFTAVTNFLLS,polymerase,polymerase,551,565,HLESLFTAVTNFLLS,NC_003977.2,reference,,1
+552,REF|polymerase|start552|LESLFTAVTNFLLSL,polymerase,polymerase,552,566,LESLFTAVTNFLLSL,NC_003977.2,reference,,1
+553,REF|polymerase|start553|ESLFTAVTNFLLSLG,polymerase,polymerase,553,567,ESLFTAVTNFLLSLG,NC_003977.2,reference,,1
+554,REF|polymerase|start554|SLFTAVTNFLLSLGI,polymerase,polymerase,554,568,SLFTAVTNFLLSLGI,NC_003977.2,reference,,1
+555,REF|polymerase|start555|LFTAVTNFLLSLGIH,polymerase,polymerase,555,569,LFTAVTNFLLSLGIH,NC_003977.2,reference,,1
+556,REF|polymerase|start556|FTAVTNFLLSLGIHL,polymerase,polymerase,556,570,FTAVTNFLLSLGIHL,NC_003977.2,reference,,1
+557,REF|polymerase|start557|TAVTNFLLSLGIHLN,polymerase,polymerase,557,571,TAVTNFLLSLGIHLN,NC_003977.2,reference,,1
+558,REF|polymerase|start558|AVTNFLLSLGIHLNP,polymerase,polymerase,558,572,AVTNFLLSLGIHLNP,NC_003977.2,reference,,1
+559,REF|polymerase|start559|VTNFLLSLGIHLNPN,polymerase,polymerase,559,573,VTNFLLSLGIHLNPN,NC_003977.2,reference,,1
+560,REF|polymerase|start560|TNFLLSLGIHLNPNK,polymerase,polymerase,560,574,TNFLLSLGIHLNPNK,NC_003977.2,reference,,1
+561,REF|polymerase|start561|NFLLSLGIHLNPNKT,polymerase,polymerase,561,575,NFLLSLGIHLNPNKT,NC_003977.2,reference,,1
+562,REF|polymerase|start562|FLLSLGIHLNPNKTK,polymerase,polymerase,562,576,FLLSLGIHLNPNKTK,NC_003977.2,reference,,1
+563,REF|polymerase|start563|LLSLGIHLNPNKTKR,polymerase,polymerase,563,577,LLSLGIHLNPNKTKR,NC_003977.2,reference,,1
+564,REF|polymerase|start564|LSLGIHLNPNKTKRW,polymerase,polymerase,564,578,LSLGIHLNPNKTKRW,NC_003977.2,reference,,1
+565,REF|polymerase|start565|SLGIHLNPNKTKRWG,polymerase,polymerase,565,579,SLGIHLNPNKTKRWG,NC_003977.2,reference,,1
+566,REF|polymerase|start566|LGIHLNPNKTKRWGY,polymerase,polymerase,566,580,LGIHLNPNKTKRWGY,NC_003977.2,reference,,1
+567,REF|polymerase|start567|GIHLNPNKTKRWGYS,polymerase,polymerase,567,581,GIHLNPNKTKRWGYS,NC_003977.2,reference,,1
+568,REF|polymerase|start568|IHLNPNKTKRWGYSL,polymerase,polymerase,568,582,IHLNPNKTKRWGYSL,NC_003977.2,reference,,1
+569,REF|polymerase|start569|HLNPNKTKRWGYSLN,polymerase,polymerase,569,583,HLNPNKTKRWGYSLN,NC_003977.2,reference,,1
+570,REF|polymerase|start570|LNPNKTKRWGYSLNF,polymerase,polymerase,570,584,LNPNKTKRWGYSLNF,NC_003977.2,reference,,1
+571,REF|polymerase|start571|NPNKTKRWGYSLNFM,polymerase,polymerase,571,585,NPNKTKRWGYSLNFM,NC_003977.2,reference,,1
+572,REF|polymerase|start572|PNKTKRWGYSLNFMG,polymerase,polymerase,572,586,PNKTKRWGYSLNFMG,NC_003977.2,reference,,1
+573,REF|polymerase|start573|NKTKRWGYSLNFMGY,polymerase,polymerase,573,587,NKTKRWGYSLNFMGY,NC_003977.2,reference,,1
+574,REF|polymerase|start574|KTKRWGYSLNFMGYV,polymerase,polymerase,574,588,KTKRWGYSLNFMGYV,NC_003977.2,reference,,1
+575,REF|polymerase|start575|TKRWGYSLNFMGYVI,polymerase,polymerase,575,589,TKRWGYSLNFMGYVI,NC_003977.2,reference,,1
+576,REF|polymerase|start576|KRWGYSLNFMGYVIG,polymerase,polymerase,576,590,KRWGYSLNFMGYVIG,NC_003977.2,reference,,1
+577,REF|polymerase|start577|RWGYSLNFMGYVIGC,polymerase,polymerase,577,591,RWGYSLNFMGYVIGC,NC_003977.2,reference,,1
+578,REF|polymerase|start578|WGYSLNFMGYVIGCY,polymerase,polymerase,578,592,WGYSLNFMGYVIGCY,NC_003977.2,reference,,1
+579,REF|polymerase|start579|GYSLNFMGYVIGCYG,polymerase,polymerase,579,593,GYSLNFMGYVIGCYG,NC_003977.2,reference,,1
+580,REF|polymerase|start580|YSLNFMGYVIGCYGS,polymerase,polymerase,580,594,YSLNFMGYVIGCYGS,NC_003977.2,reference,,1
+581,REF|polymerase|start581|SLNFMGYVIGCYGSL,polymerase,polymerase,581,595,SLNFMGYVIGCYGSL,NC_003977.2,reference,,1
+582,REF|polymerase|start582|LNFMGYVIGCYGSLP,polymerase,polymerase,582,596,LNFMGYVIGCYGSLP,NC_003977.2,reference,,1
+583,REF|polymerase|start583|NFMGYVIGCYGSLPQ,polymerase,polymerase,583,597,NFMGYVIGCYGSLPQ,NC_003977.2,reference,,1
+584,REF|polymerase|start584|FMGYVIGCYGSLPQE,polymerase,polymerase,584,598,FMGYVIGCYGSLPQE,NC_003977.2,reference,,1
+585,REF|polymerase|start585|MGYVIGCYGSLPQEH,polymerase,polymerase,585,599,MGYVIGCYGSLPQEH,NC_003977.2,reference,,1
+586,REF|polymerase|start586|GYVIGCYGSLPQEHI,polymerase,polymerase,586,600,GYVIGCYGSLPQEHI,NC_003977.2,reference,,1
+587,REF|polymerase|start587|YVIGCYGSLPQEHII,polymerase,polymerase,587,601,YVIGCYGSLPQEHII,NC_003977.2,reference,,1
+588,REF|polymerase|start588|VIGCYGSLPQEHIIQ,polymerase,polymerase,588,602,VIGCYGSLPQEHIIQ,NC_003977.2,reference,,1
+589,REF|polymerase|start589|IGCYGSLPQEHIIQK,polymerase,polymerase,589,603,IGCYGSLPQEHIIQK,NC_003977.2,reference,,1
+590,REF|polymerase|start590|GCYGSLPQEHIIQKI,polymerase,polymerase,590,604,GCYGSLPQEHIIQKI,NC_003977.2,reference,,1
+591,REF|polymerase|start591|CYGSLPQEHIIQKIK,polymerase,polymerase,591,605,CYGSLPQEHIIQKIK,NC_003977.2,reference,,1
+592,REF|polymerase|start592|YGSLPQEHIIQKIKE,polymerase,polymerase,592,606,YGSLPQEHIIQKIKE,NC_003977.2,reference,,1
+593,REF|polymerase|start593|GSLPQEHIIQKIKEC,polymerase,polymerase,593,607,GSLPQEHIIQKIKEC,NC_003977.2,reference,,1
+594,REF|polymerase|start594|SLPQEHIIQKIKECF,polymerase,polymerase,594,608,SLPQEHIIQKIKECF,NC_003977.2,reference,,1
+595,REF|polymerase|start595|LPQEHIIQKIKECFR,polymerase,polymerase,595,609,LPQEHIIQKIKECFR,NC_003977.2,reference,,1
+596,REF|polymerase|start596|PQEHIIQKIKECFRK,polymerase,polymerase,596,610,PQEHIIQKIKECFRK,NC_003977.2,reference,,1
+597,REF|polymerase|start597|QEHIIQKIKECFRKL,polymerase,polymerase,597,611,QEHIIQKIKECFRKL,NC_003977.2,reference,,1
+598,REF|polymerase|start598|EHIIQKIKECFRKLP,polymerase,polymerase,598,612,EHIIQKIKECFRKLP,NC_003977.2,reference,,1
+599,REF|polymerase|start599|HIIQKIKECFRKLPI,polymerase,polymerase,599,613,HIIQKIKECFRKLPI,NC_003977.2,reference,,1
+600,REF|polymerase|start600|IIQKIKECFRKLPIN,polymerase,polymerase,600,614,IIQKIKECFRKLPIN,NC_003977.2,reference,,1
+601,REF|polymerase|start601|IQKIKECFRKLPINR,polymerase,polymerase,601,615,IQKIKECFRKLPINR,NC_003977.2,reference,,1
+602,REF|polymerase|start602|QKIKECFRKLPINRP,polymerase,polymerase,602,616,QKIKECFRKLPINRP,NC_003977.2,reference,,1
+603,REF|polymerase|start603|KIKECFRKLPINRPI,polymerase,polymerase,603,617,KIKECFRKLPINRPI,NC_003977.2,reference,,1
+604,REF|polymerase|start604|IKECFRKLPINRPID,polymerase,polymerase,604,618,IKECFRKLPINRPID,NC_003977.2,reference,,1
+605,REF|polymerase|start605|KECFRKLPINRPIDW,polymerase,polymerase,605,619,KECFRKLPINRPIDW,NC_003977.2,reference,,1
+606,REF|polymerase|start606|ECFRKLPINRPIDWK,polymerase,polymerase,606,620,ECFRKLPINRPIDWK,NC_003977.2,reference,,1
+607,REF|polymerase|start607|CFRKLPINRPIDWKV,polymerase,polymerase,607,621,CFRKLPINRPIDWKV,NC_003977.2,reference,,1
+608,REF|polymerase|start608|FRKLPINRPIDWKVC,polymerase,polymerase,608,622,FRKLPINRPIDWKVC,NC_003977.2,reference,,1
+609,REF|polymerase|start609|RKLPINRPIDWKVCQ,polymerase,polymerase,609,623,RKLPINRPIDWKVCQ,NC_003977.2,reference,,1
+610,REF|polymerase|start610|KLPINRPIDWKVCQR,polymerase,polymerase,610,624,KLPINRPIDWKVCQR,NC_003977.2,reference,,1
+611,REF|polymerase|start611|LPINRPIDWKVCQRI,polymerase,polymerase,611,625,LPINRPIDWKVCQRI,NC_003977.2,reference,,1
+612,REF|polymerase|start612|PINRPIDWKVCQRIV,polymerase,polymerase,612,626,PINRPIDWKVCQRIV,NC_003977.2,reference,,1
+613,REF|polymerase|start613|INRPIDWKVCQRIVG,polymerase,polymerase,613,627,INRPIDWKVCQRIVG,NC_003977.2,reference,,1
+614,REF|polymerase|start614|NRPIDWKVCQRIVGL,polymerase,polymerase,614,628,NRPIDWKVCQRIVGL,NC_003977.2,reference,,1
+615,REF|polymerase|start615|RPIDWKVCQRIVGLL,polymerase,polymerase,615,629,RPIDWKVCQRIVGLL,NC_003977.2,reference,,1
+616,REF|polymerase|start616|PIDWKVCQRIVGLLG,polymerase,polymerase,616,630,PIDWKVCQRIVGLLG,NC_003977.2,reference,,1
+617,REF|polymerase|start617|IDWKVCQRIVGLLGF,polymerase,polymerase,617,631,IDWKVCQRIVGLLGF,NC_003977.2,reference,,1
+618,REF|polymerase|start618|DWKVCQRIVGLLGFA,polymerase,polymerase,618,632,DWKVCQRIVGLLGFA,NC_003977.2,reference,,1
+619,REF|polymerase|start619|WKVCQRIVGLLGFAA,polymerase,polymerase,619,633,WKVCQRIVGLLGFAA,NC_003977.2,reference,,1
+620,REF|polymerase|start620|KVCQRIVGLLGFAAP,polymerase,polymerase,620,634,KVCQRIVGLLGFAAP,NC_003977.2,reference,,1
+621,REF|polymerase|start621|VCQRIVGLLGFAAPF,polymerase,polymerase,621,635,VCQRIVGLLGFAAPF,NC_003977.2,reference,,1
+622,REF|polymerase|start622|CQRIVGLLGFAAPFT,polymerase,polymerase,622,636,CQRIVGLLGFAAPFT,NC_003977.2,reference,,1
+623,REF|polymerase|start623|QRIVGLLGFAAPFTQ,polymerase,polymerase,623,637,QRIVGLLGFAAPFTQ,NC_003977.2,reference,,1
+624,REF|polymerase|start624|RIVGLLGFAAPFTQC,polymerase,polymerase,624,638,RIVGLLGFAAPFTQC,NC_003977.2,reference,,1
+625,REF|polymerase|start625|IVGLLGFAAPFTQCG,polymerase,polymerase,625,639,IVGLLGFAAPFTQCG,NC_003977.2,reference,,1
+626,REF|polymerase|start626|VGLLGFAAPFTQCGY,polymerase,polymerase,626,640,VGLLGFAAPFTQCGY,NC_003977.2,reference,,1
+627,REF|polymerase|start627|GLLGFAAPFTQCGYP,polymerase,polymerase,627,641,GLLGFAAPFTQCGYP,NC_003977.2,reference,,1
+628,REF|polymerase|start628|LLGFAAPFTQCGYPA,polymerase,polymerase,628,642,LLGFAAPFTQCGYPA,NC_003977.2,reference,,1
+629,REF|polymerase|start629|LGFAAPFTQCGYPAL,polymerase,polymerase,629,643,LGFAAPFTQCGYPAL,NC_003977.2,reference,,1
+630,REF|polymerase|start630|GFAAPFTQCGYPALM,polymerase,polymerase,630,644,GFAAPFTQCGYPALM,NC_003977.2,reference,,1
+631,REF|polymerase|start631|FAAPFTQCGYPALMP,polymerase,polymerase,631,645,FAAPFTQCGYPALMP,NC_003977.2,reference,,1
+632,REF|polymerase|start632|AAPFTQCGYPALMPL,polymerase,polymerase,632,646,AAPFTQCGYPALMPL,NC_003977.2,reference,,1
+633,REF|polymerase|start633|APFTQCGYPALMPLY,polymerase,polymerase,633,647,APFTQCGYPALMPLY,NC_003977.2,reference,,1
+634,REF|polymerase|start634|PFTQCGYPALMPLYA,polymerase,polymerase,634,648,PFTQCGYPALMPLYA,NC_003977.2,reference,,1
+635,REF|polymerase|start635|FTQCGYPALMPLYAC,polymerase,polymerase,635,649,FTQCGYPALMPLYAC,NC_003977.2,reference,,1
+636,REF|polymerase|start636|TQCGYPALMPLYACI,polymerase,polymerase,636,650,TQCGYPALMPLYACI,NC_003977.2,reference,,1
+637,REF|polymerase|start637|QCGYPALMPLYACIQ,polymerase,polymerase,637,651,QCGYPALMPLYACIQ,NC_003977.2,reference,,1
+638,REF|polymerase|start638|CGYPALMPLYACIQS,polymerase,polymerase,638,652,CGYPALMPLYACIQS,NC_003977.2,reference,,1
+639,REF|polymerase|start639|GYPALMPLYACIQSK,polymerase,polymerase,639,653,GYPALMPLYACIQSK,NC_003977.2,reference,,1
+640,REF|polymerase|start640|YPALMPLYACIQSKQ,polymerase,polymerase,640,654,YPALMPLYACIQSKQ,NC_003977.2,reference,,1
+641,REF|polymerase|start641|PALMPLYACIQSKQA,polymerase,polymerase,641,655,PALMPLYACIQSKQA,NC_003977.2,reference,,1
+642,REF|polymerase|start642|ALMPLYACIQSKQAF,polymerase,polymerase,642,656,ALMPLYACIQSKQAF,NC_003977.2,reference,,1
+643,REF|polymerase|start643|LMPLYACIQSKQAFT,polymerase,polymerase,643,657,LMPLYACIQSKQAFT,NC_003977.2,reference,,1
+644,REF|polymerase|start644|MPLYACIQSKQAFTF,polymerase,polymerase,644,658,MPLYACIQSKQAFTF,NC_003977.2,reference,,1
+645,REF|polymerase|start645|PLYACIQSKQAFTFS,polymerase,polymerase,645,659,PLYACIQSKQAFTFS,NC_003977.2,reference,,1
+646,REF|polymerase|start646|LYACIQSKQAFTFSP,polymerase,polymerase,646,660,LYACIQSKQAFTFSP,NC_003977.2,reference,,1
+647,REF|polymerase|start647|YACIQSKQAFTFSPT,polymerase,polymerase,647,661,YACIQSKQAFTFSPT,NC_003977.2,reference,,1
+648,REF|polymerase|start648|ACIQSKQAFTFSPTY,polymerase,polymerase,648,662,ACIQSKQAFTFSPTY,NC_003977.2,reference,,1
+649,REF|polymerase|start649|CIQSKQAFTFSPTYK,polymerase,polymerase,649,663,CIQSKQAFTFSPTYK,NC_003977.2,reference,,1
+650,REF|polymerase|start650|IQSKQAFTFSPTYKA,polymerase,polymerase,650,664,IQSKQAFTFSPTYKA,NC_003977.2,reference,,1
+651,REF|polymerase|start651|QSKQAFTFSPTYKAF,polymerase,polymerase,651,665,QSKQAFTFSPTYKAF,NC_003977.2,reference,,1
+652,REF|polymerase|start652|SKQAFTFSPTYKAFL,polymerase,polymerase,652,666,SKQAFTFSPTYKAFL,NC_003977.2,reference,,1
+653,REF|polymerase|start653|KQAFTFSPTYKAFLC,polymerase,polymerase,653,667,KQAFTFSPTYKAFLC,NC_003977.2,reference,,1
+654,REF|polymerase|start654|QAFTFSPTYKAFLCK,polymerase,polymerase,654,668,QAFTFSPTYKAFLCK,NC_003977.2,reference,,1
+655,REF|polymerase|start655|AFTFSPTYKAFLCKQ,polymerase,polymerase,655,669,AFTFSPTYKAFLCKQ,NC_003977.2,reference,,1
+656,REF|polymerase|start656|FTFSPTYKAFLCKQY,polymerase,polymerase,656,670,FTFSPTYKAFLCKQY,NC_003977.2,reference,,1
+657,REF|polymerase|start657|TFSPTYKAFLCKQYL,polymerase,polymerase,657,671,TFSPTYKAFLCKQYL,NC_003977.2,reference,,1
+658,REF|polymerase|start658|FSPTYKAFLCKQYLN,polymerase,polymerase,658,672,FSPTYKAFLCKQYLN,NC_003977.2,reference,,1
+659,REF|polymerase|start659|SPTYKAFLCKQYLNL,polymerase,polymerase,659,673,SPTYKAFLCKQYLNL,NC_003977.2,reference,,1
+660,REF|polymerase|start660|PTYKAFLCKQYLNLY,polymerase,polymerase,660,674,PTYKAFLCKQYLNLY,NC_003977.2,reference,,1
+661,REF|polymerase|start661|TYKAFLCKQYLNLYP,polymerase,polymerase,661,675,TYKAFLCKQYLNLYP,NC_003977.2,reference,,1
+662,REF|polymerase|start662|YKAFLCKQYLNLYPV,polymerase,polymerase,662,676,YKAFLCKQYLNLYPV,NC_003977.2,reference,,1
+663,REF|polymerase|start663|KAFLCKQYLNLYPVA,polymerase,polymerase,663,677,KAFLCKQYLNLYPVA,NC_003977.2,reference,,1
+664,REF|polymerase|start664|AFLCKQYLNLYPVAR,polymerase,polymerase,664,678,AFLCKQYLNLYPVAR,NC_003977.2,reference,,1
+665,REF|polymerase|start665|FLCKQYLNLYPVARQ,polymerase,polymerase,665,679,FLCKQYLNLYPVARQ,NC_003977.2,reference,,1
+666,REF|polymerase|start666|LCKQYLNLYPVARQR,polymerase,polymerase,666,680,LCKQYLNLYPVARQR,NC_003977.2,reference,,1
+667,REF|polymerase|start667|CKQYLNLYPVARQRP,polymerase,polymerase,667,681,CKQYLNLYPVARQRP,NC_003977.2,reference,,1
+668,REF|polymerase|start668|KQYLNLYPVARQRPG,polymerase,polymerase,668,682,KQYLNLYPVARQRPG,NC_003977.2,reference,,1
+669,REF|polymerase|start669|QYLNLYPVARQRPGL,polymerase,polymerase,669,683,QYLNLYPVARQRPGL,NC_003977.2,reference,,1
+670,REF|polymerase|start670|YLNLYPVARQRPGLC,polymerase,polymerase,670,684,YLNLYPVARQRPGLC,NC_003977.2,reference,,1
+671,REF|polymerase|start671|LNLYPVARQRPGLCQ,polymerase,polymerase,671,685,LNLYPVARQRPGLCQ,NC_003977.2,reference,,1
+672,REF|polymerase|start672|NLYPVARQRPGLCQV,polymerase,polymerase,672,686,NLYPVARQRPGLCQV,NC_003977.2,reference,,1
+673,REF|polymerase|start673|LYPVARQRPGLCQVF,polymerase,polymerase,673,687,LYPVARQRPGLCQVF,NC_003977.2,reference,,1
+674,REF|polymerase|start674|YPVARQRPGLCQVFA,polymerase,polymerase,674,688,YPVARQRPGLCQVFA,NC_003977.2,reference,,1
+675,REF|polymerase|start675|PVARQRPGLCQVFAD,polymerase,polymerase,675,689,PVARQRPGLCQVFAD,NC_003977.2,reference,,1
+676,REF|polymerase|start676|VARQRPGLCQVFADA,polymerase,polymerase,676,690,VARQRPGLCQVFADA,NC_003977.2,reference,,1
+677,REF|polymerase|start677|ARQRPGLCQVFADAT,polymerase,polymerase,677,691,ARQRPGLCQVFADAT,NC_003977.2,reference,,1
+678,REF|polymerase|start678|RQRPGLCQVFADATP,polymerase,polymerase,678,692,RQRPGLCQVFADATP,NC_003977.2,reference,,1
+679,REF|polymerase|start679|QRPGLCQVFADATPT,polymerase,polymerase,679,693,QRPGLCQVFADATPT,NC_003977.2,reference,,1
+680,REF|polymerase|start680|RPGLCQVFADATPTG,polymerase,polymerase,680,694,RPGLCQVFADATPTG,NC_003977.2,reference,,1
+681,REF|polymerase|start681|PGLCQVFADATPTGW,polymerase,polymerase,681,695,PGLCQVFADATPTGW,NC_003977.2,reference,,1
+682,REF|polymerase|start682|GLCQVFADATPTGWG,polymerase,polymerase,682,696,GLCQVFADATPTGWG,NC_003977.2,reference,,1
+683,REF|polymerase|start683|LCQVFADATPTGWGL,polymerase,polymerase,683,697,LCQVFADATPTGWGL,NC_003977.2,reference,,1
+684,REF|polymerase|start684|CQVFADATPTGWGLV,polymerase,polymerase,684,698,CQVFADATPTGWGLV,NC_003977.2,reference,,1
+685,REF|polymerase|start685|QVFADATPTGWGLVM,polymerase,polymerase,685,699,QVFADATPTGWGLVM,NC_003977.2,reference,,1
+686,REF|polymerase|start686|VFADATPTGWGLVMG,polymerase,polymerase,686,700,VFADATPTGWGLVMG,NC_003977.2,reference,,1
+687,REF|polymerase|start687|FADATPTGWGLVMGH,polymerase,polymerase,687,701,FADATPTGWGLVMGH,NC_003977.2,reference,,1
+688,REF|polymerase|start688|ADATPTGWGLVMGHQ,polymerase,polymerase,688,702,ADATPTGWGLVMGHQ,NC_003977.2,reference,,1
+689,REF|polymerase|start689|DATPTGWGLVMGHQR,polymerase,polymerase,689,703,DATPTGWGLVMGHQR,NC_003977.2,reference,,1
+690,REF|polymerase|start690|ATPTGWGLVMGHQRM,polymerase,polymerase,690,704,ATPTGWGLVMGHQRM,NC_003977.2,reference,,1
+691,REF|polymerase|start691|TPTGWGLVMGHQRMR,polymerase,polymerase,691,705,TPTGWGLVMGHQRMR,NC_003977.2,reference,,1
+692,REF|polymerase|start692|PTGWGLVMGHQRMRG,polymerase,polymerase,692,706,PTGWGLVMGHQRMRG,NC_003977.2,reference,,1
+693,REF|polymerase|start693|TGWGLVMGHQRMRGT,polymerase,polymerase,693,707,TGWGLVMGHQRMRGT,NC_003977.2,reference,,1
+694,REF|polymerase|start694|GWGLVMGHQRMRGTF,polymerase,polymerase,694,708,GWGLVMGHQRMRGTF,NC_003977.2,reference,,1
+695,REF|polymerase|start695|WGLVMGHQRMRGTFS,polymerase,polymerase,695,709,WGLVMGHQRMRGTFS,NC_003977.2,reference,,1
+696,REF|polymerase|start696|GLVMGHQRMRGTFSA,polymerase,polymerase,696,710,GLVMGHQRMRGTFSA,NC_003977.2,reference,,1
+697,REF|polymerase|start697|LVMGHQRMRGTFSAP,polymerase,polymerase,697,711,LVMGHQRMRGTFSAP,NC_003977.2,reference,,1
+698,REF|polymerase|start698|VMGHQRMRGTFSAPL,polymerase,polymerase,698,712,VMGHQRMRGTFSAPL,NC_003977.2,reference,,1
+699,REF|polymerase|start699|MGHQRMRGTFSAPLP,polymerase,polymerase,699,713,MGHQRMRGTFSAPLP,NC_003977.2,reference,,1
+700,REF|polymerase|start700|GHQRMRGTFSAPLPI,polymerase,polymerase,700,714,GHQRMRGTFSAPLPI,NC_003977.2,reference,,1
+701,REF|polymerase|start701|HQRMRGTFSAPLPIH,polymerase,polymerase,701,715,HQRMRGTFSAPLPIH,NC_003977.2,reference,,1
+702,REF|polymerase|start702|QRMRGTFSAPLPIHT,polymerase,polymerase,702,716,QRMRGTFSAPLPIHT,NC_003977.2,reference,,1
+703,REF|polymerase|start703|RMRGTFSAPLPIHTA,polymerase,polymerase,703,717,RMRGTFSAPLPIHTA,NC_003977.2,reference,,1
+704,REF|polymerase|start704|MRGTFSAPLPIHTAE,polymerase,polymerase,704,718,MRGTFSAPLPIHTAE,NC_003977.2,reference,,1
+705,REF|polymerase|start705|RGTFSAPLPIHTAEL,polymerase,polymerase,705,719,RGTFSAPLPIHTAEL,NC_003977.2,reference,,1
+706,REF|polymerase|start706|GTFSAPLPIHTAELL,polymerase,polymerase,706,720,GTFSAPLPIHTAELL,NC_003977.2,reference,,1
+707,REF|polymerase|start707|TFSAPLPIHTAELLA,polymerase,polymerase,707,721,TFSAPLPIHTAELLA,NC_003977.2,reference,,1
+708,REF|polymerase|start708|FSAPLPIHTAELLAA,polymerase,polymerase,708,722,FSAPLPIHTAELLAA,NC_003977.2,reference,,1
+709,REF|polymerase|start709|SAPLPIHTAELLAAC,polymerase,polymerase,709,723,SAPLPIHTAELLAAC,NC_003977.2,reference,,1
+710,REF|polymerase|start710|APLPIHTAELLAACF,polymerase,polymerase,710,724,APLPIHTAELLAACF,NC_003977.2,reference,,1
+711,REF|polymerase|start711|PLPIHTAELLAACFA,polymerase,polymerase,711,725,PLPIHTAELLAACFA,NC_003977.2,reference,,1
+712,REF|polymerase|start712|LPIHTAELLAACFAR,polymerase,polymerase,712,726,LPIHTAELLAACFAR,NC_003977.2,reference,,1
+713,REF|polymerase|start713|PIHTAELLAACFARS,polymerase,polymerase,713,727,PIHTAELLAACFARS,NC_003977.2,reference,,1
+714,REF|polymerase|start714|IHTAELLAACFARSR,polymerase,polymerase,714,728,IHTAELLAACFARSR,NC_003977.2,reference,,1
+715,REF|polymerase|start715|HTAELLAACFARSRS,polymerase,polymerase,715,729,HTAELLAACFARSRS,NC_003977.2,reference,,1
+716,REF|polymerase|start716|TAELLAACFARSRSG,polymerase,polymerase,716,730,TAELLAACFARSRSG,NC_003977.2,reference,,1
+717,REF|polymerase|start717|AELLAACFARSRSGA,polymerase,polymerase,717,731,AELLAACFARSRSGA,NC_003977.2,reference,,1
+718,REF|polymerase|start718|ELLAACFARSRSGAN,polymerase,polymerase,718,732,ELLAACFARSRSGAN,NC_003977.2,reference,,1
+719,REF|polymerase|start719|LLAACFARSRSGANI,polymerase,polymerase,719,733,LLAACFARSRSGANI,NC_003977.2,reference,,1
+720,REF|polymerase|start720|LAACFARSRSGANII,polymerase,polymerase,720,734,LAACFARSRSGANII,NC_003977.2,reference,,1
+721,REF|polymerase|start721|AACFARSRSGANIIG,polymerase,polymerase,721,735,AACFARSRSGANIIG,NC_003977.2,reference,,1
+722,REF|polymerase|start722|ACFARSRSGANIIGT,polymerase,polymerase,722,736,ACFARSRSGANIIGT,NC_003977.2,reference,,1
+723,REF|polymerase|start723|CFARSRSGANIIGTD,polymerase,polymerase,723,737,CFARSRSGANIIGTD,NC_003977.2,reference,,1
+724,REF|polymerase|start724|FARSRSGANIIGTDN,polymerase,polymerase,724,738,FARSRSGANIIGTDN,NC_003977.2,reference,,1
+725,REF|polymerase|start725|ARSRSGANIIGTDNS,polymerase,polymerase,725,739,ARSRSGANIIGTDNS,NC_003977.2,reference,,1
+726,REF|polymerase|start726|RSRSGANIIGTDNSV,polymerase,polymerase,726,740,RSRSGANIIGTDNSV,NC_003977.2,reference,,1
+727,REF|polymerase|start727|SRSGANIIGTDNSVV,polymerase,polymerase,727,741,SRSGANIIGTDNSVV,NC_003977.2,reference,,1
+728,REF|polymerase|start728|RSGANIIGTDNSVVL,polymerase,polymerase,728,742,RSGANIIGTDNSVVL,NC_003977.2,reference,,1
+729,REF|polymerase|start729|SGANIIGTDNSVVLS,polymerase,polymerase,729,743,SGANIIGTDNSVVLS,NC_003977.2,reference,,1
+730,REF|polymerase|start730|GANIIGTDNSVVLSR,polymerase,polymerase,730,744,GANIIGTDNSVVLSR,NC_003977.2,reference,,1
+731,REF|polymerase|start731|ANIIGTDNSVVLSRK,polymerase,polymerase,731,745,ANIIGTDNSVVLSRK,NC_003977.2,reference,,1
+732,REF|polymerase|start732|NIIGTDNSVVLSRKY,polymerase,polymerase,732,746,NIIGTDNSVVLSRKY,NC_003977.2,reference,,1
+733,REF|polymerase|start733|IIGTDNSVVLSRKYT,polymerase,polymerase,733,747,IIGTDNSVVLSRKYT,NC_003977.2,reference,,1
+734,REF|polymerase|start734|IGTDNSVVLSRKYTS,polymerase,polymerase,734,748,IGTDNSVVLSRKYTS,NC_003977.2,reference,,1
+735,REF|polymerase|start735|GTDNSVVLSRKYTSF,polymerase,polymerase,735,749,GTDNSVVLSRKYTSF,NC_003977.2,reference,,1
+736,REF|polymerase|start736|TDNSVVLSRKYTSFP,polymerase,polymerase,736,750,TDNSVVLSRKYTSFP,NC_003977.2,reference,,1
+737,REF|polymerase|start737|DNSVVLSRKYTSFPW,polymerase,polymerase,737,751,DNSVVLSRKYTSFPW,NC_003977.2,reference,,1
+738,REF|polymerase|start738|NSVVLSRKYTSFPWL,polymerase,polymerase,738,752,NSVVLSRKYTSFPWL,NC_003977.2,reference,,1
+739,REF|polymerase|start739|SVVLSRKYTSFPWLL,polymerase,polymerase,739,753,SVVLSRKYTSFPWLL,NC_003977.2,reference,,1
+740,REF|polymerase|start740|VVLSRKYTSFPWLLG,polymerase,polymerase,740,754,VVLSRKYTSFPWLLG,NC_003977.2,reference,,1
+741,REF|polymerase|start741|VLSRKYTSFPWLLGC,polymerase,polymerase,741,755,VLSRKYTSFPWLLGC,NC_003977.2,reference,,1
+742,REF|polymerase|start742|LSRKYTSFPWLLGCA,polymerase,polymerase,742,756,LSRKYTSFPWLLGCA,NC_003977.2,reference,,1
+743,REF|polymerase|start743|SRKYTSFPWLLGCAA,polymerase,polymerase,743,757,SRKYTSFPWLLGCAA,NC_003977.2,reference,,1
+744,REF|polymerase|start744|RKYTSFPWLLGCAAN,polymerase,polymerase,744,758,RKYTSFPWLLGCAAN,NC_003977.2,reference,,1
+745,REF|polymerase|start745|KYTSFPWLLGCAANW,polymerase,polymerase,745,759,KYTSFPWLLGCAANW,NC_003977.2,reference,,1
+746,REF|polymerase|start746|YTSFPWLLGCAANWI,polymerase,polymerase,746,760,YTSFPWLLGCAANWI,NC_003977.2,reference,,1
+747,REF|polymerase|start747|TSFPWLLGCAANWIL,polymerase,polymerase,747,761,TSFPWLLGCAANWIL,NC_003977.2,reference,,1
+748,REF|polymerase|start748|SFPWLLGCAANWILR,polymerase,polymerase,748,762,SFPWLLGCAANWILR,NC_003977.2,reference,,1
+749,REF|polymerase|start749|FPWLLGCAANWILRG,polymerase,polymerase,749,763,FPWLLGCAANWILRG,NC_003977.2,reference,,1
+750,REF|polymerase|start750|PWLLGCAANWILRGT,polymerase,polymerase,750,764,PWLLGCAANWILRGT,NC_003977.2,reference,,1
+751,REF|polymerase|start751|WLLGCAANWILRGTS,polymerase,polymerase,751,765,WLLGCAANWILRGTS,NC_003977.2,reference,,1
+752,REF|polymerase|start752|LLGCAANWILRGTSF,polymerase,polymerase,752,766,LLGCAANWILRGTSF,NC_003977.2,reference,,1
+753,REF|polymerase|start753|LGCAANWILRGTSFV,polymerase,polymerase,753,767,LGCAANWILRGTSFV,NC_003977.2,reference,,1
+754,REF|polymerase|start754|GCAANWILRGTSFVY,polymerase,polymerase,754,768,GCAANWILRGTSFVY,NC_003977.2,reference,,1
+755,REF|polymerase|start755|CAANWILRGTSFVYV,polymerase,polymerase,755,769,CAANWILRGTSFVYV,NC_003977.2,reference,,1
+756,REF|polymerase|start756|AANWILRGTSFVYVP,polymerase,polymerase,756,770,AANWILRGTSFVYVP,NC_003977.2,reference,,1
+757,REF|polymerase|start757|ANWILRGTSFVYVPS,polymerase,polymerase,757,771,ANWILRGTSFVYVPS,NC_003977.2,reference,,1
+758,REF|polymerase|start758|NWILRGTSFVYVPSA,polymerase,polymerase,758,772,NWILRGTSFVYVPSA,NC_003977.2,reference,,1
+759,REF|polymerase|start759|WILRGTSFVYVPSAL,polymerase,polymerase,759,773,WILRGTSFVYVPSAL,NC_003977.2,reference,,1
+760,REF|polymerase|start760|ILRGTSFVYVPSALN,polymerase,polymerase,760,774,ILRGTSFVYVPSALN,NC_003977.2,reference,,1
+761,REF|polymerase|start761|LRGTSFVYVPSALNP,polymerase,polymerase,761,775,LRGTSFVYVPSALNP,NC_003977.2,reference,,1
+762,REF|polymerase|start762|RGTSFVYVPSALNPA,polymerase,polymerase,762,776,RGTSFVYVPSALNPA,NC_003977.2,reference,,1
+763,REF|polymerase|start763|GTSFVYVPSALNPAD,polymerase,polymerase,763,777,GTSFVYVPSALNPAD,NC_003977.2,reference,,1
+764,REF|polymerase|start764|TSFVYVPSALNPADD,polymerase,polymerase,764,778,TSFVYVPSALNPADD,NC_003977.2,reference,,1
+765,REF|polymerase|start765|SFVYVPSALNPADDP,polymerase,polymerase,765,779,SFVYVPSALNPADDP,NC_003977.2,reference,,1
+766,REF|polymerase|start766|FVYVPSALNPADDPS,polymerase,polymerase,766,780,FVYVPSALNPADDPS,NC_003977.2,reference,,1
+767,REF|polymerase|start767|VYVPSALNPADDPSR,polymerase,polymerase,767,781,VYVPSALNPADDPSR,NC_003977.2,reference,,1
+768,REF|polymerase|start768|YVPSALNPADDPSRG,polymerase,polymerase,768,782,YVPSALNPADDPSRG,NC_003977.2,reference,,1
+769,REF|polymerase|start769|VPSALNPADDPSRGR,polymerase,polymerase,769,783,VPSALNPADDPSRGR,NC_003977.2,reference,,1
+770,REF|polymerase|start770|PSALNPADDPSRGRL,polymerase,polymerase,770,784,PSALNPADDPSRGRL,NC_003977.2,reference,,1
+771,REF|polymerase|start771|SALNPADDPSRGRLG,polymerase,polymerase,771,785,SALNPADDPSRGRLG,NC_003977.2,reference,,1
+772,REF|polymerase|start772|ALNPADDPSRGRLGL,polymerase,polymerase,772,786,ALNPADDPSRGRLGL,NC_003977.2,reference,,1
+773,REF|polymerase|start773|LNPADDPSRGRLGLS,polymerase,polymerase,773,787,LNPADDPSRGRLGLS,NC_003977.2,reference,,1
+774,REF|polymerase|start774|NPADDPSRGRLGLSR,polymerase,polymerase,774,788,NPADDPSRGRLGLSR,NC_003977.2,reference,,1
+775,REF|polymerase|start775|PADDPSRGRLGLSRP,polymerase,polymerase,775,789,PADDPSRGRLGLSRP,NC_003977.2,reference,,1
+776,REF|polymerase|start776|ADDPSRGRLGLSRPL,polymerase,polymerase,776,790,ADDPSRGRLGLSRPL,NC_003977.2,reference,,1
+777,REF|polymerase|start777|DDPSRGRLGLSRPLL,polymerase,polymerase,777,791,DDPSRGRLGLSRPLL,NC_003977.2,reference,,1
+778,REF|polymerase|start778|DPSRGRLGLSRPLLR,polymerase,polymerase,778,792,DPSRGRLGLSRPLLR,NC_003977.2,reference,,1
+779,REF|polymerase|start779|PSRGRLGLSRPLLRL,polymerase,polymerase,779,793,PSRGRLGLSRPLLRL,NC_003977.2,reference,,1
+780,REF|polymerase|start780|SRGRLGLSRPLLRLP,polymerase,polymerase,780,794,SRGRLGLSRPLLRLP,NC_003977.2,reference,,1
+781,REF|polymerase|start781|RGRLGLSRPLLRLPF,polymerase,polymerase,781,795,RGRLGLSRPLLRLPF,NC_003977.2,reference,,1
+782,REF|polymerase|start782|GRLGLSRPLLRLPFR,polymerase,polymerase,782,796,GRLGLSRPLLRLPFR,NC_003977.2,reference,,1
+783,REF|polymerase|start783|RLGLSRPLLRLPFRP,polymerase,polymerase,783,797,RLGLSRPLLRLPFRP,NC_003977.2,reference,,1
+784,REF|polymerase|start784|LGLSRPLLRLPFRPT,polymerase,polymerase,784,798,LGLSRPLLRLPFRPT,NC_003977.2,reference,,1
+785,REF|polymerase|start785|GLSRPLLRLPFRPTT,polymerase,polymerase,785,799,GLSRPLLRLPFRPTT,NC_003977.2,reference,,1
+786,REF|polymerase|start786|LSRPLLRLPFRPTTG,polymerase,polymerase,786,800,LSRPLLRLPFRPTTG,NC_003977.2,reference,,1
+787,REF|polymerase|start787|SRPLLRLPFRPTTGR,polymerase,polymerase,787,801,SRPLLRLPFRPTTGR,NC_003977.2,reference,,1
+788,REF|polymerase|start788|RPLLRLPFRPTTGRT,polymerase,polymerase,788,802,RPLLRLPFRPTTGRT,NC_003977.2,reference,,1
+789,REF|polymerase|start789|PLLRLPFRPTTGRTS,polymerase,polymerase,789,803,PLLRLPFRPTTGRTS,NC_003977.2,reference,,1
+790,REF|polymerase|start790|LLRLPFRPTTGRTSL,polymerase,polymerase,790,804,LLRLPFRPTTGRTSL,NC_003977.2,reference,,1
+791,REF|polymerase|start791|LRLPFRPTTGRTSLY,polymerase,polymerase,791,805,LRLPFRPTTGRTSLY,NC_003977.2,reference,,1
+792,REF|polymerase|start792|RLPFRPTTGRTSLYA,polymerase,polymerase,792,806,RLPFRPTTGRTSLYA,NC_003977.2,reference,,1
+793,REF|polymerase|start793|LPFRPTTGRTSLYAD,polymerase,polymerase,793,807,LPFRPTTGRTSLYAD,NC_003977.2,reference,,1
+794,REF|polymerase|start794|PFRPTTGRTSLYADS,polymerase,polymerase,794,808,PFRPTTGRTSLYADS,NC_003977.2,reference,,1
+795,REF|polymerase|start795|FRPTTGRTSLYADSP,polymerase,polymerase,795,809,FRPTTGRTSLYADSP,NC_003977.2,reference,,1
+796,REF|polymerase|start796|RPTTGRTSLYADSPS,polymerase,polymerase,796,810,RPTTGRTSLYADSPS,NC_003977.2,reference,,1
+797,REF|polymerase|start797|PTTGRTSLYADSPSV,polymerase,polymerase,797,811,PTTGRTSLYADSPSV,NC_003977.2,reference,,1
+798,REF|polymerase|start798|TTGRTSLYADSPSVP,polymerase,polymerase,798,812,TTGRTSLYADSPSVP,NC_003977.2,reference,,1
+799,REF|polymerase|start799|TGRTSLYADSPSVPS,polymerase,polymerase,799,813,TGRTSLYADSPSVPS,NC_003977.2,reference,,1
+800,REF|polymerase|start800|GRTSLYADSPSVPSH,polymerase,polymerase,800,814,GRTSLYADSPSVPSH,NC_003977.2,reference,,1
+801,REF|polymerase|start801|RTSLYADSPSVPSHL,polymerase,polymerase,801,815,RTSLYADSPSVPSHL,NC_003977.2,reference,,1
+802,REF|polymerase|start802|TSLYADSPSVPSHLP,polymerase,polymerase,802,816,TSLYADSPSVPSHLP,NC_003977.2,reference,,1
+803,REF|polymerase|start803|SLYADSPSVPSHLPD,polymerase,polymerase,803,817,SLYADSPSVPSHLPD,NC_003977.2,reference,,1
+804,REF|polymerase|start804|LYADSPSVPSHLPDR,polymerase,polymerase,804,818,LYADSPSVPSHLPDR,NC_003977.2,reference,,1
+805,REF|polymerase|start805|YADSPSVPSHLPDRV,polymerase,polymerase,805,819,YADSPSVPSHLPDRV,NC_003977.2,reference,,1
+806,REF|polymerase|start806|ADSPSVPSHLPDRVH,polymerase,polymerase,806,820,ADSPSVPSHLPDRVH,NC_003977.2,reference,,1
+807,REF|polymerase|start807|DSPSVPSHLPDRVHF,polymerase,polymerase,807,821,DSPSVPSHLPDRVHF,NC_003977.2,reference,,1
+808,REF|polymerase|start808|SPSVPSHLPDRVHFA,polymerase,polymerase,808,822,SPSVPSHLPDRVHFA,NC_003977.2,reference,,1
+809,REF|polymerase|start809|PSVPSHLPDRVHFAS,polymerase,polymerase,809,823,PSVPSHLPDRVHFAS,NC_003977.2,reference,,1
+810,REF|polymerase|start810|SVPSHLPDRVHFASP,polymerase,polymerase,810,824,SVPSHLPDRVHFASP,NC_003977.2,reference,,1
+811,REF|polymerase|start811|VPSHLPDRVHFASPL,polymerase,polymerase,811,825,VPSHLPDRVHFASPL,NC_003977.2,reference,,1
+812,REF|polymerase|start812|PSHLPDRVHFASPLH,polymerase,polymerase,812,826,PSHLPDRVHFASPLH,NC_003977.2,reference,,1
+813,REF|polymerase|start813|SHLPDRVHFASPLHV,polymerase,polymerase,813,827,SHLPDRVHFASPLHV,NC_003977.2,reference,,1
+814,REF|polymerase|start814|HLPDRVHFASPLHVA,polymerase,polymerase,814,828,HLPDRVHFASPLHVA,NC_003977.2,reference,,1
+815,REF|polymerase|start815|LPDRVHFASPLHVAW,polymerase,polymerase,815,829,LPDRVHFASPLHVAW,NC_003977.2,reference,,1
+816,REF|polymerase|start816|PDRVHFASPLHVAWR,polymerase,polymerase,816,830,PDRVHFASPLHVAWR,NC_003977.2,reference,,1
+817,REF|polymerase|start817|DRVHFASPLHVAWRP,polymerase,polymerase,817,831,DRVHFASPLHVAWRP,NC_003977.2,reference,,1
+818,REF|polymerase|start818|RVHFASPLHVAWRPP,polymerase,polymerase,818,832,RVHFASPLHVAWRPP,NC_003977.2,reference,,1
+819,REF|large_envelope|start1|MGQNLSTSNPLGFFP,large_envelope,large envelope protein,1,15,MGQNLSTSNPLGFFP,NC_003977.2,reference,,1
+820,REF|large_envelope|start2|GQNLSTSNPLGFFPD,large_envelope,large envelope protein,2,16,GQNLSTSNPLGFFPD,NC_003977.2,reference,,1
+821,REF|large_envelope|start3|QNLSTSNPLGFFPDH,large_envelope,large envelope protein,3,17,QNLSTSNPLGFFPDH,NC_003977.2,reference,,1
+822,REF|large_envelope|start4|NLSTSNPLGFFPDHQ,large_envelope,large envelope protein,4,18,NLSTSNPLGFFPDHQ,NC_003977.2,reference,,1
+823,REF|large_envelope|start5|LSTSNPLGFFPDHQL,large_envelope,large envelope protein,5,19,LSTSNPLGFFPDHQL,NC_003977.2,reference,,1
+824,REF|large_envelope|start6|STSNPLGFFPDHQLD,large_envelope,large envelope protein,6,20,STSNPLGFFPDHQLD,NC_003977.2,reference,,1
+825,REF|large_envelope|start7|TSNPLGFFPDHQLDP,large_envelope,large envelope protein,7,21,TSNPLGFFPDHQLDP,NC_003977.2,reference,,1
+826,REF|large_envelope|start8|SNPLGFFPDHQLDPA,large_envelope,large envelope protein,8,22,SNPLGFFPDHQLDPA,NC_003977.2,reference,,1
+827,REF|large_envelope|start9|NPLGFFPDHQLDPAF,large_envelope,large envelope protein,9,23,NPLGFFPDHQLDPAF,NC_003977.2,reference,,1
+828,REF|large_envelope|start10|PLGFFPDHQLDPAFR,large_envelope,large envelope protein,10,24,PLGFFPDHQLDPAFR,NC_003977.2,reference,,1
+829,REF|large_envelope|start11|LGFFPDHQLDPAFRA,large_envelope,large envelope protein,11,25,LGFFPDHQLDPAFRA,NC_003977.2,reference,,1
+830,REF|large_envelope|start12|GFFPDHQLDPAFRAN,large_envelope,large envelope protein,12,26,GFFPDHQLDPAFRAN,NC_003977.2,reference,,1
+831,REF|large_envelope|start13|FFPDHQLDPAFRANT,large_envelope,large envelope protein,13,27,FFPDHQLDPAFRANT,NC_003977.2,reference,,1
+832,REF|large_envelope|start14|FPDHQLDPAFRANTA,large_envelope,large envelope protein,14,28,FPDHQLDPAFRANTA,NC_003977.2,reference,,1
+833,REF|large_envelope|start15|PDHQLDPAFRANTAN,large_envelope,large envelope protein,15,29,PDHQLDPAFRANTAN,NC_003977.2,reference,,1
+834,REF|large_envelope|start16|DHQLDPAFRANTANP,large_envelope,large envelope protein,16,30,DHQLDPAFRANTANP,NC_003977.2,reference,,1
+835,REF|large_envelope|start17|HQLDPAFRANTANPD,large_envelope,large envelope protein,17,31,HQLDPAFRANTANPD,NC_003977.2,reference,,1
+836,REF|large_envelope|start18|QLDPAFRANTANPDW,large_envelope,large envelope protein,18,32,QLDPAFRANTANPDW,NC_003977.2,reference,,1
+837,REF|large_envelope|start19|LDPAFRANTANPDWD,large_envelope,large envelope protein,19,33,LDPAFRANTANPDWD,NC_003977.2,reference,,1
+838,REF|large_envelope|start20|DPAFRANTANPDWDF,large_envelope,large envelope protein,20,34,DPAFRANTANPDWDF,NC_003977.2,reference,,1
+839,REF|large_envelope|start21|PAFRANTANPDWDFN,large_envelope,large envelope protein,21,35,PAFRANTANPDWDFN,NC_003977.2,reference,,1
+840,REF|large_envelope|start22|AFRANTANPDWDFNP,large_envelope,large envelope protein,22,36,AFRANTANPDWDFNP,NC_003977.2,reference,,1
+841,REF|large_envelope|start23|FRANTANPDWDFNPN,large_envelope,large envelope protein,23,37,FRANTANPDWDFNPN,NC_003977.2,reference,,1
+842,REF|large_envelope|start24|RANTANPDWDFNPNK,large_envelope,large envelope protein,24,38,RANTANPDWDFNPNK,NC_003977.2,reference,,1
+843,REF|large_envelope|start25|ANTANPDWDFNPNKD,large_envelope,large envelope protein,25,39,ANTANPDWDFNPNKD,NC_003977.2,reference,,1
+844,REF|large_envelope|start26|NTANPDWDFNPNKDT,large_envelope,large envelope protein,26,40,NTANPDWDFNPNKDT,NC_003977.2,reference,,1
+845,REF|large_envelope|start27|TANPDWDFNPNKDTW,large_envelope,large envelope protein,27,41,TANPDWDFNPNKDTW,NC_003977.2,reference,,1
+846,REF|large_envelope|start28|ANPDWDFNPNKDTWP,large_envelope,large envelope protein,28,42,ANPDWDFNPNKDTWP,NC_003977.2,reference,,1
+847,REF|large_envelope|start29|NPDWDFNPNKDTWPD,large_envelope,large envelope protein,29,43,NPDWDFNPNKDTWPD,NC_003977.2,reference,,1
+848,REF|large_envelope|start30|PDWDFNPNKDTWPDA,large_envelope,large envelope protein,30,44,PDWDFNPNKDTWPDA,NC_003977.2,reference,,1
+849,REF|large_envelope|start31|DWDFNPNKDTWPDAN,large_envelope,large envelope protein,31,45,DWDFNPNKDTWPDAN,NC_003977.2,reference,,1
+850,REF|large_envelope|start32|WDFNPNKDTWPDANK,large_envelope,large envelope protein,32,46,WDFNPNKDTWPDANK,NC_003977.2,reference,,1
+851,REF|large_envelope|start33|DFNPNKDTWPDANKV,large_envelope,large envelope protein,33,47,DFNPNKDTWPDANKV,NC_003977.2,reference,,1
+852,REF|large_envelope|start34|FNPNKDTWPDANKVG,large_envelope,large envelope protein,34,48,FNPNKDTWPDANKVG,NC_003977.2,reference,,1
+853,REF|large_envelope|start35|NPNKDTWPDANKVGA,large_envelope,large envelope protein,35,49,NPNKDTWPDANKVGA,NC_003977.2,reference,,1
+854,REF|large_envelope|start36|PNKDTWPDANKVGAG,large_envelope,large envelope protein,36,50,PNKDTWPDANKVGAG,NC_003977.2,reference,,1
+855,REF|large_envelope|start37|NKDTWPDANKVGAGA,large_envelope,large envelope protein,37,51,NKDTWPDANKVGAGA,NC_003977.2,reference,,1
+856,REF|large_envelope|start38|KDTWPDANKVGAGAF,large_envelope,large envelope protein,38,52,KDTWPDANKVGAGAF,NC_003977.2,reference,,1
+857,REF|large_envelope|start39|DTWPDANKVGAGAFG,large_envelope,large envelope protein,39,53,DTWPDANKVGAGAFG,NC_003977.2,reference,,1
+858,REF|large_envelope|start40|TWPDANKVGAGAFGL,large_envelope,large envelope protein,40,54,TWPDANKVGAGAFGL,NC_003977.2,reference,,1
+859,REF|large_envelope|start41|WPDANKVGAGAFGLG,large_envelope,large envelope protein,41,55,WPDANKVGAGAFGLG,NC_003977.2,reference,,1
+860,REF|large_envelope|start42|PDANKVGAGAFGLGF,large_envelope,large envelope protein,42,56,PDANKVGAGAFGLGF,NC_003977.2,reference,,1
+861,REF|large_envelope|start43|DANKVGAGAFGLGFT,large_envelope,large envelope protein,43,57,DANKVGAGAFGLGFT,NC_003977.2,reference,,1
+862,REF|large_envelope|start44|ANKVGAGAFGLGFTP,large_envelope,large envelope protein,44,58,ANKVGAGAFGLGFTP,NC_003977.2,reference,,1
+863,REF|large_envelope|start45|NKVGAGAFGLGFTPP,large_envelope,large envelope protein,45,59,NKVGAGAFGLGFTPP,NC_003977.2,reference,,1
+864,REF|large_envelope|start46|KVGAGAFGLGFTPPH,large_envelope,large envelope protein,46,60,KVGAGAFGLGFTPPH,NC_003977.2,reference,,1
+865,REF|large_envelope|start47|VGAGAFGLGFTPPHG,large_envelope,large envelope protein,47,61,VGAGAFGLGFTPPHG,NC_003977.2,reference,,1
+866,REF|large_envelope|start48|GAGAFGLGFTPPHGG,large_envelope,large envelope protein,48,62,GAGAFGLGFTPPHGG,NC_003977.2,reference,,1
+867,REF|large_envelope|start49|AGAFGLGFTPPHGGL,large_envelope,large envelope protein,49,63,AGAFGLGFTPPHGGL,NC_003977.2,reference,,1
+868,REF|large_envelope|start50|GAFGLGFTPPHGGLL,large_envelope,large envelope protein,50,64,GAFGLGFTPPHGGLL,NC_003977.2,reference,,1
+869,REF|large_envelope|start51|AFGLGFTPPHGGLLG,large_envelope,large envelope protein,51,65,AFGLGFTPPHGGLLG,NC_003977.2,reference,,1
+870,REF|large_envelope|start52|FGLGFTPPHGGLLGW,large_envelope,large envelope protein,52,66,FGLGFTPPHGGLLGW,NC_003977.2,reference,,1
+871,REF|large_envelope|start53|GLGFTPPHGGLLGWS,large_envelope,large envelope protein,53,67,GLGFTPPHGGLLGWS,NC_003977.2,reference,,1
+872,REF|large_envelope|start54|LGFTPPHGGLLGWSP,large_envelope,large envelope protein,54,68,LGFTPPHGGLLGWSP,NC_003977.2,reference,,1
+873,REF|large_envelope|start55|GFTPPHGGLLGWSPQ,large_envelope,large envelope protein,55,69,GFTPPHGGLLGWSPQ,NC_003977.2,reference,,1
+874,REF|large_envelope|start56|FTPPHGGLLGWSPQA,large_envelope,large envelope protein,56,70,FTPPHGGLLGWSPQA,NC_003977.2,reference,,1
+875,REF|large_envelope|start57|TPPHGGLLGWSPQAQ,large_envelope,large envelope protein,57,71,TPPHGGLLGWSPQAQ,NC_003977.2,reference,,1
+876,REF|large_envelope|start58|PPHGGLLGWSPQAQG,large_envelope,large envelope protein,58,72,PPHGGLLGWSPQAQG,NC_003977.2,reference,,1
+877,REF|large_envelope|start59|PHGGLLGWSPQAQGI,large_envelope,large envelope protein,59,73,PHGGLLGWSPQAQGI,NC_003977.2,reference,,1
+878,REF|large_envelope|start60|HGGLLGWSPQAQGIL,large_envelope,large envelope protein,60,74,HGGLLGWSPQAQGIL,NC_003977.2,reference,,1
+879,REF|large_envelope|start61|GGLLGWSPQAQGILQ,large_envelope,large envelope protein,61,75,GGLLGWSPQAQGILQ,NC_003977.2,reference,,1
+880,REF|large_envelope|start62|GLLGWSPQAQGILQT,large_envelope,large envelope protein,62,76,GLLGWSPQAQGILQT,NC_003977.2,reference,,1
+881,REF|large_envelope|start63|LLGWSPQAQGILQTL,large_envelope,large envelope protein,63,77,LLGWSPQAQGILQTL,NC_003977.2,reference,,1
+882,REF|large_envelope|start64|LGWSPQAQGILQTLP,large_envelope,large envelope protein,64,78,LGWSPQAQGILQTLP,NC_003977.2,reference,,1
+883,REF|large_envelope|start65|GWSPQAQGILQTLPA,large_envelope,large envelope protein,65,79,GWSPQAQGILQTLPA,NC_003977.2,reference,,1
+884,REF|large_envelope|start66|WSPQAQGILQTLPAN,large_envelope,large envelope protein,66,80,WSPQAQGILQTLPAN,NC_003977.2,reference,,1
+885,REF|large_envelope|start67|SPQAQGILQTLPANP,large_envelope,large envelope protein,67,81,SPQAQGILQTLPANP,NC_003977.2,reference,,1
+886,REF|large_envelope|start68|PQAQGILQTLPANPP,large_envelope,large envelope protein,68,82,PQAQGILQTLPANPP,NC_003977.2,reference,,1
+887,REF|large_envelope|start69|QAQGILQTLPANPPP,large_envelope,large envelope protein,69,83,QAQGILQTLPANPPP,NC_003977.2,reference,,1
+888,REF|large_envelope|start70|AQGILQTLPANPPPA,large_envelope,large envelope protein,70,84,AQGILQTLPANPPPA,NC_003977.2,reference,,1
+889,REF|large_envelope|start71|QGILQTLPANPPPAS,large_envelope,large envelope protein,71,85,QGILQTLPANPPPAS,NC_003977.2,reference,,1
+890,REF|large_envelope|start72|GILQTLPANPPPAST,large_envelope,large envelope protein,72,86,GILQTLPANPPPAST,NC_003977.2,reference,,1
+891,REF|large_envelope|start73|ILQTLPANPPPASTN,large_envelope,large envelope protein,73,87,ILQTLPANPPPASTN,NC_003977.2,reference,,1
+892,REF|large_envelope|start74|LQTLPANPPPASTNR,large_envelope,large envelope protein,74,88,LQTLPANPPPASTNR,NC_003977.2,reference,,1
+893,REF|large_envelope|start75|QTLPANPPPASTNRQ,large_envelope,large envelope protein,75,89,QTLPANPPPASTNRQ,NC_003977.2,reference,,1
+894,REF|large_envelope|start76|TLPANPPPASTNRQS,large_envelope,large envelope protein,76,90,TLPANPPPASTNRQS,NC_003977.2,reference,,1
+895,REF|large_envelope|start77|LPANPPPASTNRQSG,large_envelope,large envelope protein,77,91,LPANPPPASTNRQSG,NC_003977.2,reference,,1
+896,REF|large_envelope|start78|PANPPPASTNRQSGR,large_envelope,large envelope protein,78,92,PANPPPASTNRQSGR,NC_003977.2,reference,,1
+897,REF|large_envelope|start79|ANPPPASTNRQSGRQ,large_envelope,large envelope protein,79,93,ANPPPASTNRQSGRQ,NC_003977.2,reference,,1
+898,REF|large_envelope|start80|NPPPASTNRQSGRQP,large_envelope,large envelope protein,80,94,NPPPASTNRQSGRQP,NC_003977.2,reference,,1
+899,REF|large_envelope|start81|PPPASTNRQSGRQPT,large_envelope,large envelope protein,81,95,PPPASTNRQSGRQPT,NC_003977.2,reference,,1
+900,REF|large_envelope|start82|PPASTNRQSGRQPTP,large_envelope,large envelope protein,82,96,PPASTNRQSGRQPTP,NC_003977.2,reference,,1
+901,REF|large_envelope|start83|PASTNRQSGRQPTPL,large_envelope,large envelope protein,83,97,PASTNRQSGRQPTPL,NC_003977.2,reference,,1
+902,REF|large_envelope|start84|ASTNRQSGRQPTPLS,large_envelope,large envelope protein,84,98,ASTNRQSGRQPTPLS,NC_003977.2,reference,,1
+903,REF|large_envelope|start85|STNRQSGRQPTPLSP,large_envelope,large envelope protein,85,99,STNRQSGRQPTPLSP,NC_003977.2,reference,,1
+904,REF|large_envelope|start86|TNRQSGRQPTPLSPP,large_envelope,large envelope protein,86,100,TNRQSGRQPTPLSPP,NC_003977.2,reference,,1
+905,REF|large_envelope|start87|NRQSGRQPTPLSPPL,large_envelope,large envelope protein,87,101,NRQSGRQPTPLSPPL,NC_003977.2,reference,,1
+906,REF|large_envelope|start88|RQSGRQPTPLSPPLR,large_envelope,large envelope protein,88,102,RQSGRQPTPLSPPLR,NC_003977.2,reference,,1
+907,REF|large_envelope|start89|QSGRQPTPLSPPLRN,large_envelope,large envelope protein,89,103,QSGRQPTPLSPPLRN,NC_003977.2,reference,,1
+908,REF|large_envelope|start90|SGRQPTPLSPPLRNT,large_envelope,large envelope protein,90,104,SGRQPTPLSPPLRNT,NC_003977.2,reference,,1
+909,REF|large_envelope|start91|GRQPTPLSPPLRNTH,large_envelope,large envelope protein,91,105,GRQPTPLSPPLRNTH,NC_003977.2,reference,,1
+910,REF|large_envelope|start92|RQPTPLSPPLRNTHP,large_envelope,large envelope protein,92,106,RQPTPLSPPLRNTHP,NC_003977.2,reference,,1
+911,REF|large_envelope|start93|QPTPLSPPLRNTHPQ,large_envelope,large envelope protein,93,107,QPTPLSPPLRNTHPQ,NC_003977.2,reference,,1
+912,REF|large_envelope|start94|PTPLSPPLRNTHPQA,large_envelope,large envelope protein,94,108,PTPLSPPLRNTHPQA,NC_003977.2,reference,,1
+913,REF|large_envelope|start95|TPLSPPLRNTHPQAM,large_envelope,large envelope protein,95,109,TPLSPPLRNTHPQAM,NC_003977.2,reference,,1
+914,REF|large_envelope|start96|PLSPPLRNTHPQAMQ,large_envelope,large envelope protein,96,110,PLSPPLRNTHPQAMQ,NC_003977.2,reference,,1
+915,REF|large_envelope|start97|LSPPLRNTHPQAMQW,large_envelope,large envelope protein,97,111,LSPPLRNTHPQAMQW,NC_003977.2,reference,,1
+916,REF|large_envelope|start98|SPPLRNTHPQAMQWN,large_envelope,large envelope protein,98,112,SPPLRNTHPQAMQWN,NC_003977.2,reference,,1
+917,REF|large_envelope|start99|PPLRNTHPQAMQWNS,large_envelope,large envelope protein,99,113,PPLRNTHPQAMQWNS,NC_003977.2,reference,,1
+918,REF|large_envelope|start100|PLRNTHPQAMQWNST,large_envelope,large envelope protein,100,114,PLRNTHPQAMQWNST,NC_003977.2,reference,,1
+919,REF|large_envelope|start101|LRNTHPQAMQWNSTT,large_envelope,large envelope protein,101,115,LRNTHPQAMQWNSTT,NC_003977.2,reference,,1
+920,REF|large_envelope|start102|RNTHPQAMQWNSTTF,large_envelope,large envelope protein,102,116,RNTHPQAMQWNSTTF,NC_003977.2,reference,,1
+921,REF|large_envelope|start103|NTHPQAMQWNSTTFH,large_envelope,large envelope protein,103,117,NTHPQAMQWNSTTFH,NC_003977.2,reference,,1
+922,REF|large_envelope|start104|THPQAMQWNSTTFHQ,large_envelope,large envelope protein,104,118,THPQAMQWNSTTFHQ,NC_003977.2,reference,,1
+923,REF|large_envelope|start105|HPQAMQWNSTTFHQT,large_envelope,large envelope protein,105,119,HPQAMQWNSTTFHQT,NC_003977.2,reference,,1
+924,REF|large_envelope|start106|PQAMQWNSTTFHQTL,large_envelope,large envelope protein,106,120,PQAMQWNSTTFHQTL,NC_003977.2,reference,,1
+925,REF|large_envelope|start107|QAMQWNSTTFHQTLQ,large_envelope,large envelope protein,107,121,QAMQWNSTTFHQTLQ,NC_003977.2,reference,,1
+926,REF|large_envelope|start108|AMQWNSTTFHQTLQD,large_envelope,large envelope protein,108,122,AMQWNSTTFHQTLQD,NC_003977.2,reference,,1
+927,REF|large_envelope|start109|MQWNSTTFHQTLQDP,large_envelope,large envelope protein,109,123,MQWNSTTFHQTLQDP,NC_003977.2,reference,,1
+928,REF|large_envelope|start110|QWNSTTFHQTLQDPR,large_envelope,large envelope protein,110,124,QWNSTTFHQTLQDPR,NC_003977.2,reference,,1
+929,REF|large_envelope|start111|WNSTTFHQTLQDPRV,large_envelope,large envelope protein,111,125,WNSTTFHQTLQDPRV,NC_003977.2,reference,,1
+930,REF|large_envelope|start112|NSTTFHQTLQDPRVR,large_envelope,large envelope protein,112,126,NSTTFHQTLQDPRVR,NC_003977.2,reference,,1
+931,REF|large_envelope|start113|STTFHQTLQDPRVRG,large_envelope,large envelope protein,113,127,STTFHQTLQDPRVRG,NC_003977.2,reference,,1
+932,REF|large_envelope|start114|TTFHQTLQDPRVRGL,large_envelope,large envelope protein,114,128,TTFHQTLQDPRVRGL,NC_003977.2,reference,,1
+933,REF|large_envelope|start115|TFHQTLQDPRVRGLY,large_envelope,large envelope protein,115,129,TFHQTLQDPRVRGLY,NC_003977.2,reference,,1
+934,REF|large_envelope|start116|FHQTLQDPRVRGLYF,large_envelope,large envelope protein,116,130,FHQTLQDPRVRGLYF,NC_003977.2,reference,,1
+935,REF|large_envelope|start117|HQTLQDPRVRGLYFP,large_envelope,large envelope protein,117,131,HQTLQDPRVRGLYFP,NC_003977.2,reference,,1
+936,REF|large_envelope|start118|QTLQDPRVRGLYFPA,large_envelope,large envelope protein,118,132,QTLQDPRVRGLYFPA,NC_003977.2,reference,,1
+937,REF|large_envelope|start119|TLQDPRVRGLYFPAG,large_envelope,large envelope protein,119,133,TLQDPRVRGLYFPAG,NC_003977.2,reference,,1
+938,REF|large_envelope|start120|LQDPRVRGLYFPAGG,large_envelope,large envelope protein,120,134,LQDPRVRGLYFPAGG,NC_003977.2,reference,,1
+939,REF|large_envelope|start121|QDPRVRGLYFPAGGS,large_envelope,large envelope protein,121,135,QDPRVRGLYFPAGGS,NC_003977.2,reference,,1
+940,REF|large_envelope|start122|DPRVRGLYFPAGGSS,large_envelope,large envelope protein,122,136,DPRVRGLYFPAGGSS,NC_003977.2,reference,,1
+941,REF|large_envelope|start123|PRVRGLYFPAGGSSS,large_envelope,large envelope protein,123,137,PRVRGLYFPAGGSSS,NC_003977.2,reference,,1
+942,REF|large_envelope|start124|RVRGLYFPAGGSSSG,large_envelope,large envelope protein,124,138,RVRGLYFPAGGSSSG,NC_003977.2,reference,,1
+943,REF|large_envelope|start125|VRGLYFPAGGSSSGT,large_envelope,large envelope protein,125,139,VRGLYFPAGGSSSGT,NC_003977.2,reference,,1
+944,REF|large_envelope|start126|RGLYFPAGGSSSGTV,large_envelope,large envelope protein,126,140,RGLYFPAGGSSSGTV,NC_003977.2,reference,,1
+945,REF|large_envelope|start127|GLYFPAGGSSSGTVN,large_envelope,large envelope protein,127,141,GLYFPAGGSSSGTVN,NC_003977.2,reference,,1
+946,REF|large_envelope|start128|LYFPAGGSSSGTVNP,large_envelope,large envelope protein,128,142,LYFPAGGSSSGTVNP,NC_003977.2,reference,,1
+947,REF|large_envelope|start129|YFPAGGSSSGTVNPV,large_envelope,large envelope protein,129,143,YFPAGGSSSGTVNPV,NC_003977.2,reference,,1
+948,REF|large_envelope|start130|FPAGGSSSGTVNPVL,large_envelope,large envelope protein,130,144,FPAGGSSSGTVNPVL,NC_003977.2,reference,,1
+949,REF|large_envelope|start131|PAGGSSSGTVNPVLT,large_envelope,large envelope protein,131,145,PAGGSSSGTVNPVLT,NC_003977.2,reference,,1
+950,REF|large_envelope|start132|AGGSSSGTVNPVLTT,large_envelope,large envelope protein,132,146,AGGSSSGTVNPVLTT,NC_003977.2,reference,,1
+951,REF|large_envelope|start133|GGSSSGTVNPVLTTA,large_envelope,large envelope protein,133,147,GGSSSGTVNPVLTTA,NC_003977.2,reference,,1
+952,REF|large_envelope|start134|GSSSGTVNPVLTTAS,large_envelope,large envelope protein,134,148,GSSSGTVNPVLTTAS,NC_003977.2,reference,,1
+953,REF|large_envelope|start135|SSSGTVNPVLTTASP,large_envelope,large envelope protein,135,149,SSSGTVNPVLTTASP,NC_003977.2,reference,,1
+954,REF|large_envelope|start136|SSGTVNPVLTTASPL,large_envelope,large envelope protein,136,150,SSGTVNPVLTTASPL,NC_003977.2,reference,,1
+955,REF|large_envelope|start137|SGTVNPVLTTASPLS,large_envelope,large envelope protein,137,151,SGTVNPVLTTASPLS,NC_003977.2,reference,,1
+956,REF|large_envelope|start138|GTVNPVLTTASPLSS,large_envelope,large envelope protein,138,152,GTVNPVLTTASPLSS,NC_003977.2,reference,,1
+957,REF|large_envelope|start139|TVNPVLTTASPLSSI,large_envelope,large envelope protein,139,153,TVNPVLTTASPLSSI,NC_003977.2,reference,,1
+958,REF|large_envelope|start140|VNPVLTTASPLSSIF,large_envelope,large envelope protein,140,154,VNPVLTTASPLSSIF,NC_003977.2,reference,,1
+959,REF|large_envelope|start141|NPVLTTASPLSSIFS,large_envelope,large envelope protein,141,155,NPVLTTASPLSSIFS,NC_003977.2,reference,,1
+960,REF|large_envelope|start142|PVLTTASPLSSIFSR,large_envelope,large envelope protein,142,156,PVLTTASPLSSIFSR,NC_003977.2,reference,,1
+961,REF|large_envelope|start143|VLTTASPLSSIFSRI,large_envelope,large envelope protein,143,157,VLTTASPLSSIFSRI,NC_003977.2,reference,,1
+962,REF|large_envelope|start144|LTTASPLSSIFSRIG,large_envelope,large envelope protein,144,158,LTTASPLSSIFSRIG,NC_003977.2,reference,,1
+963,REF|large_envelope|start145|TTASPLSSIFSRIGD,large_envelope,large envelope protein,145,159,TTASPLSSIFSRIGD,NC_003977.2,reference,,1
+964,REF|large_envelope|start146|TASPLSSIFSRIGDP,large_envelope,large envelope protein,146,160,TASPLSSIFSRIGDP,NC_003977.2,reference,,1
+965,REF|large_envelope|start147|ASPLSSIFSRIGDPA,large_envelope,large envelope protein,147,161,ASPLSSIFSRIGDPA,NC_003977.2,reference,,1
+966,REF|large_envelope|start148|SPLSSIFSRIGDPAL,large_envelope,large envelope protein,148,162,SPLSSIFSRIGDPAL,NC_003977.2,reference,,1
+967,REF|large_envelope|start149|PLSSIFSRIGDPALN,large_envelope,large envelope protein,149,163,PLSSIFSRIGDPALN,NC_003977.2,reference,,1
+968,REF|large_envelope|start150|LSSIFSRIGDPALNM,large_envelope,large envelope protein,150,164,LSSIFSRIGDPALNM,NC_003977.2,reference,,1
+969,REF|large_envelope|start151|SSIFSRIGDPALNME,large_envelope,large envelope protein,151,165,SSIFSRIGDPALNME,NC_003977.2,reference,,1
+970,REF|large_envelope|start152|SIFSRIGDPALNMEN,large_envelope,large envelope protein,152,166,SIFSRIGDPALNMEN,NC_003977.2,reference,,1
+971,REF|large_envelope|start153|IFSRIGDPALNMENI,large_envelope,large envelope protein,153,167,IFSRIGDPALNMENI,NC_003977.2,reference,,1
+972,REF|large_envelope|start154|FSRIGDPALNMENIT,large_envelope,large envelope protein,154,168,FSRIGDPALNMENIT,NC_003977.2,reference,,1
+973,REF|large_envelope|start155|SRIGDPALNMENITS,large_envelope,large envelope protein,155,169,SRIGDPALNMENITS,NC_003977.2,reference,,1
+974,REF|large_envelope|start156|RIGDPALNMENITSG,large_envelope,large envelope protein,156,170,RIGDPALNMENITSG,NC_003977.2,reference,,1
+975,REF|large_envelope|start157|IGDPALNMENITSGF,large_envelope,large envelope protein,157,171,IGDPALNMENITSGF,NC_003977.2,reference,,1
+976,REF|large_envelope|start158|GDPALNMENITSGFL,large_envelope,large envelope protein,158,172,GDPALNMENITSGFL,NC_003977.2,reference,,1
+977,REF|large_envelope|start159|DPALNMENITSGFLG,large_envelope,large envelope protein,159,173,DPALNMENITSGFLG,NC_003977.2,reference,,1
+978,REF|large_envelope|start160|PALNMENITSGFLGP,large_envelope,large envelope protein,160,174,PALNMENITSGFLGP,NC_003977.2,reference,,1
+979,REF|large_envelope|start161|ALNMENITSGFLGPL,large_envelope,large envelope protein,161,175,ALNMENITSGFLGPL,NC_003977.2,reference,,1
+980,REF|large_envelope|start162|LNMENITSGFLGPLL,large_envelope,large envelope protein,162,176,LNMENITSGFLGPLL,NC_003977.2,reference,,1
+981,REF|large_envelope|start163|NMENITSGFLGPLLV,large_envelope,large envelope protein,163,177,NMENITSGFLGPLLV,NC_003977.2,reference,,1
+982,REF|large_envelope|start164|MENITSGFLGPLLVL,large_envelope,large envelope protein,164,178,MENITSGFLGPLLVL,NC_003977.2,reference,,1
+983,REF|large_envelope|start165|ENITSGFLGPLLVLQ,large_envelope,large envelope protein,165,179,ENITSGFLGPLLVLQ,NC_003977.2,reference,,1
+984,REF|large_envelope|start166|NITSGFLGPLLVLQA,large_envelope,large envelope protein,166,180,NITSGFLGPLLVLQA,NC_003977.2,reference,,1
+985,REF|large_envelope|start167|ITSGFLGPLLVLQAG,large_envelope,large envelope protein,167,181,ITSGFLGPLLVLQAG,NC_003977.2,reference,,1
+986,REF|large_envelope|start168|TSGFLGPLLVLQAGF,large_envelope,large envelope protein,168,182,TSGFLGPLLVLQAGF,NC_003977.2,reference,,1
+987,REF|large_envelope|start169|SGFLGPLLVLQAGFF,large_envelope,large envelope protein,169,183,SGFLGPLLVLQAGFF,NC_003977.2,reference,,1
+988,REF|large_envelope|start170|GFLGPLLVLQAGFFL,large_envelope,large envelope protein,170,184,GFLGPLLVLQAGFFL,NC_003977.2,reference,,1
+989,REF|large_envelope|start171|FLGPLLVLQAGFFLL,large_envelope,large envelope protein,171,185,FLGPLLVLQAGFFLL,NC_003977.2,reference,,1
+990,REF|large_envelope|start172|LGPLLVLQAGFFLLT,large_envelope,large envelope protein,172,186,LGPLLVLQAGFFLLT,NC_003977.2,reference,,1
+991,REF|large_envelope|start173|GPLLVLQAGFFLLTR,large_envelope,large envelope protein,173,187,GPLLVLQAGFFLLTR,NC_003977.2,reference,,1
+992,REF|large_envelope|start174|PLLVLQAGFFLLTRI,large_envelope,large envelope protein,174,188,PLLVLQAGFFLLTRI,NC_003977.2,reference,,1
+993,REF|large_envelope|start175|LLVLQAGFFLLTRIL,large_envelope,large envelope protein,175,189,LLVLQAGFFLLTRIL,NC_003977.2,reference,,1
+994,REF|large_envelope|start176|LVLQAGFFLLTRILT,large_envelope,large envelope protein,176,190,LVLQAGFFLLTRILT,NC_003977.2,reference,,1
+995,REF|large_envelope|start177|VLQAGFFLLTRILTI,large_envelope,large envelope protein,177,191,VLQAGFFLLTRILTI,NC_003977.2,reference,,1
+996,REF|large_envelope|start178|LQAGFFLLTRILTIP,large_envelope,large envelope protein,178,192,LQAGFFLLTRILTIP,NC_003977.2,reference,,1
+997,REF|large_envelope|start179|QAGFFLLTRILTIPQ,large_envelope,large envelope protein,179,193,QAGFFLLTRILTIPQ,NC_003977.2,reference,,1
+998,REF|large_envelope|start180|AGFFLLTRILTIPQS,large_envelope,large envelope protein,180,194,AGFFLLTRILTIPQS,NC_003977.2,reference,,1
+999,REF|large_envelope|start181|GFFLLTRILTIPQSL,large_envelope,large envelope protein,181,195,GFFLLTRILTIPQSL,NC_003977.2,reference,,1
+1000,REF|large_envelope|start182|FFLLTRILTIPQSLD,large_envelope,large envelope protein,182,196,FFLLTRILTIPQSLD,NC_003977.2,reference,,1
+1001,REF|large_envelope|start183|FLLTRILTIPQSLDS,large_envelope,large envelope protein,183,197,FLLTRILTIPQSLDS,NC_003977.2,reference,,1
+1002,REF|large_envelope|start184|LLTRILTIPQSLDSW,large_envelope,large envelope protein,184,198,LLTRILTIPQSLDSW,NC_003977.2,reference,,1
+1003,REF|large_envelope|start185|LTRILTIPQSLDSWW,large_envelope,large envelope protein,185,199,LTRILTIPQSLDSWW,NC_003977.2,reference,,1
+1004,REF|large_envelope|start186|TRILTIPQSLDSWWT,large_envelope,large envelope protein,186,200,TRILTIPQSLDSWWT,NC_003977.2,reference,,1
+1005,REF|large_envelope|start187|RILTIPQSLDSWWTS,large_envelope,large envelope protein,187,201,RILTIPQSLDSWWTS,NC_003977.2,reference,,1
+1006,REF|large_envelope|start188|ILTIPQSLDSWWTSL,large_envelope,large envelope protein,188,202,ILTIPQSLDSWWTSL,NC_003977.2,reference,,1
+1007,REF|large_envelope|start189|LTIPQSLDSWWTSLN,large_envelope,large envelope protein,189,203,LTIPQSLDSWWTSLN,NC_003977.2,reference,,1
+1008,REF|large_envelope|start190|TIPQSLDSWWTSLNF,large_envelope,large envelope protein,190,204,TIPQSLDSWWTSLNF,NC_003977.2,reference,,1
+1009,REF|large_envelope|start191|IPQSLDSWWTSLNFL,large_envelope,large envelope protein,191,205,IPQSLDSWWTSLNFL,NC_003977.2,reference,,1
+1010,REF|large_envelope|start192|PQSLDSWWTSLNFLG,large_envelope,large envelope protein,192,206,PQSLDSWWTSLNFLG,NC_003977.2,reference,,1
+1011,REF|large_envelope|start193|QSLDSWWTSLNFLGG,large_envelope,large envelope protein,193,207,QSLDSWWTSLNFLGG,NC_003977.2,reference,,1
+1012,REF|large_envelope|start194|SLDSWWTSLNFLGGT,large_envelope,large envelope protein,194,208,SLDSWWTSLNFLGGT,NC_003977.2,reference,,1
+1013,REF|large_envelope|start195|LDSWWTSLNFLGGTT,large_envelope,large envelope protein,195,209,LDSWWTSLNFLGGTT,NC_003977.2,reference,,1
+1014,REF|large_envelope|start196|DSWWTSLNFLGGTTV,large_envelope,large envelope protein,196,210,DSWWTSLNFLGGTTV,NC_003977.2,reference,,1
+1015,REF|large_envelope|start197|SWWTSLNFLGGTTVC,large_envelope,large envelope protein,197,211,SWWTSLNFLGGTTVC,NC_003977.2,reference,,1
+1016,REF|large_envelope|start198|WWTSLNFLGGTTVCL,large_envelope,large envelope protein,198,212,WWTSLNFLGGTTVCL,NC_003977.2,reference,,1
+1017,REF|large_envelope|start199|WTSLNFLGGTTVCLG,large_envelope,large envelope protein,199,213,WTSLNFLGGTTVCLG,NC_003977.2,reference,,1
+1018,REF|large_envelope|start200|TSLNFLGGTTVCLGQ,large_envelope,large envelope protein,200,214,TSLNFLGGTTVCLGQ,NC_003977.2,reference,,1
+1019,REF|large_envelope|start201|SLNFLGGTTVCLGQN,large_envelope,large envelope protein,201,215,SLNFLGGTTVCLGQN,NC_003977.2,reference,,1
+1020,REF|large_envelope|start202|LNFLGGTTVCLGQNS,large_envelope,large envelope protein,202,216,LNFLGGTTVCLGQNS,NC_003977.2,reference,,1
+1021,REF|large_envelope|start203|NFLGGTTVCLGQNSQ,large_envelope,large envelope protein,203,217,NFLGGTTVCLGQNSQ,NC_003977.2,reference,,1
+1022,REF|large_envelope|start204|FLGGTTVCLGQNSQS,large_envelope,large envelope protein,204,218,FLGGTTVCLGQNSQS,NC_003977.2,reference,,1
+1023,REF|large_envelope|start205|LGGTTVCLGQNSQSP,large_envelope,large envelope protein,205,219,LGGTTVCLGQNSQSP,NC_003977.2,reference,,1
+1024,REF|large_envelope|start206|GGTTVCLGQNSQSPT,large_envelope,large envelope protein,206,220,GGTTVCLGQNSQSPT,NC_003977.2,reference,,1
+1025,REF|large_envelope|start207|GTTVCLGQNSQSPTS,large_envelope,large envelope protein,207,221,GTTVCLGQNSQSPTS,NC_003977.2,reference,,1
+1026,REF|large_envelope|start208|TTVCLGQNSQSPTSN,large_envelope,large envelope protein,208,222,TTVCLGQNSQSPTSN,NC_003977.2,reference,,1
+1027,REF|large_envelope|start209|TVCLGQNSQSPTSNH,large_envelope,large envelope protein,209,223,TVCLGQNSQSPTSNH,NC_003977.2,reference,,1
+1028,REF|large_envelope|start210|VCLGQNSQSPTSNHS,large_envelope,large envelope protein,210,224,VCLGQNSQSPTSNHS,NC_003977.2,reference,,1
+1029,REF|large_envelope|start211|CLGQNSQSPTSNHSP,large_envelope,large envelope protein,211,225,CLGQNSQSPTSNHSP,NC_003977.2,reference,,1
+1030,REF|large_envelope|start212|LGQNSQSPTSNHSPT,large_envelope,large envelope protein,212,226,LGQNSQSPTSNHSPT,NC_003977.2,reference,,1
+1031,REF|large_envelope|start213|GQNSQSPTSNHSPTS,large_envelope,large envelope protein,213,227,GQNSQSPTSNHSPTS,NC_003977.2,reference,,1
+1032,REF|large_envelope|start214|QNSQSPTSNHSPTSC,large_envelope,large envelope protein,214,228,QNSQSPTSNHSPTSC,NC_003977.2,reference,,1
+1033,REF|large_envelope|start215|NSQSPTSNHSPTSCP,large_envelope,large envelope protein,215,229,NSQSPTSNHSPTSCP,NC_003977.2,reference,,1
+1034,REF|large_envelope|start216|SQSPTSNHSPTSCPP,large_envelope,large envelope protein,216,230,SQSPTSNHSPTSCPP,NC_003977.2,reference,,1
+1035,REF|large_envelope|start217|QSPTSNHSPTSCPPT,large_envelope,large envelope protein,217,231,QSPTSNHSPTSCPPT,NC_003977.2,reference,,1
+1036,REF|large_envelope|start218|SPTSNHSPTSCPPTC,large_envelope,large envelope protein,218,232,SPTSNHSPTSCPPTC,NC_003977.2,reference,,1
+1037,REF|large_envelope|start219|PTSNHSPTSCPPTCP,large_envelope,large envelope protein,219,233,PTSNHSPTSCPPTCP,NC_003977.2,reference,,1
+1038,REF|large_envelope|start220|TSNHSPTSCPPTCPG,large_envelope,large envelope protein,220,234,TSNHSPTSCPPTCPG,NC_003977.2,reference,,1
+1039,REF|large_envelope|start221|SNHSPTSCPPTCPGY,large_envelope,large envelope protein,221,235,SNHSPTSCPPTCPGY,NC_003977.2,reference,,1
+1040,REF|large_envelope|start222|NHSPTSCPPTCPGYR,large_envelope,large envelope protein,222,236,NHSPTSCPPTCPGYR,NC_003977.2,reference,,1
+1041,REF|large_envelope|start223|HSPTSCPPTCPGYRW,large_envelope,large envelope protein,223,237,HSPTSCPPTCPGYRW,NC_003977.2,reference,,1
+1042,REF|large_envelope|start224|SPTSCPPTCPGYRWM,large_envelope,large envelope protein,224,238,SPTSCPPTCPGYRWM,NC_003977.2,reference,,1
+1043,REF|large_envelope|start225|PTSCPPTCPGYRWMC,large_envelope,large envelope protein,225,239,PTSCPPTCPGYRWMC,NC_003977.2,reference,,1
+1044,REF|large_envelope|start226|TSCPPTCPGYRWMCL,large_envelope,large envelope protein,226,240,TSCPPTCPGYRWMCL,NC_003977.2,reference,,1
+1045,REF|large_envelope|start227|SCPPTCPGYRWMCLR,large_envelope,large envelope protein,227,241,SCPPTCPGYRWMCLR,NC_003977.2,reference,,1
+1046,REF|large_envelope|start228|CPPTCPGYRWMCLRR,large_envelope,large envelope protein,228,242,CPPTCPGYRWMCLRR,NC_003977.2,reference,,1
+1047,REF|large_envelope|start229|PPTCPGYRWMCLRRF,large_envelope,large envelope protein,229,243,PPTCPGYRWMCLRRF,NC_003977.2,reference,,1
+1048,REF|large_envelope|start230|PTCPGYRWMCLRRFI,large_envelope,large envelope protein,230,244,PTCPGYRWMCLRRFI,NC_003977.2,reference,,1
+1049,REF|large_envelope|start231|TCPGYRWMCLRRFII,large_envelope,large envelope protein,231,245,TCPGYRWMCLRRFII,NC_003977.2,reference,,1
+1050,REF|large_envelope|start232|CPGYRWMCLRRFIIF,large_envelope,large envelope protein,232,246,CPGYRWMCLRRFIIF,NC_003977.2,reference,,1
+1051,REF|large_envelope|start233|PGYRWMCLRRFIIFL,large_envelope,large envelope protein,233,247,PGYRWMCLRRFIIFL,NC_003977.2,reference,,1
+1052,REF|large_envelope|start234|GYRWMCLRRFIIFLF,large_envelope,large envelope protein,234,248,GYRWMCLRRFIIFLF,NC_003977.2,reference,,1
+1053,REF|large_envelope|start235|YRWMCLRRFIIFLFI,large_envelope,large envelope protein,235,249,YRWMCLRRFIIFLFI,NC_003977.2,reference,,1
+1054,REF|large_envelope|start236|RWMCLRRFIIFLFIL,large_envelope,large envelope protein,236,250,RWMCLRRFIIFLFIL,NC_003977.2,reference,,1
+1055,REF|large_envelope|start237|WMCLRRFIIFLFILL,large_envelope,large envelope protein,237,251,WMCLRRFIIFLFILL,NC_003977.2,reference,,1
+1056,REF|large_envelope|start238|MCLRRFIIFLFILLL,large_envelope,large envelope protein,238,252,MCLRRFIIFLFILLL,NC_003977.2,reference,,1
+1057,REF|large_envelope|start239|CLRRFIIFLFILLLC,large_envelope,large envelope protein,239,253,CLRRFIIFLFILLLC,NC_003977.2,reference,,1
+1058,REF|large_envelope|start240|LRRFIIFLFILLLCL,large_envelope,large envelope protein,240,254,LRRFIIFLFILLLCL,NC_003977.2,reference,,1
+1059,REF|large_envelope|start241|RRFIIFLFILLLCLI,large_envelope,large envelope protein,241,255,RRFIIFLFILLLCLI,NC_003977.2,reference,,1
+1060,REF|large_envelope|start242|RFIIFLFILLLCLIF,large_envelope,large envelope protein,242,256,RFIIFLFILLLCLIF,NC_003977.2,reference,,1
+1061,REF|large_envelope|start243|FIIFLFILLLCLIFL,large_envelope,large envelope protein,243,257,FIIFLFILLLCLIFL,NC_003977.2,reference,,1
+1062,REF|large_envelope|start244|IIFLFILLLCLIFLL,large_envelope,large envelope protein,244,258,IIFLFILLLCLIFLL,NC_003977.2,reference,,1
+1063,REF|large_envelope|start245|IFLFILLLCLIFLLV,large_envelope,large envelope protein,245,259,IFLFILLLCLIFLLV,NC_003977.2,reference,,1
+1064,REF|large_envelope|start246|FLFILLLCLIFLLVL,large_envelope,large envelope protein,246,260,FLFILLLCLIFLLVL,NC_003977.2,reference,,1
+1065,REF|large_envelope|start247|LFILLLCLIFLLVLL,large_envelope,large envelope protein,247,261,LFILLLCLIFLLVLL,NC_003977.2,reference,,1
+1066,REF|large_envelope|start248|FILLLCLIFLLVLLD,large_envelope,large envelope protein,248,262,FILLLCLIFLLVLLD,NC_003977.2,reference,,1
+1067,REF|large_envelope|start249|ILLLCLIFLLVLLDY,large_envelope,large envelope protein,249,263,ILLLCLIFLLVLLDY,NC_003977.2,reference,,1
+1068,REF|large_envelope|start250|LLLCLIFLLVLLDYQ,large_envelope,large envelope protein,250,264,LLLCLIFLLVLLDYQ,NC_003977.2,reference,,1
+1069,REF|large_envelope|start251|LLCLIFLLVLLDYQG,large_envelope,large envelope protein,251,265,LLCLIFLLVLLDYQG,NC_003977.2,reference,,1
+1070,REF|large_envelope|start252|LCLIFLLVLLDYQGM,large_envelope,large envelope protein,252,266,LCLIFLLVLLDYQGM,NC_003977.2,reference,,1
+1071,REF|large_envelope|start253|CLIFLLVLLDYQGML,large_envelope,large envelope protein,253,267,CLIFLLVLLDYQGML,NC_003977.2,reference,,1
+1072,REF|large_envelope|start254|LIFLLVLLDYQGMLP,large_envelope,large envelope protein,254,268,LIFLLVLLDYQGMLP,NC_003977.2,reference,,1
+1073,REF|large_envelope|start255|IFLLVLLDYQGMLPV,large_envelope,large envelope protein,255,269,IFLLVLLDYQGMLPV,NC_003977.2,reference,,1
+1074,REF|large_envelope|start256|FLLVLLDYQGMLPVC,large_envelope,large envelope protein,256,270,FLLVLLDYQGMLPVC,NC_003977.2,reference,,1
+1075,REF|large_envelope|start257|LLVLLDYQGMLPVCP,large_envelope,large envelope protein,257,271,LLVLLDYQGMLPVCP,NC_003977.2,reference,,1
+1076,REF|large_envelope|start258|LVLLDYQGMLPVCPL,large_envelope,large envelope protein,258,272,LVLLDYQGMLPVCPL,NC_003977.2,reference,,1
+1077,REF|large_envelope|start259|VLLDYQGMLPVCPLI,large_envelope,large envelope protein,259,273,VLLDYQGMLPVCPLI,NC_003977.2,reference,,1
+1078,REF|large_envelope|start260|LLDYQGMLPVCPLIP,large_envelope,large envelope protein,260,274,LLDYQGMLPVCPLIP,NC_003977.2,reference,,1
+1079,REF|large_envelope|start261|LDYQGMLPVCPLIPG,large_envelope,large envelope protein,261,275,LDYQGMLPVCPLIPG,NC_003977.2,reference,,1
+1080,REF|large_envelope|start262|DYQGMLPVCPLIPGS,large_envelope,large envelope protein,262,276,DYQGMLPVCPLIPGS,NC_003977.2,reference,,1
+1081,REF|large_envelope|start263|YQGMLPVCPLIPGSS,large_envelope,large envelope protein,263,277,YQGMLPVCPLIPGSS,NC_003977.2,reference,,1
+1082,REF|large_envelope|start264|QGMLPVCPLIPGSST,large_envelope,large envelope protein,264,278,QGMLPVCPLIPGSST,NC_003977.2,reference,,1
+1083,REF|large_envelope|start265|GMLPVCPLIPGSSTT,large_envelope,large envelope protein,265,279,GMLPVCPLIPGSSTT,NC_003977.2,reference,,1
+1084,REF|large_envelope|start266|MLPVCPLIPGSSTTS,large_envelope,large envelope protein,266,280,MLPVCPLIPGSSTTS,NC_003977.2,reference,,1
+1085,REF|large_envelope|start267|LPVCPLIPGSSTTST,large_envelope,large envelope protein,267,281,LPVCPLIPGSSTTST,NC_003977.2,reference,,1
+1086,REF|large_envelope|start268|PVCPLIPGSSTTSTG,large_envelope,large envelope protein,268,282,PVCPLIPGSSTTSTG,NC_003977.2,reference,,1
+1087,REF|large_envelope|start269|VCPLIPGSSTTSTGP,large_envelope,large envelope protein,269,283,VCPLIPGSSTTSTGP,NC_003977.2,reference,,1
+1088,REF|large_envelope|start270|CPLIPGSSTTSTGPC,large_envelope,large envelope protein,270,284,CPLIPGSSTTSTGPC,NC_003977.2,reference,,1
+1089,REF|large_envelope|start271|PLIPGSSTTSTGPCR,large_envelope,large envelope protein,271,285,PLIPGSSTTSTGPCR,NC_003977.2,reference,,1
+1090,REF|large_envelope|start272|LIPGSSTTSTGPCRT,large_envelope,large envelope protein,272,286,LIPGSSTTSTGPCRT,NC_003977.2,reference,,1
+1091,REF|large_envelope|start273|IPGSSTTSTGPCRTC,large_envelope,large envelope protein,273,287,IPGSSTTSTGPCRTC,NC_003977.2,reference,,1
+1092,REF|large_envelope|start274|PGSSTTSTGPCRTCM,large_envelope,large envelope protein,274,288,PGSSTTSTGPCRTCM,NC_003977.2,reference,,1
+1093,REF|large_envelope|start275|GSSTTSTGPCRTCMT,large_envelope,large envelope protein,275,289,GSSTTSTGPCRTCMT,NC_003977.2,reference,,1
+1094,REF|large_envelope|start276|SSTTSTGPCRTCMTT,large_envelope,large envelope protein,276,290,SSTTSTGPCRTCMTT,NC_003977.2,reference,,1
+1095,REF|large_envelope|start277|STTSTGPCRTCMTTA,large_envelope,large envelope protein,277,291,STTSTGPCRTCMTTA,NC_003977.2,reference,,1
+1096,REF|large_envelope|start278|TTSTGPCRTCMTTAQ,large_envelope,large envelope protein,278,292,TTSTGPCRTCMTTAQ,NC_003977.2,reference,,1
+1097,REF|large_envelope|start279|TSTGPCRTCMTTAQG,large_envelope,large envelope protein,279,293,TSTGPCRTCMTTAQG,NC_003977.2,reference,,1
+1098,REF|large_envelope|start280|STGPCRTCMTTAQGT,large_envelope,large envelope protein,280,294,STGPCRTCMTTAQGT,NC_003977.2,reference,,1
+1099,REF|large_envelope|start281|TGPCRTCMTTAQGTS,large_envelope,large envelope protein,281,295,TGPCRTCMTTAQGTS,NC_003977.2,reference,,1
+1100,REF|large_envelope|start282|GPCRTCMTTAQGTSM,large_envelope,large envelope protein,282,296,GPCRTCMTTAQGTSM,NC_003977.2,reference,,1
+1101,REF|large_envelope|start283|PCRTCMTTAQGTSMY,large_envelope,large envelope protein,283,297,PCRTCMTTAQGTSMY,NC_003977.2,reference,,1
+1102,REF|large_envelope|start284|CRTCMTTAQGTSMYP,large_envelope,large envelope protein,284,298,CRTCMTTAQGTSMYP,NC_003977.2,reference,,1
+1103,REF|large_envelope|start285|RTCMTTAQGTSMYPS,large_envelope,large envelope protein,285,299,RTCMTTAQGTSMYPS,NC_003977.2,reference,,1
+1104,REF|large_envelope|start286|TCMTTAQGTSMYPSC,large_envelope,large envelope protein,286,300,TCMTTAQGTSMYPSC,NC_003977.2,reference,,1
+1105,REF|large_envelope|start287|CMTTAQGTSMYPSCC,large_envelope,large envelope protein,287,301,CMTTAQGTSMYPSCC,NC_003977.2,reference,,1
+1106,REF|large_envelope|start288|MTTAQGTSMYPSCCC,large_envelope,large envelope protein,288,302,MTTAQGTSMYPSCCC,NC_003977.2,reference,,1
+1107,REF|large_envelope|start289|TTAQGTSMYPSCCCT,large_envelope,large envelope protein,289,303,TTAQGTSMYPSCCCT,NC_003977.2,reference,,1
+1108,REF|large_envelope|start290|TAQGTSMYPSCCCTK,large_envelope,large envelope protein,290,304,TAQGTSMYPSCCCTK,NC_003977.2,reference,,1
+1109,REF|large_envelope|start291|AQGTSMYPSCCCTKP,large_envelope,large envelope protein,291,305,AQGTSMYPSCCCTKP,NC_003977.2,reference,,1
+1110,REF|large_envelope|start292|QGTSMYPSCCCTKPS,large_envelope,large envelope protein,292,306,QGTSMYPSCCCTKPS,NC_003977.2,reference,,1
+1111,REF|large_envelope|start293|GTSMYPSCCCTKPSD,large_envelope,large envelope protein,293,307,GTSMYPSCCCTKPSD,NC_003977.2,reference,,1
+1112,REF|large_envelope|start294|TSMYPSCCCTKPSDG,large_envelope,large envelope protein,294,308,TSMYPSCCCTKPSDG,NC_003977.2,reference,,1
+1113,REF|large_envelope|start295|SMYPSCCCTKPSDGN,large_envelope,large envelope protein,295,309,SMYPSCCCTKPSDGN,NC_003977.2,reference,,1
+1114,REF|large_envelope|start296|MYPSCCCTKPSDGNC,large_envelope,large envelope protein,296,310,MYPSCCCTKPSDGNC,NC_003977.2,reference,,1
+1115,REF|large_envelope|start297|YPSCCCTKPSDGNCT,large_envelope,large envelope protein,297,311,YPSCCCTKPSDGNCT,NC_003977.2,reference,,1
+1116,REF|large_envelope|start298|PSCCCTKPSDGNCTC,large_envelope,large envelope protein,298,312,PSCCCTKPSDGNCTC,NC_003977.2,reference,,1
+1117,REF|large_envelope|start299|SCCCTKPSDGNCTCI,large_envelope,large envelope protein,299,313,SCCCTKPSDGNCTCI,NC_003977.2,reference,,1
+1118,REF|large_envelope|start300|CCCTKPSDGNCTCIP,large_envelope,large envelope protein,300,314,CCCTKPSDGNCTCIP,NC_003977.2,reference,,1
+1119,REF|large_envelope|start301|CCTKPSDGNCTCIPI,large_envelope,large envelope protein,301,315,CCTKPSDGNCTCIPI,NC_003977.2,reference,,1
+1120,REF|large_envelope|start302|CTKPSDGNCTCIPIP,large_envelope,large envelope protein,302,316,CTKPSDGNCTCIPIP,NC_003977.2,reference,,1
+1121,REF|large_envelope|start303|TKPSDGNCTCIPIPS,large_envelope,large envelope protein,303,317,TKPSDGNCTCIPIPS,NC_003977.2,reference,,1
+1122,REF|large_envelope|start304|KPSDGNCTCIPIPSS,large_envelope,large envelope protein,304,318,KPSDGNCTCIPIPSS,NC_003977.2,reference,,1
+1123,REF|large_envelope|start305|PSDGNCTCIPIPSSW,large_envelope,large envelope protein,305,319,PSDGNCTCIPIPSSW,NC_003977.2,reference,,1
+1124,REF|large_envelope|start306|SDGNCTCIPIPSSWA,large_envelope,large envelope protein,306,320,SDGNCTCIPIPSSWA,NC_003977.2,reference,,1
+1125,REF|large_envelope|start307|DGNCTCIPIPSSWAF,large_envelope,large envelope protein,307,321,DGNCTCIPIPSSWAF,NC_003977.2,reference,,1
+1126,REF|large_envelope|start308|GNCTCIPIPSSWAFG,large_envelope,large envelope protein,308,322,GNCTCIPIPSSWAFG,NC_003977.2,reference,,1
+1127,REF|large_envelope|start309|NCTCIPIPSSWAFGK,large_envelope,large envelope protein,309,323,NCTCIPIPSSWAFGK,NC_003977.2,reference,,1
+1128,REF|large_envelope|start310|CTCIPIPSSWAFGKF,large_envelope,large envelope protein,310,324,CTCIPIPSSWAFGKF,NC_003977.2,reference,,1
+1129,REF|large_envelope|start311|TCIPIPSSWAFGKFL,large_envelope,large envelope protein,311,325,TCIPIPSSWAFGKFL,NC_003977.2,reference,,1
+1130,REF|large_envelope|start312|CIPIPSSWAFGKFLW,large_envelope,large envelope protein,312,326,CIPIPSSWAFGKFLW,NC_003977.2,reference,,1
+1131,REF|large_envelope|start313|IPIPSSWAFGKFLWE,large_envelope,large envelope protein,313,327,IPIPSSWAFGKFLWE,NC_003977.2,reference,,1
+1132,REF|large_envelope|start314|PIPSSWAFGKFLWEW,large_envelope,large envelope protein,314,328,PIPSSWAFGKFLWEW,NC_003977.2,reference,,1
+1133,REF|large_envelope|start315|IPSSWAFGKFLWEWA,large_envelope,large envelope protein,315,329,IPSSWAFGKFLWEWA,NC_003977.2,reference,,1
+1134,REF|large_envelope|start316|PSSWAFGKFLWEWAS,large_envelope,large envelope protein,316,330,PSSWAFGKFLWEWAS,NC_003977.2,reference,,1
+1135,REF|large_envelope|start317|SSWAFGKFLWEWASA,large_envelope,large envelope protein,317,331,SSWAFGKFLWEWASA,NC_003977.2,reference,,1
+1136,REF|large_envelope|start318|SWAFGKFLWEWASAR,large_envelope,large envelope protein,318,332,SWAFGKFLWEWASAR,NC_003977.2,reference,,1
+1137,REF|large_envelope|start319|WAFGKFLWEWASARF,large_envelope,large envelope protein,319,333,WAFGKFLWEWASARF,NC_003977.2,reference,,1
+1138,REF|large_envelope|start320|AFGKFLWEWASARFS,large_envelope,large envelope protein,320,334,AFGKFLWEWASARFS,NC_003977.2,reference,,1
+1139,REF|large_envelope|start321|FGKFLWEWASARFSW,large_envelope,large envelope protein,321,335,FGKFLWEWASARFSW,NC_003977.2,reference,,1
+1140,REF|large_envelope|start322|GKFLWEWASARFSWL,large_envelope,large envelope protein,322,336,GKFLWEWASARFSWL,NC_003977.2,reference,,1
+1141,REF|large_envelope|start323|KFLWEWASARFSWLS,large_envelope,large envelope protein,323,337,KFLWEWASARFSWLS,NC_003977.2,reference,,1
+1142,REF|large_envelope|start324|FLWEWASARFSWLSL,large_envelope,large envelope protein,324,338,FLWEWASARFSWLSL,NC_003977.2,reference,,1
+1143,REF|large_envelope|start325|LWEWASARFSWLSLL,large_envelope,large envelope protein,325,339,LWEWASARFSWLSLL,NC_003977.2,reference,,1
+1144,REF|large_envelope|start326|WEWASARFSWLSLLV,large_envelope,large envelope protein,326,340,WEWASARFSWLSLLV,NC_003977.2,reference,,1
+1145,REF|large_envelope|start327|EWASARFSWLSLLVP,large_envelope,large envelope protein,327,341,EWASARFSWLSLLVP,NC_003977.2,reference,,1
+1146,REF|large_envelope|start328|WASARFSWLSLLVPF,large_envelope,large envelope protein,328,342,WASARFSWLSLLVPF,NC_003977.2,reference,,1
+1147,REF|large_envelope|start329|ASARFSWLSLLVPFV,large_envelope,large envelope protein,329,343,ASARFSWLSLLVPFV,NC_003977.2,reference,,1
+1148,REF|large_envelope|start330|SARFSWLSLLVPFVQ,large_envelope,large envelope protein,330,344,SARFSWLSLLVPFVQ,NC_003977.2,reference,,1
+1149,REF|large_envelope|start331|ARFSWLSLLVPFVQW,large_envelope,large envelope protein,331,345,ARFSWLSLLVPFVQW,NC_003977.2,reference,,1
+1150,REF|large_envelope|start332|RFSWLSLLVPFVQWF,large_envelope,large envelope protein,332,346,RFSWLSLLVPFVQWF,NC_003977.2,reference,,1
+1151,REF|large_envelope|start333|FSWLSLLVPFVQWFV,large_envelope,large envelope protein,333,347,FSWLSLLVPFVQWFV,NC_003977.2,reference,,1
+1152,REF|large_envelope|start334|SWLSLLVPFVQWFVG,large_envelope,large envelope protein,334,348,SWLSLLVPFVQWFVG,NC_003977.2,reference,,1
+1153,REF|large_envelope|start335|WLSLLVPFVQWFVGL,large_envelope,large envelope protein,335,349,WLSLLVPFVQWFVGL,NC_003977.2,reference,,1
+1154,REF|large_envelope|start336|LSLLVPFVQWFVGLS,large_envelope,large envelope protein,336,350,LSLLVPFVQWFVGLS,NC_003977.2,reference,,1
+1155,REF|large_envelope|start337|SLLVPFVQWFVGLSP,large_envelope,large envelope protein,337,351,SLLVPFVQWFVGLSP,NC_003977.2,reference,,1
+1156,REF|large_envelope|start338|LLVPFVQWFVGLSPT,large_envelope,large envelope protein,338,352,LLVPFVQWFVGLSPT,NC_003977.2,reference,,1
+1157,REF|large_envelope|start339|LVPFVQWFVGLSPTV,large_envelope,large envelope protein,339,353,LVPFVQWFVGLSPTV,NC_003977.2,reference,,1
+1158,REF|large_envelope|start340|VPFVQWFVGLSPTVW,large_envelope,large envelope protein,340,354,VPFVQWFVGLSPTVW,NC_003977.2,reference,,1
+1159,REF|large_envelope|start341|PFVQWFVGLSPTVWL,large_envelope,large envelope protein,341,355,PFVQWFVGLSPTVWL,NC_003977.2,reference,,1
+1160,REF|large_envelope|start342|FVQWFVGLSPTVWLS,large_envelope,large envelope protein,342,356,FVQWFVGLSPTVWLS,NC_003977.2,reference,,1
+1161,REF|large_envelope|start343|VQWFVGLSPTVWLSV,large_envelope,large envelope protein,343,357,VQWFVGLSPTVWLSV,NC_003977.2,reference,,1
+1162,REF|large_envelope|start344|QWFVGLSPTVWLSVI,large_envelope,large envelope protein,344,358,QWFVGLSPTVWLSVI,NC_003977.2,reference,,1
+1163,REF|large_envelope|start345|WFVGLSPTVWLSVIW,large_envelope,large envelope protein,345,359,WFVGLSPTVWLSVIW,NC_003977.2,reference,,1
+1164,REF|large_envelope|start346|FVGLSPTVWLSVIWM,large_envelope,large envelope protein,346,360,FVGLSPTVWLSVIWM,NC_003977.2,reference,,1
+1165,REF|large_envelope|start347|VGLSPTVWLSVIWMM,large_envelope,large envelope protein,347,361,VGLSPTVWLSVIWMM,NC_003977.2,reference,,1
+1166,REF|large_envelope|start348|GLSPTVWLSVIWMMW,large_envelope,large envelope protein,348,362,GLSPTVWLSVIWMMW,NC_003977.2,reference,,1
+1167,REF|large_envelope|start349|LSPTVWLSVIWMMWY,large_envelope,large envelope protein,349,363,LSPTVWLSVIWMMWY,NC_003977.2,reference,,1
+1168,REF|large_envelope|start350|SPTVWLSVIWMMWYW,large_envelope,large envelope protein,350,364,SPTVWLSVIWMMWYW,NC_003977.2,reference,,1
+1169,REF|large_envelope|start351|PTVWLSVIWMMWYWG,large_envelope,large envelope protein,351,365,PTVWLSVIWMMWYWG,NC_003977.2,reference,,1
+1170,REF|large_envelope|start352|TVWLSVIWMMWYWGP,large_envelope,large envelope protein,352,366,TVWLSVIWMMWYWGP,NC_003977.2,reference,,1
+1171,REF|large_envelope|start353|VWLSVIWMMWYWGPS,large_envelope,large envelope protein,353,367,VWLSVIWMMWYWGPS,NC_003977.2,reference,,1
+1172,REF|large_envelope|start354|WLSVIWMMWYWGPSL,large_envelope,large envelope protein,354,368,WLSVIWMMWYWGPSL,NC_003977.2,reference,,1
+1173,REF|large_envelope|start355|LSVIWMMWYWGPSLY,large_envelope,large envelope protein,355,369,LSVIWMMWYWGPSLY,NC_003977.2,reference,,1
+1174,REF|large_envelope|start356|SVIWMMWYWGPSLYS,large_envelope,large envelope protein,356,370,SVIWMMWYWGPSLYS,NC_003977.2,reference,,1
+1175,REF|large_envelope|start357|VIWMMWYWGPSLYSI,large_envelope,large envelope protein,357,371,VIWMMWYWGPSLYSI,NC_003977.2,reference,,1
+1176,REF|large_envelope|start358|IWMMWYWGPSLYSIL,large_envelope,large envelope protein,358,372,IWMMWYWGPSLYSIL,NC_003977.2,reference,,1
+1177,REF|large_envelope|start359|WMMWYWGPSLYSILS,large_envelope,large envelope protein,359,373,WMMWYWGPSLYSILS,NC_003977.2,reference,,1
+1178,REF|large_envelope|start360|MMWYWGPSLYSILSP,large_envelope,large envelope protein,360,374,MMWYWGPSLYSILSP,NC_003977.2,reference,,1
+1179,REF|large_envelope|start361|MWYWGPSLYSILSPF,large_envelope,large envelope protein,361,375,MWYWGPSLYSILSPF,NC_003977.2,reference,,1
+1180,REF|large_envelope|start362|WYWGPSLYSILSPFL,large_envelope,large envelope protein,362,376,WYWGPSLYSILSPFL,NC_003977.2,reference,,1
+1181,REF|large_envelope|start363|YWGPSLYSILSPFLP,large_envelope,large envelope protein,363,377,YWGPSLYSILSPFLP,NC_003977.2,reference,,1
+1182,REF|large_envelope|start364|WGPSLYSILSPFLPL,large_envelope,large envelope protein,364,378,WGPSLYSILSPFLPL,NC_003977.2,reference,,1
+1183,REF|large_envelope|start365|GPSLYSILSPFLPLL,large_envelope,large envelope protein,365,379,GPSLYSILSPFLPLL,NC_003977.2,reference,,1
+1184,REF|large_envelope|start366|PSLYSILSPFLPLLP,large_envelope,large envelope protein,366,380,PSLYSILSPFLPLLP,NC_003977.2,reference,,1
+1185,REF|large_envelope|start367|SLYSILSPFLPLLPI,large_envelope,large envelope protein,367,381,SLYSILSPFLPLLPI,NC_003977.2,reference,,1
+1186,REF|large_envelope|start368|LYSILSPFLPLLPIF,large_envelope,large envelope protein,368,382,LYSILSPFLPLLPIF,NC_003977.2,reference,,1
+1187,REF|large_envelope|start369|YSILSPFLPLLPIFF,large_envelope,large envelope protein,369,383,YSILSPFLPLLPIFF,NC_003977.2,reference,,1
+1188,REF|large_envelope|start370|SILSPFLPLLPIFFC,large_envelope,large envelope protein,370,384,SILSPFLPLLPIFFC,NC_003977.2,reference,,1
+1189,REF|large_envelope|start371|ILSPFLPLLPIFFCL,large_envelope,large envelope protein,371,385,ILSPFLPLLPIFFCL,NC_003977.2,reference,,1
+1190,REF|large_envelope|start372|LSPFLPLLPIFFCLW,large_envelope,large envelope protein,372,386,LSPFLPLLPIFFCLW,NC_003977.2,reference,,1
+1191,REF|large_envelope|start373|SPFLPLLPIFFCLWV,large_envelope,large envelope protein,373,387,SPFLPLLPIFFCLWV,NC_003977.2,reference,,1
+1192,REF|large_envelope|start374|PFLPLLPIFFCLWVY,large_envelope,large envelope protein,374,388,PFLPLLPIFFCLWVY,NC_003977.2,reference,,1
+1193,REF|large_envelope|start375|FLPLLPIFFCLWVYI,large_envelope,large envelope protein,375,389,FLPLLPIFFCLWVYI,NC_003977.2,reference,,1
+1194,REF|x_protein|start1|MAARLCCQLDPARDV,x_protein,X protein,1,15,MAARLCCQLDPARDV,NC_003977.2,reference,,1
+1195,REF|x_protein|start2|AARLCCQLDPARDVL,x_protein,X protein,2,16,AARLCCQLDPARDVL,NC_003977.2,reference,,1
+1196,REF|x_protein|start3|ARLCCQLDPARDVLC,x_protein,X protein,3,17,ARLCCQLDPARDVLC,NC_003977.2,reference,,1
+1197,REF|x_protein|start4|RLCCQLDPARDVLCL,x_protein,X protein,4,18,RLCCQLDPARDVLCL,NC_003977.2,reference,,1
+1198,REF|x_protein|start5|LCCQLDPARDVLCLR,x_protein,X protein,5,19,LCCQLDPARDVLCLR,NC_003977.2,reference,,1
+1199,REF|x_protein|start6|CCQLDPARDVLCLRP,x_protein,X protein,6,20,CCQLDPARDVLCLRP,NC_003977.2,reference,,1
+1200,REF|x_protein|start7|CQLDPARDVLCLRPV,x_protein,X protein,7,21,CQLDPARDVLCLRPV,NC_003977.2,reference,,1
+1201,REF|x_protein|start8|QLDPARDVLCLRPVG,x_protein,X protein,8,22,QLDPARDVLCLRPVG,NC_003977.2,reference,,1
+1202,REF|x_protein|start9|LDPARDVLCLRPVGA,x_protein,X protein,9,23,LDPARDVLCLRPVGA,NC_003977.2,reference,,1
+1203,REF|x_protein|start10|DPARDVLCLRPVGAE,x_protein,X protein,10,24,DPARDVLCLRPVGAE,NC_003977.2,reference,,1
+1204,REF|x_protein|start11|PARDVLCLRPVGAES,x_protein,X protein,11,25,PARDVLCLRPVGAES,NC_003977.2,reference,,1
+1205,REF|x_protein|start12|ARDVLCLRPVGAESC,x_protein,X protein,12,26,ARDVLCLRPVGAESC,NC_003977.2,reference,,1
+1206,REF|x_protein|start13|RDVLCLRPVGAESCG,x_protein,X protein,13,27,RDVLCLRPVGAESCG,NC_003977.2,reference,,1
+1207,REF|x_protein|start14|DVLCLRPVGAESCGR,x_protein,X protein,14,28,DVLCLRPVGAESCGR,NC_003977.2,reference,,1
+1208,REF|x_protein|start15|VLCLRPVGAESCGRP,x_protein,X protein,15,29,VLCLRPVGAESCGRP,NC_003977.2,reference,,1
+1209,REF|x_protein|start16|LCLRPVGAESCGRPF,x_protein,X protein,16,30,LCLRPVGAESCGRPF,NC_003977.2,reference,,1
+1210,REF|x_protein|start17|CLRPVGAESCGRPFS,x_protein,X protein,17,31,CLRPVGAESCGRPFS,NC_003977.2,reference,,1
+1211,REF|x_protein|start18|LRPVGAESCGRPFSG,x_protein,X protein,18,32,LRPVGAESCGRPFSG,NC_003977.2,reference,,1
+1212,REF|x_protein|start19|RPVGAESCGRPFSGS,x_protein,X protein,19,33,RPVGAESCGRPFSGS,NC_003977.2,reference,,1
+1213,REF|x_protein|start20|PVGAESCGRPFSGSL,x_protein,X protein,20,34,PVGAESCGRPFSGSL,NC_003977.2,reference,,1
+1214,REF|x_protein|start21|VGAESCGRPFSGSLG,x_protein,X protein,21,35,VGAESCGRPFSGSLG,NC_003977.2,reference,,1
+1215,REF|x_protein|start22|GAESCGRPFSGSLGT,x_protein,X protein,22,36,GAESCGRPFSGSLGT,NC_003977.2,reference,,1
+1216,REF|x_protein|start23|AESCGRPFSGSLGTL,x_protein,X protein,23,37,AESCGRPFSGSLGTL,NC_003977.2,reference,,1
+1217,REF|x_protein|start24|ESCGRPFSGSLGTLS,x_protein,X protein,24,38,ESCGRPFSGSLGTLS,NC_003977.2,reference,,1
+1218,REF|x_protein|start25|SCGRPFSGSLGTLSS,x_protein,X protein,25,39,SCGRPFSGSLGTLSS,NC_003977.2,reference,,1
+1219,REF|x_protein|start26|CGRPFSGSLGTLSSP,x_protein,X protein,26,40,CGRPFSGSLGTLSSP,NC_003977.2,reference,,1
+1220,REF|x_protein|start27|GRPFSGSLGTLSSPS,x_protein,X protein,27,41,GRPFSGSLGTLSSPS,NC_003977.2,reference,,1
+1221,REF|x_protein|start28|RPFSGSLGTLSSPSP,x_protein,X protein,28,42,RPFSGSLGTLSSPSP,NC_003977.2,reference,,1
+1222,REF|x_protein|start29|PFSGSLGTLSSPSPS,x_protein,X protein,29,43,PFSGSLGTLSSPSPS,NC_003977.2,reference,,1
+1223,REF|x_protein|start30|FSGSLGTLSSPSPSA,x_protein,X protein,30,44,FSGSLGTLSSPSPSA,NC_003977.2,reference,,1
+1224,REF|x_protein|start31|SGSLGTLSSPSPSAV,x_protein,X protein,31,45,SGSLGTLSSPSPSAV,NC_003977.2,reference,,1
+1225,REF|x_protein|start32|GSLGTLSSPSPSAVP,x_protein,X protein,32,46,GSLGTLSSPSPSAVP,NC_003977.2,reference,,1
+1226,REF|x_protein|start33|SLGTLSSPSPSAVPT,x_protein,X protein,33,47,SLGTLSSPSPSAVPT,NC_003977.2,reference,,1
+1227,REF|x_protein|start34|LGTLSSPSPSAVPTD,x_protein,X protein,34,48,LGTLSSPSPSAVPTD,NC_003977.2,reference,,1
+1228,REF|x_protein|start35|GTLSSPSPSAVPTDH,x_protein,X protein,35,49,GTLSSPSPSAVPTDH,NC_003977.2,reference,,1
+1229,REF|x_protein|start36|TLSSPSPSAVPTDHG,x_protein,X protein,36,50,TLSSPSPSAVPTDHG,NC_003977.2,reference,,1
+1230,REF|x_protein|start37|LSSPSPSAVPTDHGA,x_protein,X protein,37,51,LSSPSPSAVPTDHGA,NC_003977.2,reference,,1
+1231,REF|x_protein|start38|SSPSPSAVPTDHGAH,x_protein,X protein,38,52,SSPSPSAVPTDHGAH,NC_003977.2,reference,,1
+1232,REF|x_protein|start39|SPSPSAVPTDHGAHL,x_protein,X protein,39,53,SPSPSAVPTDHGAHL,NC_003977.2,reference,,1
+1233,REF|x_protein|start40|PSPSAVPTDHGAHLS,x_protein,X protein,40,54,PSPSAVPTDHGAHLS,NC_003977.2,reference,,1
+1234,REF|x_protein|start41|SPSAVPTDHGAHLSL,x_protein,X protein,41,55,SPSAVPTDHGAHLSL,NC_003977.2,reference,,1
+1235,REF|x_protein|start42|PSAVPTDHGAHLSLR,x_protein,X protein,42,56,PSAVPTDHGAHLSLR,NC_003977.2,reference,,1
+1236,REF|x_protein|start43|SAVPTDHGAHLSLRG,x_protein,X protein,43,57,SAVPTDHGAHLSLRG,NC_003977.2,reference,,1
+1237,REF|x_protein|start44|AVPTDHGAHLSLRGL,x_protein,X protein,44,58,AVPTDHGAHLSLRGL,NC_003977.2,reference,,1
+1238,REF|x_protein|start45|VPTDHGAHLSLRGLP,x_protein,X protein,45,59,VPTDHGAHLSLRGLP,NC_003977.2,reference,,1
+1239,REF|x_protein|start46|PTDHGAHLSLRGLPV,x_protein,X protein,46,60,PTDHGAHLSLRGLPV,NC_003977.2,reference,,1
+1240,REF|x_protein|start47|TDHGAHLSLRGLPVC,x_protein,X protein,47,61,TDHGAHLSLRGLPVC,NC_003977.2,reference,,1
+1241,REF|x_protein|start48|DHGAHLSLRGLPVCA,x_protein,X protein,48,62,DHGAHLSLRGLPVCA,NC_003977.2,reference,,1
+1242,REF|x_protein|start49|HGAHLSLRGLPVCAF,x_protein,X protein,49,63,HGAHLSLRGLPVCAF,NC_003977.2,reference,,1
+1243,REF|x_protein|start50|GAHLSLRGLPVCAFS,x_protein,X protein,50,64,GAHLSLRGLPVCAFS,NC_003977.2,reference,,1
+1244,REF|x_protein|start51|AHLSLRGLPVCAFSS,x_protein,X protein,51,65,AHLSLRGLPVCAFSS,NC_003977.2,reference,,1
+1245,REF|x_protein|start52|HLSLRGLPVCAFSSA,x_protein,X protein,52,66,HLSLRGLPVCAFSSA,NC_003977.2,reference,,1
+1246,REF|x_protein|start53|LSLRGLPVCAFSSAG,x_protein,X protein,53,67,LSLRGLPVCAFSSAG,NC_003977.2,reference,,1
+1247,REF|x_protein|start54|SLRGLPVCAFSSAGP,x_protein,X protein,54,68,SLRGLPVCAFSSAGP,NC_003977.2,reference,,1
+1248,REF|x_protein|start55|LRGLPVCAFSSAGPC,x_protein,X protein,55,69,LRGLPVCAFSSAGPC,NC_003977.2,reference,,1
+1249,REF|x_protein|start56|RGLPVCAFSSAGPCA,x_protein,X protein,56,70,RGLPVCAFSSAGPCA,NC_003977.2,reference,,1
+1250,REF|x_protein|start57|GLPVCAFSSAGPCAL,x_protein,X protein,57,71,GLPVCAFSSAGPCAL,NC_003977.2,reference,,1
+1251,REF|x_protein|start58|LPVCAFSSAGPCALR,x_protein,X protein,58,72,LPVCAFSSAGPCALR,NC_003977.2,reference,,1
+1252,REF|x_protein|start59|PVCAFSSAGPCALRF,x_protein,X protein,59,73,PVCAFSSAGPCALRF,NC_003977.2,reference,,1
+1253,REF|x_protein|start60|VCAFSSAGPCALRFT,x_protein,X protein,60,74,VCAFSSAGPCALRFT,NC_003977.2,reference,,1
+1254,REF|x_protein|start61|CAFSSAGPCALRFTS,x_protein,X protein,61,75,CAFSSAGPCALRFTS,NC_003977.2,reference,,1
+1255,REF|x_protein|start62|AFSSAGPCALRFTSA,x_protein,X protein,62,76,AFSSAGPCALRFTSA,NC_003977.2,reference,,1
+1256,REF|x_protein|start63|FSSAGPCALRFTSAR,x_protein,X protein,63,77,FSSAGPCALRFTSAR,NC_003977.2,reference,,1
+1257,REF|x_protein|start64|SSAGPCALRFTSARR,x_protein,X protein,64,78,SSAGPCALRFTSARR,NC_003977.2,reference,,1
+1258,REF|x_protein|start65|SAGPCALRFTSARRM,x_protein,X protein,65,79,SAGPCALRFTSARRM,NC_003977.2,reference,,1
+1259,REF|x_protein|start66|AGPCALRFTSARRME,x_protein,X protein,66,80,AGPCALRFTSARRME,NC_003977.2,reference,,1
+1260,REF|x_protein|start67|GPCALRFTSARRMET,x_protein,X protein,67,81,GPCALRFTSARRMET,NC_003977.2,reference,,1
+1261,REF|x_protein|start68|PCALRFTSARRMETT,x_protein,X protein,68,82,PCALRFTSARRMETT,NC_003977.2,reference,,1
+1262,REF|x_protein|start69|CALRFTSARRMETTV,x_protein,X protein,69,83,CALRFTSARRMETTV,NC_003977.2,reference,,1
+1263,REF|x_protein|start70|ALRFTSARRMETTVN,x_protein,X protein,70,84,ALRFTSARRMETTVN,NC_003977.2,reference,,1
+1264,REF|x_protein|start71|LRFTSARRMETTVNA,x_protein,X protein,71,85,LRFTSARRMETTVNA,NC_003977.2,reference,,1
+1265,REF|x_protein|start72|RFTSARRMETTVNAH,x_protein,X protein,72,86,RFTSARRMETTVNAH,NC_003977.2,reference,,1
+1266,REF|x_protein|start73|FTSARRMETTVNAHQ,x_protein,X protein,73,87,FTSARRMETTVNAHQ,NC_003977.2,reference,,1
+1267,REF|x_protein|start74|TSARRMETTVNAHQI,x_protein,X protein,74,88,TSARRMETTVNAHQI,NC_003977.2,reference,,1
+1268,REF|x_protein|start75|SARRMETTVNAHQIL,x_protein,X protein,75,89,SARRMETTVNAHQIL,NC_003977.2,reference,,1
+1269,REF|x_protein|start76|ARRMETTVNAHQILP,x_protein,X protein,76,90,ARRMETTVNAHQILP,NC_003977.2,reference,,1
+1270,REF|x_protein|start77|RRMETTVNAHQILPK,x_protein,X protein,77,91,RRMETTVNAHQILPK,NC_003977.2,reference,,1
+1271,REF|x_protein|start78|RMETTVNAHQILPKV,x_protein,X protein,78,92,RMETTVNAHQILPKV,NC_003977.2,reference,,1
+1272,REF|x_protein|start79|METTVNAHQILPKVL,x_protein,X protein,79,93,METTVNAHQILPKVL,NC_003977.2,reference,,1
+1273,REF|x_protein|start80|ETTVNAHQILPKVLH,x_protein,X protein,80,94,ETTVNAHQILPKVLH,NC_003977.2,reference,,1
+1274,REF|x_protein|start81|TTVNAHQILPKVLHK,x_protein,X protein,81,95,TTVNAHQILPKVLHK,NC_003977.2,reference,,1
+1275,REF|x_protein|start82|TVNAHQILPKVLHKR,x_protein,X protein,82,96,TVNAHQILPKVLHKR,NC_003977.2,reference,,1
+1276,REF|x_protein|start83|VNAHQILPKVLHKRT,x_protein,X protein,83,97,VNAHQILPKVLHKRT,NC_003977.2,reference,,1
+1277,REF|x_protein|start84|NAHQILPKVLHKRTL,x_protein,X protein,84,98,NAHQILPKVLHKRTL,NC_003977.2,reference,,1
+1278,REF|x_protein|start85|AHQILPKVLHKRTLG,x_protein,X protein,85,99,AHQILPKVLHKRTLG,NC_003977.2,reference,,1
+1279,REF|x_protein|start86|HQILPKVLHKRTLGL,x_protein,X protein,86,100,HQILPKVLHKRTLGL,NC_003977.2,reference,,1
+1280,REF|x_protein|start87|QILPKVLHKRTLGLS,x_protein,X protein,87,101,QILPKVLHKRTLGLS,NC_003977.2,reference,,1
+1281,REF|x_protein|start88|ILPKVLHKRTLGLSA,x_protein,X protein,88,102,ILPKVLHKRTLGLSA,NC_003977.2,reference,,1
+1282,REF|x_protein|start89|LPKVLHKRTLGLSAM,x_protein,X protein,89,103,LPKVLHKRTLGLSAM,NC_003977.2,reference,,1
+1283,REF|x_protein|start90|PKVLHKRTLGLSAMS,x_protein,X protein,90,104,PKVLHKRTLGLSAMS,NC_003977.2,reference,,1
+1284,REF|x_protein|start91|KVLHKRTLGLSAMST,x_protein,X protein,91,105,KVLHKRTLGLSAMST,NC_003977.2,reference,,1
+1285,REF|x_protein|start92|VLHKRTLGLSAMSTT,x_protein,X protein,92,106,VLHKRTLGLSAMSTT,NC_003977.2,reference,,1
+1286,REF|x_protein|start93|LHKRTLGLSAMSTTD,x_protein,X protein,93,107,LHKRTLGLSAMSTTD,NC_003977.2,reference,,1
+1287,REF|x_protein|start94|HKRTLGLSAMSTTDL,x_protein,X protein,94,108,HKRTLGLSAMSTTDL,NC_003977.2,reference,,1
+1288,REF|x_protein|start95|KRTLGLSAMSTTDLE,x_protein,X protein,95,109,KRTLGLSAMSTTDLE,NC_003977.2,reference,,1
+1289,REF|x_protein|start96|RTLGLSAMSTTDLEA,x_protein,X protein,96,110,RTLGLSAMSTTDLEA,NC_003977.2,reference,,1
+1290,REF|x_protein|start97|TLGLSAMSTTDLEAY,x_protein,X protein,97,111,TLGLSAMSTTDLEAY,NC_003977.2,reference,,1
+1291,REF|x_protein|start98|LGLSAMSTTDLEAYF,x_protein,X protein,98,112,LGLSAMSTTDLEAYF,NC_003977.2,reference,,1
+1292,REF|x_protein|start99|GLSAMSTTDLEAYFK,x_protein,X protein,99,113,GLSAMSTTDLEAYFK,NC_003977.2,reference,,1
+1293,REF|x_protein|start100|LSAMSTTDLEAYFKD,x_protein,X protein,100,114,LSAMSTTDLEAYFKD,NC_003977.2,reference,,1
+1294,REF|x_protein|start101|SAMSTTDLEAYFKDC,x_protein,X protein,101,115,SAMSTTDLEAYFKDC,NC_003977.2,reference,,1
+1295,REF|x_protein|start102|AMSTTDLEAYFKDCL,x_protein,X protein,102,116,AMSTTDLEAYFKDCL,NC_003977.2,reference,,1
+1296,REF|x_protein|start103|MSTTDLEAYFKDCLF,x_protein,X protein,103,117,MSTTDLEAYFKDCLF,NC_003977.2,reference,,1
+1297,REF|x_protein|start104|STTDLEAYFKDCLFK,x_protein,X protein,104,118,STTDLEAYFKDCLFK,NC_003977.2,reference,,1
+1298,REF|x_protein|start105|TTDLEAYFKDCLFKD,x_protein,X protein,105,119,TTDLEAYFKDCLFKD,NC_003977.2,reference,,1
+1299,REF|x_protein|start106|TDLEAYFKDCLFKDW,x_protein,X protein,106,120,TDLEAYFKDCLFKDW,NC_003977.2,reference,,1
+1300,REF|x_protein|start107|DLEAYFKDCLFKDWE,x_protein,X protein,107,121,DLEAYFKDCLFKDWE,NC_003977.2,reference,,1
+1301,REF|x_protein|start108|LEAYFKDCLFKDWEE,x_protein,X protein,108,122,LEAYFKDCLFKDWEE,NC_003977.2,reference,,1
+1302,REF|x_protein|start109|EAYFKDCLFKDWEEL,x_protein,X protein,109,123,EAYFKDCLFKDWEEL,NC_003977.2,reference,,1
+1303,REF|x_protein|start110|AYFKDCLFKDWEELG,x_protein,X protein,110,124,AYFKDCLFKDWEELG,NC_003977.2,reference,,1
+1304,REF|x_protein|start111|YFKDCLFKDWEELGE,x_protein,X protein,111,125,YFKDCLFKDWEELGE,NC_003977.2,reference,,1
+1305,REF|x_protein|start112|FKDCLFKDWEELGEE,x_protein,X protein,112,126,FKDCLFKDWEELGEE,NC_003977.2,reference,,1
+1306,REF|x_protein|start113|KDCLFKDWEELGEEI,x_protein,X protein,113,127,KDCLFKDWEELGEEI,NC_003977.2,reference,,1
+1307,REF|x_protein|start114|DCLFKDWEELGEEIR,x_protein,X protein,114,128,DCLFKDWEELGEEIR,NC_003977.2,reference,,1
+1308,REF|x_protein|start115|CLFKDWEELGEEIRL,x_protein,X protein,115,129,CLFKDWEELGEEIRL,NC_003977.2,reference,,1
+1309,REF|x_protein|start116|LFKDWEELGEEIRLK,x_protein,X protein,116,130,LFKDWEELGEEIRLK,NC_003977.2,reference,,1
+1310,REF|x_protein|start117|FKDWEELGEEIRLKV,x_protein,X protein,117,131,FKDWEELGEEIRLKV,NC_003977.2,reference,,1
+1311,REF|x_protein|start118|KDWEELGEEIRLKVF,x_protein,X protein,118,132,KDWEELGEEIRLKVF,NC_003977.2,reference,,1
+1312,REF|x_protein|start119|DWEELGEEIRLKVFV,x_protein,X protein,119,133,DWEELGEEIRLKVFV,NC_003977.2,reference,,1
+1313,REF|x_protein|start120|WEELGEEIRLKVFVL,x_protein,X protein,120,134,WEELGEEIRLKVFVL,NC_003977.2,reference,,1
+1314,REF|x_protein|start121|EELGEEIRLKVFVLG,x_protein,X protein,121,135,EELGEEIRLKVFVLG,NC_003977.2,reference,,1
+1315,REF|x_protein|start122|ELGEEIRLKVFVLGG,x_protein,X protein,122,136,ELGEEIRLKVFVLGG,NC_003977.2,reference,,1
+1316,REF|x_protein|start123|LGEEIRLKVFVLGGC,x_protein,X protein,123,137,LGEEIRLKVFVLGGC,NC_003977.2,reference,,1
+1317,REF|x_protein|start124|GEEIRLKVFVLGGCR,x_protein,X protein,124,138,GEEIRLKVFVLGGCR,NC_003977.2,reference,,1
+1318,REF|x_protein|start125|EEIRLKVFVLGGCRH,x_protein,X protein,125,139,EEIRLKVFVLGGCRH,NC_003977.2,reference,,1
+1319,REF|x_protein|start126|EIRLKVFVLGGCRHK,x_protein,X protein,126,140,EIRLKVFVLGGCRHK,NC_003977.2,reference,,1
+1320,REF|x_protein|start127|IRLKVFVLGGCRHKL,x_protein,X protein,127,141,IRLKVFVLGGCRHKL,NC_003977.2,reference,,1
+1321,REF|x_protein|start128|RLKVFVLGGCRHKLV,x_protein,X protein,128,142,RLKVFVLGGCRHKLV,NC_003977.2,reference,,1
+1322,REF|x_protein|start129|LKVFVLGGCRHKLVC,x_protein,X protein,129,143,LKVFVLGGCRHKLVC,NC_003977.2,reference,,1
+1323,REF|x_protein|start130|KVFVLGGCRHKLVCA,x_protein,X protein,130,144,KVFVLGGCRHKLVCA,NC_003977.2,reference,,1
+1324,REF|x_protein|start131|VFVLGGCRHKLVCAP,x_protein,X protein,131,145,VFVLGGCRHKLVCAP,NC_003977.2,reference,,1
+1325,REF|x_protein|start132|FVLGGCRHKLVCAPA,x_protein,X protein,132,146,FVLGGCRHKLVCAPA,NC_003977.2,reference,,1
+1326,REF|x_protein|start133|VLGGCRHKLVCAPAP,x_protein,X protein,133,147,VLGGCRHKLVCAPAP,NC_003977.2,reference,,1
+1327,REF|x_protein|start134|LGGCRHKLVCAPAPC,x_protein,X protein,134,148,LGGCRHKLVCAPAPC,NC_003977.2,reference,,1
+1328,REF|x_protein|start135|GGCRHKLVCAPAPCN,x_protein,X protein,135,149,GGCRHKLVCAPAPCN,NC_003977.2,reference,,1
+1329,REF|x_protein|start136|GCRHKLVCAPAPCNF,x_protein,X protein,136,150,GCRHKLVCAPAPCNF,NC_003977.2,reference,,1
+1330,REF|x_protein|start137|CRHKLVCAPAPCNFF,x_protein,X protein,137,151,CRHKLVCAPAPCNFF,NC_003977.2,reference,,1
+1331,REF|x_protein|start138|RHKLVCAPAPCNFFT,x_protein,X protein,138,152,RHKLVCAPAPCNFFT,NC_003977.2,reference,,1
+1332,REF|x_protein|start139|HKLVCAPAPCNFFTS,x_protein,X protein,139,153,HKLVCAPAPCNFFTS,NC_003977.2,reference,,1
+1333,REF|x_protein|start140|KLVCAPAPCNFFTSA,x_protein,X protein,140,154,KLVCAPAPCNFFTSA,NC_003977.2,reference,,1
+1334,REF|core_capsid|start1|MDIDPYKEFGATVEL,core_capsid,capsid protein,1,15,MDIDPYKEFGATVEL,NC_003977.2,reference,,1
+1335,REF|core_capsid|start2|DIDPYKEFGATVELL,core_capsid,capsid protein,2,16,DIDPYKEFGATVELL,NC_003977.2,reference,,1
+1336,REF|core_capsid|start3|IDPYKEFGATVELLS,core_capsid,capsid protein,3,17,IDPYKEFGATVELLS,NC_003977.2,reference,,1
+1337,REF|core_capsid|start4|DPYKEFGATVELLSF,core_capsid,capsid protein,4,18,DPYKEFGATVELLSF,NC_003977.2,reference,,1
+1338,REF|core_capsid|start5|PYKEFGATVELLSFL,core_capsid,capsid protein,5,19,PYKEFGATVELLSFL,NC_003977.2,reference,,1
+1339,REF|core_capsid|start6|YKEFGATVELLSFLP,core_capsid,capsid protein,6,20,YKEFGATVELLSFLP,NC_003977.2,reference,,1
+1340,REF|core_capsid|start7|KEFGATVELLSFLPS,core_capsid,capsid protein,7,21,KEFGATVELLSFLPS,NC_003977.2,reference,,1
+1341,REF|core_capsid|start8|EFGATVELLSFLPSD,core_capsid,capsid protein,8,22,EFGATVELLSFLPSD,NC_003977.2,reference,,1
+1342,REF|core_capsid|start9|FGATVELLSFLPSDF,core_capsid,capsid protein,9,23,FGATVELLSFLPSDF,NC_003977.2,reference,,1
+1343,REF|core_capsid|start10|GATVELLSFLPSDFF,core_capsid,capsid protein,10,24,GATVELLSFLPSDFF,NC_003977.2,reference,,1
+1344,REF|core_capsid|start11|ATVELLSFLPSDFFP,core_capsid,capsid protein,11,25,ATVELLSFLPSDFFP,NC_003977.2,reference,,1
+1345,REF|core_capsid|start12|TVELLSFLPSDFFPS,core_capsid,capsid protein,12,26,TVELLSFLPSDFFPS,NC_003977.2,reference,,1
+1346,REF|core_capsid|start13|VELLSFLPSDFFPSV,core_capsid,capsid protein,13,27,VELLSFLPSDFFPSV,NC_003977.2,reference,,1
+1347,REF|core_capsid|start14|ELLSFLPSDFFPSVR,core_capsid,capsid protein,14,28,ELLSFLPSDFFPSVR,NC_003977.2,reference,,1
+1348,REF|core_capsid|start15|LLSFLPSDFFPSVRD,core_capsid,capsid protein,15,29,LLSFLPSDFFPSVRD,NC_003977.2,reference,,1
+1349,REF|core_capsid|start16|LSFLPSDFFPSVRDL,core_capsid,capsid protein,16,30,LSFLPSDFFPSVRDL,NC_003977.2,reference,,1
+1350,REF|core_capsid|start17|SFLPSDFFPSVRDLL,core_capsid,capsid protein,17,31,SFLPSDFFPSVRDLL,NC_003977.2,reference,,1
+1351,REF|core_capsid|start18|FLPSDFFPSVRDLLD,core_capsid,capsid protein,18,32,FLPSDFFPSVRDLLD,NC_003977.2,reference,,1
+1352,REF|core_capsid|start19|LPSDFFPSVRDLLDT,core_capsid,capsid protein,19,33,LPSDFFPSVRDLLDT,NC_003977.2,reference,,1
+1353,REF|core_capsid|start20|PSDFFPSVRDLLDTA,core_capsid,capsid protein,20,34,PSDFFPSVRDLLDTA,NC_003977.2,reference,,1
+1354,REF|core_capsid|start21|SDFFPSVRDLLDTAS,core_capsid,capsid protein,21,35,SDFFPSVRDLLDTAS,NC_003977.2,reference,,1
+1355,REF|core_capsid|start22|DFFPSVRDLLDTASA,core_capsid,capsid protein,22,36,DFFPSVRDLLDTASA,NC_003977.2,reference,,1
+1356,REF|core_capsid|start23|FFPSVRDLLDTASAL,core_capsid,capsid protein,23,37,FFPSVRDLLDTASAL,NC_003977.2,reference,,1
+1357,REF|core_capsid|start24|FPSVRDLLDTASALY,core_capsid,capsid protein,24,38,FPSVRDLLDTASALY,NC_003977.2,reference,,1
+1358,REF|core_capsid|start25|PSVRDLLDTASALYR,core_capsid,capsid protein,25,39,PSVRDLLDTASALYR,NC_003977.2,reference,,1
+1359,REF|core_capsid|start26|SVRDLLDTASALYRE,core_capsid,capsid protein,26,40,SVRDLLDTASALYRE,NC_003977.2,reference,,1
+1360,REF|core_capsid|start27|VRDLLDTASALYREA,core_capsid,capsid protein,27,41,VRDLLDTASALYREA,NC_003977.2,reference,,1
+1361,REF|core_capsid|start28|RDLLDTASALYREAL,core_capsid,capsid protein,28,42,RDLLDTASALYREAL,NC_003977.2,reference,,1
+1362,REF|core_capsid|start29|DLLDTASALYREALE,core_capsid,capsid protein,29,43,DLLDTASALYREALE,NC_003977.2,reference,,1
+1363,REF|core_capsid|start30|LLDTASALYREALES,core_capsid,capsid protein,30,44,LLDTASALYREALES,NC_003977.2,reference,,1
+1364,REF|core_capsid|start31|LDTASALYREALESP,core_capsid,capsid protein,31,45,LDTASALYREALESP,NC_003977.2,reference,,1
+1365,REF|core_capsid|start32|DTASALYREALESPE,core_capsid,capsid protein,32,46,DTASALYREALESPE,NC_003977.2,reference,,1
+1366,REF|core_capsid|start33|TASALYREALESPEH,core_capsid,capsid protein,33,47,TASALYREALESPEH,NC_003977.2,reference,,1
+1367,REF|core_capsid|start34|ASALYREALESPEHC,core_capsid,capsid protein,34,48,ASALYREALESPEHC,NC_003977.2,reference,,1
+1368,REF|core_capsid|start35|SALYREALESPEHCS,core_capsid,capsid protein,35,49,SALYREALESPEHCS,NC_003977.2,reference,,1
+1369,REF|core_capsid|start36|ALYREALESPEHCSP,core_capsid,capsid protein,36,50,ALYREALESPEHCSP,NC_003977.2,reference,,1
+1370,REF|core_capsid|start37|LYREALESPEHCSPH,core_capsid,capsid protein,37,51,LYREALESPEHCSPH,NC_003977.2,reference,,1
+1371,REF|core_capsid|start38|YREALESPEHCSPHH,core_capsid,capsid protein,38,52,YREALESPEHCSPHH,NC_003977.2,reference,,1
+1372,REF|core_capsid|start39|REALESPEHCSPHHT,core_capsid,capsid protein,39,53,REALESPEHCSPHHT,NC_003977.2,reference,,1
+1373,REF|core_capsid|start40|EALESPEHCSPHHTA,core_capsid,capsid protein,40,54,EALESPEHCSPHHTA,NC_003977.2,reference,,1
+1374,REF|core_capsid|start41|ALESPEHCSPHHTAL,core_capsid,capsid protein,41,55,ALESPEHCSPHHTAL,NC_003977.2,reference,,1
+1375,REF|core_capsid|start42|LESPEHCSPHHTALR,core_capsid,capsid protein,42,56,LESPEHCSPHHTALR,NC_003977.2,reference,,1
+1376,REF|core_capsid|start43|ESPEHCSPHHTALRQ,core_capsid,capsid protein,43,57,ESPEHCSPHHTALRQ,NC_003977.2,reference,,1
+1377,REF|core_capsid|start44|SPEHCSPHHTALRQA,core_capsid,capsid protein,44,58,SPEHCSPHHTALRQA,NC_003977.2,reference,,1
+1378,REF|core_capsid|start45|PEHCSPHHTALRQAI,core_capsid,capsid protein,45,59,PEHCSPHHTALRQAI,NC_003977.2,reference,,1
+1379,REF|core_capsid|start46|EHCSPHHTALRQAIL,core_capsid,capsid protein,46,60,EHCSPHHTALRQAIL,NC_003977.2,reference,,1
+1380,REF|core_capsid|start47|HCSPHHTALRQAILC,core_capsid,capsid protein,47,61,HCSPHHTALRQAILC,NC_003977.2,reference,,1
+1381,REF|core_capsid|start48|CSPHHTALRQAILCW,core_capsid,capsid protein,48,62,CSPHHTALRQAILCW,NC_003977.2,reference,,1
+1382,REF|core_capsid|start49|SPHHTALRQAILCWG,core_capsid,capsid protein,49,63,SPHHTALRQAILCWG,NC_003977.2,reference,,1
+1383,REF|core_capsid|start50|PHHTALRQAILCWGE,core_capsid,capsid protein,50,64,PHHTALRQAILCWGE,NC_003977.2,reference,,1
+1384,REF|core_capsid|start51|HHTALRQAILCWGEL,core_capsid,capsid protein,51,65,HHTALRQAILCWGEL,NC_003977.2,reference,,1
+1385,REF|core_capsid|start52|HTALRQAILCWGELM,core_capsid,capsid protein,52,66,HTALRQAILCWGELM,NC_003977.2,reference,,1
+1386,REF|core_capsid|start53|TALRQAILCWGELMT,core_capsid,capsid protein,53,67,TALRQAILCWGELMT,NC_003977.2,reference,,1
+1387,REF|core_capsid|start54|ALRQAILCWGELMTL,core_capsid,capsid protein,54,68,ALRQAILCWGELMTL,NC_003977.2,reference,,1
+1388,REF|core_capsid|start55|LRQAILCWGELMTLA,core_capsid,capsid protein,55,69,LRQAILCWGELMTLA,NC_003977.2,reference,,1
+1389,REF|core_capsid|start56|RQAILCWGELMTLAT,core_capsid,capsid protein,56,70,RQAILCWGELMTLAT,NC_003977.2,reference,,1
+1390,REF|core_capsid|start57|QAILCWGELMTLATW,core_capsid,capsid protein,57,71,QAILCWGELMTLATW,NC_003977.2,reference,,1
+1391,REF|core_capsid|start58|AILCWGELMTLATWV,core_capsid,capsid protein,58,72,AILCWGELMTLATWV,NC_003977.2,reference,,1
+1392,REF|core_capsid|start59|ILCWGELMTLATWVG,core_capsid,capsid protein,59,73,ILCWGELMTLATWVG,NC_003977.2,reference,,1
+1393,REF|core_capsid|start60|LCWGELMTLATWVGV,core_capsid,capsid protein,60,74,LCWGELMTLATWVGV,NC_003977.2,reference,,1
+1394,REF|core_capsid|start61|CWGELMTLATWVGVN,core_capsid,capsid protein,61,75,CWGELMTLATWVGVN,NC_003977.2,reference,,1
+1395,REF|core_capsid|start62|WGELMTLATWVGVNL,core_capsid,capsid protein,62,76,WGELMTLATWVGVNL,NC_003977.2,reference,,1
+1396,REF|core_capsid|start63|GELMTLATWVGVNLE,core_capsid,capsid protein,63,77,GELMTLATWVGVNLE,NC_003977.2,reference,,1
+1397,REF|core_capsid|start64|ELMTLATWVGVNLED,core_capsid,capsid protein,64,78,ELMTLATWVGVNLED,NC_003977.2,reference,,1
+1398,REF|core_capsid|start65|LMTLATWVGVNLEDP,core_capsid,capsid protein,65,79,LMTLATWVGVNLEDP,NC_003977.2,reference,,1
+1399,REF|core_capsid|start66|MTLATWVGVNLEDPA,core_capsid,capsid protein,66,80,MTLATWVGVNLEDPA,NC_003977.2,reference,,1
+1400,REF|core_capsid|start67|TLATWVGVNLEDPAS,core_capsid,capsid protein,67,81,TLATWVGVNLEDPAS,NC_003977.2,reference,,1
+1401,REF|core_capsid|start68|LATWVGVNLEDPASR,core_capsid,capsid protein,68,82,LATWVGVNLEDPASR,NC_003977.2,reference,,1
+1402,REF|core_capsid|start69|ATWVGVNLEDPASRD,core_capsid,capsid protein,69,83,ATWVGVNLEDPASRD,NC_003977.2,reference,,1
+1403,REF|core_capsid|start70|TWVGVNLEDPASRDL,core_capsid,capsid protein,70,84,TWVGVNLEDPASRDL,NC_003977.2,reference,,1
+1404,REF|core_capsid|start71|WVGVNLEDPASRDLV,core_capsid,capsid protein,71,85,WVGVNLEDPASRDLV,NC_003977.2,reference,,1
+1405,REF|core_capsid|start72|VGVNLEDPASRDLVV,core_capsid,capsid protein,72,86,VGVNLEDPASRDLVV,NC_003977.2,reference,,1
+1406,REF|core_capsid|start73|GVNLEDPASRDLVVS,core_capsid,capsid protein,73,87,GVNLEDPASRDLVVS,NC_003977.2,reference,,1
+1407,REF|core_capsid|start74|VNLEDPASRDLVVSY,core_capsid,capsid protein,74,88,VNLEDPASRDLVVSY,NC_003977.2,reference,,1
+1408,REF|core_capsid|start75|NLEDPASRDLVVSYV,core_capsid,capsid protein,75,89,NLEDPASRDLVVSYV,NC_003977.2,reference,,1
+1409,REF|core_capsid|start76|LEDPASRDLVVSYVN,core_capsid,capsid protein,76,90,LEDPASRDLVVSYVN,NC_003977.2,reference,,1
+1410,REF|core_capsid|start77|EDPASRDLVVSYVNT,core_capsid,capsid protein,77,91,EDPASRDLVVSYVNT,NC_003977.2,reference,,1
+1411,REF|core_capsid|start78|DPASRDLVVSYVNTN,core_capsid,capsid protein,78,92,DPASRDLVVSYVNTN,NC_003977.2,reference,,1
+1412,REF|core_capsid|start79|PASRDLVVSYVNTNM,core_capsid,capsid protein,79,93,PASRDLVVSYVNTNM,NC_003977.2,reference,,1
+1413,REF|core_capsid|start80|ASRDLVVSYVNTNMG,core_capsid,capsid protein,80,94,ASRDLVVSYVNTNMG,NC_003977.2,reference,,1
+1414,REF|core_capsid|start81|SRDLVVSYVNTNMGL,core_capsid,capsid protein,81,95,SRDLVVSYVNTNMGL,NC_003977.2,reference,,1
+1415,REF|core_capsid|start82|RDLVVSYVNTNMGLK,core_capsid,capsid protein,82,96,RDLVVSYVNTNMGLK,NC_003977.2,reference,,1
+1416,REF|core_capsid|start83|DLVVSYVNTNMGLKF,core_capsid,capsid protein,83,97,DLVVSYVNTNMGLKF,NC_003977.2,reference,,1
+1417,REF|core_capsid|start84|LVVSYVNTNMGLKFR,core_capsid,capsid protein,84,98,LVVSYVNTNMGLKFR,NC_003977.2,reference,,1
+1418,REF|core_capsid|start85|VVSYVNTNMGLKFRQ,core_capsid,capsid protein,85,99,VVSYVNTNMGLKFRQ,NC_003977.2,reference,,1
+1419,REF|core_capsid|start86|VSYVNTNMGLKFRQL,core_capsid,capsid protein,86,100,VSYVNTNMGLKFRQL,NC_003977.2,reference,,1
+1420,REF|core_capsid|start87|SYVNTNMGLKFRQLL,core_capsid,capsid protein,87,101,SYVNTNMGLKFRQLL,NC_003977.2,reference,,1
+1421,REF|core_capsid|start88|YVNTNMGLKFRQLLW,core_capsid,capsid protein,88,102,YVNTNMGLKFRQLLW,NC_003977.2,reference,,1
+1422,REF|core_capsid|start89|VNTNMGLKFRQLLWF,core_capsid,capsid protein,89,103,VNTNMGLKFRQLLWF,NC_003977.2,reference,,1
+1423,REF|core_capsid|start90|NTNMGLKFRQLLWFH,core_capsid,capsid protein,90,104,NTNMGLKFRQLLWFH,NC_003977.2,reference,,1
+1424,REF|core_capsid|start91|TNMGLKFRQLLWFHI,core_capsid,capsid protein,91,105,TNMGLKFRQLLWFHI,NC_003977.2,reference,,1
+1425,REF|core_capsid|start92|NMGLKFRQLLWFHIS,core_capsid,capsid protein,92,106,NMGLKFRQLLWFHIS,NC_003977.2,reference,,1
+1426,REF|core_capsid|start93|MGLKFRQLLWFHISC,core_capsid,capsid protein,93,107,MGLKFRQLLWFHISC,NC_003977.2,reference,,1
+1427,REF|core_capsid|start94|GLKFRQLLWFHISCL,core_capsid,capsid protein,94,108,GLKFRQLLWFHISCL,NC_003977.2,reference,,1
+1428,REF|core_capsid|start95|LKFRQLLWFHISCLT,core_capsid,capsid protein,95,109,LKFRQLLWFHISCLT,NC_003977.2,reference,,1
+1429,REF|core_capsid|start96|KFRQLLWFHISCLTF,core_capsid,capsid protein,96,110,KFRQLLWFHISCLTF,NC_003977.2,reference,,1
+1430,REF|core_capsid|start97|FRQLLWFHISCLTFG,core_capsid,capsid protein,97,111,FRQLLWFHISCLTFG,NC_003977.2,reference,,1
+1431,REF|core_capsid|start98|RQLLWFHISCLTFGR,core_capsid,capsid protein,98,112,RQLLWFHISCLTFGR,NC_003977.2,reference,,1
+1432,REF|core_capsid|start99|QLLWFHISCLTFGRE,core_capsid,capsid protein,99,113,QLLWFHISCLTFGRE,NC_003977.2,reference,,1
+1433,REF|core_capsid|start100|LLWFHISCLTFGRET,core_capsid,capsid protein,100,114,LLWFHISCLTFGRET,NC_003977.2,reference,,1
+1434,REF|core_capsid|start101|LWFHISCLTFGRETV,core_capsid,capsid protein,101,115,LWFHISCLTFGRETV,NC_003977.2,reference,,1
+1435,REF|core_capsid|start102|WFHISCLTFGRETVI,core_capsid,capsid protein,102,116,WFHISCLTFGRETVI,NC_003977.2,reference,,1
+1436,REF|core_capsid|start103|FHISCLTFGRETVIE,core_capsid,capsid protein,103,117,FHISCLTFGRETVIE,NC_003977.2,reference,,1
+1437,REF|core_capsid|start104|HISCLTFGRETVIEY,core_capsid,capsid protein,104,118,HISCLTFGRETVIEY,NC_003977.2,reference,,1
+1438,REF|core_capsid|start105|ISCLTFGRETVIEYL,core_capsid,capsid protein,105,119,ISCLTFGRETVIEYL,NC_003977.2,reference,,1
+1439,REF|core_capsid|start106|SCLTFGRETVIEYLV,core_capsid,capsid protein,106,120,SCLTFGRETVIEYLV,NC_003977.2,reference,,1
+1440,REF|core_capsid|start107|CLTFGRETVIEYLVS,core_capsid,capsid protein,107,121,CLTFGRETVIEYLVS,NC_003977.2,reference,,1
+1441,REF|core_capsid|start108|LTFGRETVIEYLVSF,core_capsid,capsid protein,108,122,LTFGRETVIEYLVSF,NC_003977.2,reference,,1
+1442,REF|core_capsid|start109|TFGRETVIEYLVSFG,core_capsid,capsid protein,109,123,TFGRETVIEYLVSFG,NC_003977.2,reference,,1
+1443,REF|core_capsid|start110|FGRETVIEYLVSFGV,core_capsid,capsid protein,110,124,FGRETVIEYLVSFGV,NC_003977.2,reference,,1
+1444,REF|core_capsid|start111|GRETVIEYLVSFGVW,core_capsid,capsid protein,111,125,GRETVIEYLVSFGVW,NC_003977.2,reference,,1
+1445,REF|core_capsid|start112|RETVIEYLVSFGVWI,core_capsid,capsid protein,112,126,RETVIEYLVSFGVWI,NC_003977.2,reference,,1
+1446,REF|core_capsid|start113|ETVIEYLVSFGVWIR,core_capsid,capsid protein,113,127,ETVIEYLVSFGVWIR,NC_003977.2,reference,,1
+1447,REF|core_capsid|start114|TVIEYLVSFGVWIRT,core_capsid,capsid protein,114,128,TVIEYLVSFGVWIRT,NC_003977.2,reference,,1
+1448,REF|core_capsid|start115|VIEYLVSFGVWIRTP,core_capsid,capsid protein,115,129,VIEYLVSFGVWIRTP,NC_003977.2,reference,,1
+1449,REF|core_capsid|start116|IEYLVSFGVWIRTPP,core_capsid,capsid protein,116,130,IEYLVSFGVWIRTPP,NC_003977.2,reference,,1
+1450,REF|core_capsid|start117|EYLVSFGVWIRTPPA,core_capsid,capsid protein,117,131,EYLVSFGVWIRTPPA,NC_003977.2,reference,,1
+1451,REF|core_capsid|start118|YLVSFGVWIRTPPAY,core_capsid,capsid protein,118,132,YLVSFGVWIRTPPAY,NC_003977.2,reference,,1
+1452,REF|core_capsid|start119|LVSFGVWIRTPPAYR,core_capsid,capsid protein,119,133,LVSFGVWIRTPPAYR,NC_003977.2,reference,,1
+1453,REF|core_capsid|start120|VSFGVWIRTPPAYRP,core_capsid,capsid protein,120,134,VSFGVWIRTPPAYRP,NC_003977.2,reference,,1
+1454,REF|core_capsid|start121|SFGVWIRTPPAYRPP,core_capsid,capsid protein,121,135,SFGVWIRTPPAYRPP,NC_003977.2,reference,,1
+1455,REF|core_capsid|start122|FGVWIRTPPAYRPPN,core_capsid,capsid protein,122,136,FGVWIRTPPAYRPPN,NC_003977.2,reference,,1
+1456,REF|core_capsid|start123|GVWIRTPPAYRPPNA,core_capsid,capsid protein,123,137,GVWIRTPPAYRPPNA,NC_003977.2,reference,,1
+1457,REF|core_capsid|start124|VWIRTPPAYRPPNAP,core_capsid,capsid protein,124,138,VWIRTPPAYRPPNAP,NC_003977.2,reference,,1
+1458,REF|core_capsid|start125|WIRTPPAYRPPNAPI,core_capsid,capsid protein,125,139,WIRTPPAYRPPNAPI,NC_003977.2,reference,,1
+1459,REF|core_capsid|start126|IRTPPAYRPPNAPIL,core_capsid,capsid protein,126,140,IRTPPAYRPPNAPIL,NC_003977.2,reference,,1
+1460,REF|core_capsid|start127|RTPPAYRPPNAPILS,core_capsid,capsid protein,127,141,RTPPAYRPPNAPILS,NC_003977.2,reference,,1
+1461,REF|core_capsid|start128|TPPAYRPPNAPILST,core_capsid,capsid protein,128,142,TPPAYRPPNAPILST,NC_003977.2,reference,,1
+1462,REF|core_capsid|start129|PPAYRPPNAPILSTL,core_capsid,capsid protein,129,143,PPAYRPPNAPILSTL,NC_003977.2,reference,,1
+1463,REF|core_capsid|start130|PAYRPPNAPILSTLP,core_capsid,capsid protein,130,144,PAYRPPNAPILSTLP,NC_003977.2,reference,,1
+1464,REF|core_capsid|start131|AYRPPNAPILSTLPE,core_capsid,capsid protein,131,145,AYRPPNAPILSTLPE,NC_003977.2,reference,,1
+1465,REF|core_capsid|start132|YRPPNAPILSTLPET,core_capsid,capsid protein,132,146,YRPPNAPILSTLPET,NC_003977.2,reference,,1
+1466,REF|core_capsid|start133|RPPNAPILSTLPETT,core_capsid,capsid protein,133,147,RPPNAPILSTLPETT,NC_003977.2,reference,,1
+1467,REF|core_capsid|start134|PPNAPILSTLPETTV,core_capsid,capsid protein,134,148,PPNAPILSTLPETTV,NC_003977.2,reference,,1
+1468,REF|core_capsid|start135|PNAPILSTLPETTVV,core_capsid,capsid protein,135,149,PNAPILSTLPETTVV,NC_003977.2,reference,,1
+1469,REF|core_capsid|start136|NAPILSTLPETTVVR,core_capsid,capsid protein,136,150,NAPILSTLPETTVVR,NC_003977.2,reference,,1
+1470,REF|core_capsid|start137|APILSTLPETTVVRR,core_capsid,capsid protein,137,151,APILSTLPETTVVRR,NC_003977.2,reference,,1
+1471,REF|core_capsid|start138|PILSTLPETTVVRRR,core_capsid,capsid protein,138,152,PILSTLPETTVVRRR,NC_003977.2,reference,,1
+1472,REF|core_capsid|start139|ILSTLPETTVVRRRG,core_capsid,capsid protein,139,153,ILSTLPETTVVRRRG,NC_003977.2,reference,,1
+1473,REF|core_capsid|start140|LSTLPETTVVRRRGR,core_capsid,capsid protein,140,154,LSTLPETTVVRRRGR,NC_003977.2,reference,,1
+1474,REF|core_capsid|start141|STLPETTVVRRRGRS,core_capsid,capsid protein,141,155,STLPETTVVRRRGRS,NC_003977.2,reference,,1
+1475,REF|core_capsid|start142|TLPETTVVRRRGRSP,core_capsid,capsid protein,142,156,TLPETTVVRRRGRSP,NC_003977.2,reference,,1
+1476,REF|core_capsid|start143|LPETTVVRRRGRSPR,core_capsid,capsid protein,143,157,LPETTVVRRRGRSPR,NC_003977.2,reference,,1
+1477,REF|core_capsid|start144|PETTVVRRRGRSPRR,core_capsid,capsid protein,144,158,PETTVVRRRGRSPRR,NC_003977.2,reference,,1
+1478,REF|core_capsid|start145|ETTVVRRRGRSPRRR,core_capsid,capsid protein,145,159,ETTVVRRRGRSPRRR,NC_003977.2,reference,,1
+1479,REF|core_capsid|start146|TTVVRRRGRSPRRRT,core_capsid,capsid protein,146,160,TTVVRRRGRSPRRRT,NC_003977.2,reference,,1
+1480,REF|core_capsid|start147|TVVRRRGRSPRRRTP,core_capsid,capsid protein,147,161,TVVRRRGRSPRRRTP,NC_003977.2,reference,,1
+1481,REF|core_capsid|start148|VVRRRGRSPRRRTPS,core_capsid,capsid protein,148,162,VVRRRGRSPRRRTPS,NC_003977.2,reference,,1
+1482,REF|core_capsid|start149|VRRRGRSPRRRTPSP,core_capsid,capsid protein,149,163,VRRRGRSPRRRTPSP,NC_003977.2,reference,,1
+1483,REF|core_capsid|start150|RRRGRSPRRRTPSPR,core_capsid,capsid protein,150,164,RRRGRSPRRRTPSPR,NC_003977.2,reference,,1
+1484,REF|core_capsid|start151|RRGRSPRRRTPSPRR,core_capsid,capsid protein,151,165,RRGRSPRRRTPSPRR,NC_003977.2,reference,,1
+1485,REF|core_capsid|start152|RGRSPRRRTPSPRRR,core_capsid,capsid protein,152,166,RGRSPRRRTPSPRRR,NC_003977.2,reference,,1
+1486,REF|core_capsid|start153|GRSPRRRTPSPRRRR,core_capsid,capsid protein,153,167,GRSPRRRTPSPRRRR,NC_003977.2,reference,,1
+1487,REF|core_capsid|start154|RSPRRRTPSPRRRRS,core_capsid,capsid protein,154,168,RSPRRRTPSPRRRRS,NC_003977.2,reference,,1
+1488,REF|core_capsid|start155|SPRRRTPSPRRRRSQ,core_capsid,capsid protein,155,169,SPRRRTPSPRRRRSQ,NC_003977.2,reference,,1
+1489,REF|core_capsid|start156|PRRRTPSPRRRRSQS,core_capsid,capsid protein,156,170,PRRRTPSPRRRRSQS,NC_003977.2,reference,,1
+1490,REF|core_capsid|start157|RRRTPSPRRRRSQSP,core_capsid,capsid protein,157,171,RRRTPSPRRRRSQSP,NC_003977.2,reference,,1
+1491,REF|core_capsid|start158|RRTPSPRRRRSQSPR,core_capsid,capsid protein,158,172,RRTPSPRRRRSQSPR,NC_003977.2,reference,,1
+1492,REF|core_capsid|start159|RTPSPRRRRSQSPRR,core_capsid,capsid protein,159,173,RTPSPRRRRSQSPRR,NC_003977.2,reference,,1
+1493,REF|core_capsid|start160|TPSPRRRRSQSPRRR,core_capsid,capsid protein,160,174,TPSPRRRRSQSPRRR,NC_003977.2,reference,,1
+1494,REF|core_capsid|start161|PSPRRRRSQSPRRRR,core_capsid,capsid protein,161,175,PSPRRRRSQSPRRRR,NC_003977.2,reference,,1
+1495,REF|core_capsid|start162|SPRRRRSQSPRRRRS,core_capsid,capsid protein,162,176,SPRRRRSQSPRRRRS,NC_003977.2,reference,,1
+1496,REF|core_capsid|start163|PRRRRSQSPRRRRSQ,core_capsid,capsid protein,163,177,PRRRRSQSPRRRRSQ,NC_003977.2,reference,,1
+1497,REF|core_capsid|start164|RRRRSQSPRRRRSQS,core_capsid,capsid protein,164,178,RRRRSQSPRRRRSQS,NC_003977.2,reference,,1
+1498,REF|core_capsid|start165|RRRSQSPRRRRSQSR,core_capsid,capsid protein,165,179,RRRSQSPRRRRSQSR,NC_003977.2,reference,,1
+1499,REF|core_capsid|start166|RRSQSPRRRRSQSRE,core_capsid,capsid protein,166,180,RRSQSPRRRRSQSRE,NC_003977.2,reference,,1
+1500,REF|core_capsid|start167|RSQSPRRRRSQSRES,core_capsid,capsid protein,167,181,RSQSPRRRRSQSRES,NC_003977.2,reference,,1
+1501,REF|core_capsid|start168|SQSPRRRRSQSRESQ,core_capsid,capsid protein,168,182,SQSPRRRRSQSRESQ,NC_003977.2,reference,,1
+1502,REF|core_capsid|start169|QSPRRRRSQSRESQC,core_capsid,capsid protein,169,183,QSPRRRRSQSRESQC,NC_003977.2,reference,,1
