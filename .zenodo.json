@@ -21,7 +21,7 @@
   "access_right": "open",
   "related_identifiers": [
     {
-      "identifier": "https://github.com/[username]/hbv-dq3-public-immunogenomics",
+      "identifier": "https://github.com/llf48/HBV-DQB10301-public-immunogenomics",
       "relation": "isSupplementTo",
       "scheme": "url"
     }

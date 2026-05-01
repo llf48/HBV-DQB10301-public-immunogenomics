@@ -34,8 +34,9 @@ nominates HBV core antigen presentation as a focused target for future
 validation.
 
 All data used in this study are public. The analysis scripts, processed tables,
-figures, and one-step reproduction instructions are prepared for deposition in
-a public GitHub repository and archival Zenodo release before submission. No
+figures, and one-step reproduction instructions are available in a public GitHub
+repository at https://github.com/llf48/HBV-DQB10301-public-immunogenomics, with
+a Zenodo archival release to be added before submission. No
 individual-level human participant data were accessed.
 
 I confirm that this manuscript is original, has not been published previously,

@@ -8,8 +8,7 @@ authors:
 date-released: "2026-05-01"
 version: "1.0.0"
 license: MIT
-repository-code: "https://github.com/[username]/hbv-dq3-public-immunogenomics"
-doi: "10.5281/zenodo.[placeholder]"
+repository-code: "https://github.com/llf48/HBV-DQB10301-public-immunogenomics"
 keywords:
   - hepatitis B virus
   - HLA-DQ
