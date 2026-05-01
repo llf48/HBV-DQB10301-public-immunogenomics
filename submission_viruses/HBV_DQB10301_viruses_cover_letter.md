@@ -36,7 +36,7 @@ validation.
 All data used in this study are public. The analysis scripts, processed tables,
 figures, and one-step reproduction instructions are available in a public GitHub
 repository at https://github.com/llf48/HBV-DQB10301-public-immunogenomics, with
-a Zenodo archival release to be added before submission. No
+a Zenodo archival release at https://doi.org/10.5281/zenodo.19956882. No
 individual-level human participant data were accessed.
 
 I confirm that this manuscript is original, has not been published previously,

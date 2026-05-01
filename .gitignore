@@ -12,4 +12,5 @@ submission/qa_*/
 submission/qa_full_*/
 submission_viruses/qa_*/
 submission_viruses/qa_full_*/
+zenodo_upload/
 *.zip

@@ -51,8 +51,9 @@ The full computational reproduction command list is in
 - Confirm conflicts-of-interest wording.
 - Choose a target journal and adapt abstract/reference/figure style.
 - Deposit scripts, processed tables, and figure sources in a public repository.
-- Replace placeholder repository language in Data Availability and Code
-  Availability after deposition.
+  Completed: https://github.com/llf48/HBV-DQB10301-public-immunogenomics.
+- Archive a frozen release DOI.
+  Completed: https://doi.org/10.5281/zenodo.19956882.
 
 ## Claim Check
 

@@ -81,14 +81,11 @@ The Viruses manuscript now includes the MDPI-style back matter sequence:
 - A one-step reproduction script is provided for Windows PowerShell and Unix
   shell.
 - Environment files are provided as `requirements.txt` and `environment.yml`.
-- GitHub and Zenodo deposition text is provided with placeholders that should be
-  replaced by live URLs and DOI after deposition.
+- GitHub and Zenodo deposition text is provided with live repository and DOI
+  links.
 
 ## Remaining Author-Side Items
 
-- Create the public GitHub repository and Zenodo release.
-- Replace all repository/DOI placeholders in manuscript, `CITATION.cff`,
-  `.zenodo.json`, README, cover letter, and deposition text.
 - Confirm APC/discount status in the Viruses submission system.
 - Submit the prepared full APC waiver request before or at the beginning of the
   submission process.

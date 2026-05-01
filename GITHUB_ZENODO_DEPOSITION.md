@@ -13,7 +13,7 @@ presentation gap across HLA-DQ heterodimers.
 
 ## Suggested GitHub Release Text
 
-Version 1.0.0 accompanies the manuscript "Public HBV genotype B/C core diversity
+Version 1.0.1 accompanies the manuscript "Public HBV genotype B/C core diversity
 reveals an HLA-DQB1*03:01-associated class-II presentation gap". The release
 contains scripts for public NCBI GenBank retrieval, HBV core peptide generation,
 IEDB MHC-II prediction, robustness analysis, IEDB T-cell epitope overlap,
@@ -40,11 +40,11 @@ HBV T-cell epitope records were generated from public IEDB web services. The
 analysis scripts, processed peptide metadata, prediction summaries, figure
 source files, and submission tables are available at
 `https://github.com/llf48/HBV-DQB10301-public-immunogenomics` and archived at
-Zenodo: `https://doi.org/10.5281/zenodo.[placeholder]`.
+Zenodo: `https://doi.org/10.5281/zenodo.19956882`.
 
 ## Code Availability Statement For Manuscript
 
 The complete reproducible workflow is available at
 `https://github.com/llf48/HBV-DQB10301-public-immunogenomics` under the MIT
 License. A frozen release is archived at Zenodo:
-`https://doi.org/10.5281/zenodo.[placeholder]`.
+`https://doi.org/10.5281/zenodo.19956882`.

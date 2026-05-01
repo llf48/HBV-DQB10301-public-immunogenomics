@@ -2,6 +2,8 @@
 
 Use this file if Zenodo GitHub auto-archiving does not generate a DOI.
 
+Published DOI: https://doi.org/10.5281/zenodo.19956882
+
 ## File To Upload
 
 `zenodo_upload/HBV_DQB10301_public_immunogenomics_v1.0.1.zip`

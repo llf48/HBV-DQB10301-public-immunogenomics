@@ -14,6 +14,8 @@ This is a hypothesis-generating computational study. It predicts HLA-DQ
 binding; it does not claim experimental proof of antigen processing, surface
 presentation, CD4 T-cell recognition, or HBV-HCC causality.
 
+Archived release DOI: https://doi.org/10.5281/zenodo.19956882
+
 ## Final Main Analysis
 
 - Public complete-genome GenBank candidates downloaded: 3784.

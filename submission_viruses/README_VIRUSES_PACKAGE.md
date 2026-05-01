@@ -61,11 +61,10 @@ The root project directory contains the public-repository material:
 
 1. Public GitHub repository created:
    `https://github.com/llf48/HBV-DQB10301-public-immunogenomics`.
-2. Make a Zenodo release from the GitHub repository.
-3. Replace the remaining Zenodo DOI placeholders in the manuscript, README,
-   `CITATION.cff` if desired, and deposition text.
-4. Send the full APC waiver request before or at the beginning of submission.
-5. Confirm that the Viruses submission system accepts the uploaded figure
+2. Zenodo archival release created:
+   `https://doi.org/10.5281/zenodo.19956882`.
+3. Send the full APC waiver request before or at the beginning of submission.
+4. Confirm that the Viruses submission system accepts the uploaded figure
    formats and upload graphical abstract separately if requested.
-6. Use `docs/reviewer_prebuttal_viruses.md` to tighten any remaining limitation
+5. Use `docs/reviewer_prebuttal_viruses.md` to tighten any remaining limitation
    wording before submission.

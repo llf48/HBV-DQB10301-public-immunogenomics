@@ -477,8 +477,8 @@ E-utilities. IEDB MHC-II predictions were generated through the public IEDB
 MHC-II API. IEDB human HBV T-cell epitope records were retrieved from the IEDB
 query API. Processed peptide metadata, prediction outputs, summary tables, and
 analysis scripts are available in a public GitHub repository:
-https://github.com/llf48/HBV-DQB10301-public-immunogenomics. A frozen Zenodo
-release DOI should be added before journal submission.
+https://github.com/llf48/HBV-DQB10301-public-immunogenomics. A frozen archived
+release is available at Zenodo: https://doi.org/10.5281/zenodo.19956882.
 
 ## Code Availability
 

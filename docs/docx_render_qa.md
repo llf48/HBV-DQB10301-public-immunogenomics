@@ -30,6 +30,5 @@ Python:
 ## QA Result
 
 The DOCX files rendered successfully with no observed catastrophic layout
-failure in the inspected pages. The manuscript still contains intentional
-placeholders for author names, affiliations, correspondence, author
-contributions, funding, and repository deposition.
+failure in the inspected pages. The Viruses-targeted manuscript and cover
+letter now contain live GitHub and Zenodo DOI links.

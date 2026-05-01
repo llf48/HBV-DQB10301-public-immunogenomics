@@ -1,6 +1,7 @@
 {
   "title": "Public HBV genotype B/C core diversity reveals an HLA-DQB1*03:01-associated class-II presentation gap",
   "upload_type": "software",
+  "version": "v1.0.1",
   "description": "Reproducible public-data immunogenomics workflow for HBV genotype B/C core 15-mer HLA-DQ MHC-II binding prediction, robustness analysis, IEDB epitope overlap, and Viruses-ready submission materials.",
   "creators": [
     {
@@ -24,6 +25,11 @@
       "identifier": "https://github.com/llf48/HBV-DQB10301-public-immunogenomics",
       "relation": "isSupplementTo",
       "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.19956882",
+      "relation": "isIdenticalTo",
+      "scheme": "doi"
     }
   ]
 }

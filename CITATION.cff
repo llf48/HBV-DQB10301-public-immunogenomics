@@ -6,9 +6,10 @@ authors:
     given-names: "Linfeng"
     orcid: "https://orcid.org/0009-0009-2719-4427"
 date-released: "2026-05-01"
-version: "1.0.0"
+version: "1.0.1"
 license: MIT
 repository-code: "https://github.com/llf48/HBV-DQB10301-public-immunogenomics"
+doi: "10.5281/zenodo.19956882"
 keywords:
   - hepatitis B virus
   - HLA-DQ
