@@ -1,8 +1,0 @@
-metric,value
-NCBI complete HBV genotype B/C records retrieved,3784
-QC-passed genotype-labeled core records,1576
-Unique QC-passed accessions,1538
-Unique HBV core 15-mers,11176
-Occurrence-weighted HBV core 15-mer windows,259916
-QC-passed genotype B records,633
-QC-passed genotype C records,943
